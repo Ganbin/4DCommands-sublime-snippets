@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SET HOME PAGE ( ${1:homePage} )]]></content><tabTrigger>web set home page</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SET HOME PAGE ( homePage )</description></snippet>

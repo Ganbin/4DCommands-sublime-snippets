@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB Is empty ( ${1:object} )]]></content><tabTrigger>ob is empty</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB Is empty ( object ) -&gt; Boolean</description></snippet>

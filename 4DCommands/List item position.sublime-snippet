@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[List item position ( {${1:*} ;} ${2:list} ; ${3:itemRef} )]]></content><tabTrigger>list item position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>List item position ( {* ;} list ; itemRef ) -&gt; Longint</description></snippet>

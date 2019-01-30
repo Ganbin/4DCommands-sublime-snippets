@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET MACRO PARAMETER ( ${1:selector} ; ${2:textParam} )]]></content><tabTrigger>set macro parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET MACRO PARAMETER ( selector ; textParam )</description></snippet>

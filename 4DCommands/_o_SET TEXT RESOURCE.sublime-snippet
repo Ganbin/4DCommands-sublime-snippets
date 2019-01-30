@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_SET TEXT RESOURCE ( ${1:resID} ; ${2:resData} {; ${3:resFile}} )]]></content><tabTrigger>_o_set text resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SET TEXT RESOURCE ( resID ; resData {; resFile} )</description></snippet>

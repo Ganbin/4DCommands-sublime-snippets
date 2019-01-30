@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Count menu items ( ${1:menu} {; ${2:process}} )]]></content><tabTrigger>count menu items</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Count menu items ( menu {; process} ) -&gt; Longint</description></snippet>

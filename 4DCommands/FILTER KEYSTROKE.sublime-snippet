@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FILTER KEYSTROKE ( ${1:filteredChar} )]]></content><tabTrigger>filter keystroke</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FILTER KEYSTROKE ( filteredChar )</description></snippet>

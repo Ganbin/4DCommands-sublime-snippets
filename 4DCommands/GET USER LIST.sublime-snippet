@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET USER LIST ( ${1:userNames} ; ${2:userNumbers} )]]></content><tabTrigger>get user list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET USER LIST ( userNames ; userNumbers )</description></snippet>

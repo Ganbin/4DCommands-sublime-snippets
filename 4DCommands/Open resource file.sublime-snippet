@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Open resource file ( ${1:resFilename} {; ${2:fileType}} )]]></content><tabTrigger>open resource file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Open resource file ( resFilename {; fileType} ) -&gt; DocRef</description></snippet>

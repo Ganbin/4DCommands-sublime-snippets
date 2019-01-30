@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL GET LAST ERROR ( ${1:errCode} ; ${2:errText} ; ${3:errODBC} ; ${4:errSQLServer} )]]></content><tabTrigger>sql get last error</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SQL GET LAST ERROR ( errCode ; errText ; errODBC ; errSQLServer )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET ROW COLOR ( {${1:*} ;} ${2:object} ; ${3:row} ; ${4:color} {; ${5:colorType}} )]]></content><tabTrigger>listbox set row color</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET ROW COLOR ( {* ;} object ; row ; color {; colorType} )</description></snippet>

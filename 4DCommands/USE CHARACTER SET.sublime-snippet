@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[USE CHARACTER SET ( ${1:map} {; ${2:mapInOut}} )]]></content><tabTrigger>use character set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>USE CHARACTER SET ( map {; mapInOut} )</description></snippet>

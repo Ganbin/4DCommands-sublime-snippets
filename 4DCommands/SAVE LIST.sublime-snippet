@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAVE LIST ( ${1:list} ; ${2:listName} )]]></content><tabTrigger>save list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAVE LIST ( list ; listName )</description></snippet>

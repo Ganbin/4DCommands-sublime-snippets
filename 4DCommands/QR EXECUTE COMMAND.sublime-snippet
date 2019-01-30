@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR EXECUTE COMMAND ( ${1:area} ; ${2:command} )]]></content><tabTrigger>qr execute command</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR EXECUTE COMMAND ( area ; command )</description></snippet>

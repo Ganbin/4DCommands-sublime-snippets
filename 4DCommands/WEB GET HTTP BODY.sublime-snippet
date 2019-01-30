@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB GET HTTP BODY ( ${1:body} )]]></content><tabTrigger>web get http body</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB GET HTTP BODY ( body )</description></snippet>

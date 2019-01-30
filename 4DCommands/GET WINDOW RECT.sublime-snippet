@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET WINDOW RECT ( ${1:left} ; ${2:top} ; ${3:right} ; ${4:bottom} {; ${5:window}} )]]></content><tabTrigger>get window rect</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET WINDOW RECT ( left ; top ; right ; bottom {; window} )</description></snippet>

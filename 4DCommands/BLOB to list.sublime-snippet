@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB to list ( ${1:blob} {; ${2:offset}} )]]></content><tabTrigger>blob to list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB to list ( blob {; offset} ) -&gt; ListRef</description></snippet>

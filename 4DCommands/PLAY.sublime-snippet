@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PLAY ( ${1:objectName} {; ${2:async}} )]]></content><tabTrigger>play</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PLAY ( objectName {; async} )</description></snippet>

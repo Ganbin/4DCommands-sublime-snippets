@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ALERT ( ${1:message} {; ${2:okButtonTitle}} )]]></content><tabTrigger>alert</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ALERT ( message {; okButtonTitle} )</description></snippet>

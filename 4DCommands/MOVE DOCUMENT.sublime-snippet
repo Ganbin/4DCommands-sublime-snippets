@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MOVE DOCUMENT ( ${1:srcPathname} ; ${2:dstPathname} )]]></content><tabTrigger>move document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>MOVE DOCUMENT ( srcPathname ; dstPathname )</description></snippet>

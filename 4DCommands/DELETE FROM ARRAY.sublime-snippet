@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE FROM ARRAY ( ${1:array} ; ${2:where} {; ${3:howMany}} )]]></content><tabTrigger>delete from array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE FROM ARRAY ( array ; where {; howMany} )</description></snippet>

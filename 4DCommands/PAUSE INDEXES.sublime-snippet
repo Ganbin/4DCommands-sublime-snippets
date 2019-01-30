@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PAUSE INDEXES ( ${1:aTable} )]]></content><tabTrigger>pause indexes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PAUSE INDEXES ( aTable )</description></snippet>

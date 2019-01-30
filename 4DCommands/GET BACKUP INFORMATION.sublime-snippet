@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET BACKUP INFORMATION ( ${1:selector} ; ${2:info1} ; ${3:info2} )]]></content><tabTrigger>get backup information</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET BACKUP INFORMATION ( selector ; info1 ; info2 )</description></snippet>

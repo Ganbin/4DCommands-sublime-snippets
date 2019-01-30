@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SCREEN COORDINATES ( ${1:left} ; ${2:top} ; ${3:right} ; ${4:bottom} {; ${5:screen}} )]]></content><tabTrigger>screen coordinates</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SCREEN COORDINATES ( left ; top ; right ; bottom {; screen} )</description></snippet>

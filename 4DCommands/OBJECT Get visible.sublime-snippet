@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get visible ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object get visible</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get visible ( {* ;} object ) -&gt; Boolean</description></snippet>

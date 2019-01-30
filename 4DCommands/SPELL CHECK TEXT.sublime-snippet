@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SPELL CHECK TEXT ( ${1:text} ; ${2:errPos} ; ${3:errLength} ; ${4:checkPos} ; ${5:arrSuggest} )]]></content><tabTrigger>spell check text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SPELL CHECK TEXT ( text ; errPos ; errLength ; checkPos ; arrSuggest )</description></snippet>

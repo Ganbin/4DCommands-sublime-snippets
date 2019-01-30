@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is table number valid ( ${1:tableNum} )]]></content><tabTrigger>is table number valid</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is table number valid ( tableNum ) -&gt; Boolean</description></snippet>

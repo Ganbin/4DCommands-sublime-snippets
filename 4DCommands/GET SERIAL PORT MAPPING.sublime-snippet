@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET SERIAL PORT MAPPING ( ${1:numArray} ; ${2:nameArray} )]]></content><tabTrigger>get serial port mapping</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET SERIAL PORT MAPPING ( numArray ; nameArray )</description></snippet>

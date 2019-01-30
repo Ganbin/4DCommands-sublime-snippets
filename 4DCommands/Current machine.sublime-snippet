@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Current machine]]></content><tabTrigger>current machine</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Current machine  -&gt; String</description></snippet>

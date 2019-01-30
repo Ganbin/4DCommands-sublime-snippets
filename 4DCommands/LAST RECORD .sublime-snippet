@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LAST RECORD  ( ${1:aTable} )]]></content><tabTrigger>last record </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LAST RECORD {( aTable )}</description></snippet>

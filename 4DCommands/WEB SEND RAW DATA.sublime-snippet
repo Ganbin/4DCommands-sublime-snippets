@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SEND RAW DATA ( ${1:data} {; ${2:*}} )]]></content><tabTrigger>web send raw data</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SEND RAW DATA ( data {; *} )</description></snippet>

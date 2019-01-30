@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Window process  ( ${1:window} )]]></content><tabTrigger>window process </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Window process {( window )} -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB GET SESSION EXPIRATION ( ${1:sessionID} ; ${2:expDate} ; ${3:expTime} )]]></content><tabTrigger>web get session expiration</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB GET SESSION EXPIRATION ( sessionID ; expDate ; expTime )</description></snippet>

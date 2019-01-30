@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET DRAG ICON ( ${1:icon} {; ${2:horOffset} {; ${3:vertOffset}}} )]]></content><tabTrigger>set drag icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET DRAG ICON ( icon {; horOffset {; vertOffset}} )</description></snippet>

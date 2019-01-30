@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RELEASE MENU ( ${1:menu} )]]></content><tabTrigger>release menu</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RELEASE MENU ( menu )</description></snippet>

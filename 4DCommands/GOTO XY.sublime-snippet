@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GOTO XY ( ${1:x} ; ${2:y} )]]></content><tabTrigger>goto xy</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GOTO XY ( x ; y )</description></snippet>

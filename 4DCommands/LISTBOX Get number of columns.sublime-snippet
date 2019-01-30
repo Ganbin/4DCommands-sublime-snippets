@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get number of columns ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>listbox get number of columns</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get number of columns ( {* ;} object ) -&gt; Longint</description></snippet>

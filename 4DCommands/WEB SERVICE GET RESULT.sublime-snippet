@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SERVICE GET RESULT ( ${1:returnValue} {; ${2:returnName} {; ${3:*}}} )]]></content><tabTrigger>web service get result</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SERVICE GET RESULT ( returnValue {; returnName {; *}} )</description></snippet>

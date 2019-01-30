@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Select folder ( {${1:message} }{;}{ ${2:defaultPath} {; ${3:options}}} )]]></content><tabTrigger>select folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Select folder ( {message }{;}{ defaultPath {; options}} ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EXECUTE METHOD ( ${1:methodName} {; ${2:result} {; ${3:param}}}{; ${4:param2} ; ${5:...} ; ${6:paramN}} )]]></content><tabTrigger>execute method</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXECUTE METHOD ( methodName {; result {; param}}{; param2 ; ... ; paramN} )</description></snippet>

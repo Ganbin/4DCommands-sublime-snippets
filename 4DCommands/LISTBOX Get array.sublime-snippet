@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get array ( {${1:*} ;} ${2:object} ; ${3:arrType} )]]></content><tabTrigger>listbox get array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get array ( {* ;} object ; arrType ) -&gt; Pointer</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Process state ( ${1:process} )]]></content><tabTrigger>process state</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Process state ( process ) -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_Document type ( ${1:document} )]]></content><tabTrigger>_o_document type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Document type ( document ) -&gt; String</description></snippet>

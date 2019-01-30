@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE SET ( {${1:aTable} ;} ${2:set} )]]></content><tabTrigger>create set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE SET ( {aTable ;} set )</description></snippet>

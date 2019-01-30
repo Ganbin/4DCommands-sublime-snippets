@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX ADD XML DOCTYPE ( ${1:document} ; ${2:docType} )]]></content><tabTrigger>sax add xml doctype</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX ADD XML DOCTYPE ( document ; docType )</description></snippet>

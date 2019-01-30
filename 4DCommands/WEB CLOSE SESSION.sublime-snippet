@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB CLOSE SESSION ( ${1:sessionID} )]]></content><tabTrigger>web close session</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB CLOSE SESSION ( sessionID )</description></snippet>

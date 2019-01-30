@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX CLOSE XML ELEMENT ( ${1:document} )]]></content><tabTrigger>sax close xml element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX CLOSE XML ELEMENT ( document )</description></snippet>

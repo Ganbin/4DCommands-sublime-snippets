@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HTTP GET OPTION ( ${1:option} ; ${2:value} )]]></content><tabTrigger>http get option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HTTP GET OPTION ( option ; value )</description></snippet>

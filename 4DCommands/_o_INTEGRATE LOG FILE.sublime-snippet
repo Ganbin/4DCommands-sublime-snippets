@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_INTEGRATE LOG FILE ( ${1:pathName} )]]></content><tabTrigger>_o_integrate log file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_INTEGRATE LOG FILE ( pathName )</description></snippet>

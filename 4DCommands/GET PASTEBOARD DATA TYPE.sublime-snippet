@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PASTEBOARD DATA TYPE ( ${1:4Dsignatures} ; ${2:nativeTypes} {; ${3:formatNames}} )]]></content><tabTrigger>get pasteboard data type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PASTEBOARD DATA TYPE ( 4Dsignatures ; nativeTypes {; formatNames} )</description></snippet>

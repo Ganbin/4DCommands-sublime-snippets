@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_REDRAW LIST ( ${1:list} )]]></content><tabTrigger>_o_redraw list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_REDRAW LIST ( list )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Open document ( ${1:document} {; ${2:fileType}}{; ${3:mode}} )]]></content><tabTrigger>open document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Open document ( document {; fileType}{; mode} ) -&gt; DocRef</description></snippet>

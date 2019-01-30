@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Dynamic pop up menu ( ${1:menu} {; ${2:default} {; ${3:xCoord} ; ${4:yCoord}}} )]]></content><tabTrigger>dynamic pop up menu</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Dynamic pop up menu ( menu {; default {; xCoord ; yCoord}} )  -&gt; String</description></snippet>

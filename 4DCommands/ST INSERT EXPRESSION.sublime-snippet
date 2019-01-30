@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST INSERT EXPRESSION ( {${1:*} ;} ${2:object} ; ${3:expression} {; ${4:startSel} {; ${5:endSel}}} )]]></content><tabTrigger>st insert expression</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST INSERT EXPRESSION ( {* ;} object ; expression {; startSel {; endSel}} )</description></snippet>

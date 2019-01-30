@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GOTO OBJECT ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>goto object</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GOTO OBJECT ( {* ;} object )</description></snippet>

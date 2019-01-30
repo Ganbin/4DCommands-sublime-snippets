@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get name  ( ${1:selector} )]]></content><tabTrigger>object get name </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get name {( selector )} -&gt; Text</description></snippet>

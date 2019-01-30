@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL EXECUTE ( ${1:sqlStatement} {; ${2:boundObj}}{; ${3:boundObj2} ; ${4:...} ; ${5:boundObjN}} )]]></content><tabTrigger>sql execute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SQL EXECUTE ( sqlStatement {; boundObj}{; boundObj2 ; ... ; boundObjN} ) </description></snippet>

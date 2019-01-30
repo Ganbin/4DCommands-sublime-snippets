@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET REAL COMPARISON LEVEL ( ${1:epsilon} )]]></content><tabTrigger>set real comparison level</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET REAL COMPARISON LEVEL ( epsilon )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[APPEND TO ARRAY ( ${1:array} ; ${2:value} )]]></content><tabTrigger>append to array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>APPEND TO ARRAY ( array ; value )</description></snippet>

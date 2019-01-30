@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Euro converter ( ${1:value} ; ${2:fromCurrency} ; ${3:toCurrency} )]]></content><tabTrigger>euro converter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Euro converter ( value ; fromCurrency ; toCurrency ) -&gt; Real</description></snippet>

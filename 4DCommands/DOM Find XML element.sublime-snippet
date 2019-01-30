@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Find XML element ( ${1:elementRef} ; ${2:xPath} {; ${3:arrElementRefs}} )]]></content><tabTrigger>dom find xml element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Find XML element ( elementRef ; xPath {; arrElementRefs} ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE FROM BLOB ( ${1:blob} ; ${2:offset} ; ${3:len} )]]></content><tabTrigger>delete from blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE FROM BLOB ( blob ; offset ; len )</description></snippet>

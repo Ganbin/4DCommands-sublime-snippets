@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get action info ( ${1:action} {; ${2:target}} )]]></content><tabTrigger>get action info</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get action info ( action {; target} ) -&gt; Object</description></snippet>

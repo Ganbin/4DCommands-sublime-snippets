@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OLD RELATED ONE ( ${1:aField} )]]></content><tabTrigger>old related one</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OLD RELATED ONE ( aField )</description></snippet>

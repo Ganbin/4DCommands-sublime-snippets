@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PICTURE FROM PASTEBOARD ( ${1:picture} )]]></content><tabTrigger>get picture from pasteboard</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE FROM PASTEBOARD ( picture )</description></snippet>

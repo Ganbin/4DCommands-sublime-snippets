@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[COMPRESS BLOB ( ${1:blob} {; ${2:compression}} )]]></content><tabTrigger>compress blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>COMPRESS BLOB ( blob {; compression} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EDIT ITEM ( {${1:*} ;} ${2:object} {; ${3:item}} )]]></content><tabTrigger>edit item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EDIT ITEM ( {* ;} object {; item} )</description></snippet>

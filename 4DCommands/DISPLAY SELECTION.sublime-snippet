@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DISPLAY SELECTION ( {${1:aTable}}{; ${2:selectMode}}{; ${3:enterList}}{; ${4:${5:*}}}{; *} )]]></content><tabTrigger>display selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DISPLAY SELECTION ( {aTable}{; selectMode}{; enterList}{; *}{; *} )</description></snippet>

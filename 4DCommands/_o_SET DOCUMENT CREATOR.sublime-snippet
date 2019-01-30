@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_SET DOCUMENT CREATOR ( ${1:document} ; ${2:fileCreator} )]]></content><tabTrigger>_o_set document creator</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SET DOCUMENT CREATOR ( document ; fileCreator )</description></snippet>

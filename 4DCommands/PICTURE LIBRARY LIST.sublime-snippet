@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PICTURE LIBRARY LIST ( ${1:picRefs} ; ${2:picNames} )]]></content><tabTrigger>picture library list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PICTURE LIBRARY LIST ( picRefs ; picNames )</description></snippet>

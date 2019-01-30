@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Generate UUI]]></content><tabTrigger>generate uui</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Generate UUID -&gt; String</description></snippet>

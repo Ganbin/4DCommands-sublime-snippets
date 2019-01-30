@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Parse XML variable ( ${1:variable} {; ${2:validation} {; ${3:dtd | schema}}} )]]></content><tabTrigger>dom parse xml variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Parse XML variable ( variable {; validation {; dtd | schema}} ) -&gt; String</description></snippet>

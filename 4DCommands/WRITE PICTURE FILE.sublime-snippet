@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WRITE PICTURE FILE ( ${1:fileName} ; ${2:picture} {; ${3:codec}} )]]></content><tabTrigger>write picture file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WRITE PICTURE FILE ( fileName ; picture {; codec} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SELECT BREAK ( {${1:*} ;} ${2:object} ; ${3:row} ; ${4:column} {; ${5:action}} )]]></content><tabTrigger>listbox select break</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SELECT BREAK ( {* ;} object ; row ; column {; action} )</description></snippet>

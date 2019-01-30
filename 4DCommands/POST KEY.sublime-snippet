@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[POST KEY ( ${1:code} {; ${2:modifiers} {; ${3:process}}} )]]></content><tabTrigger>post key</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>POST KEY ( code {; modifiers {; process}} )</description></snippet>

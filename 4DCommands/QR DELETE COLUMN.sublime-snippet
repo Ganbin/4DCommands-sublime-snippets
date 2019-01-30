@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR DELETE COLUMN ( ${1:area} ; ${2:colNumber} )]]></content><tabTrigger>qr delete column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR DELETE COLUMN ( area ; colNumber )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAVE SET ( ${1:set} ; ${2:document} )]]></content><tabTrigger>save set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAVE SET ( set ; document )</description></snippet>

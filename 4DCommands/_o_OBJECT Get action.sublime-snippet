@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_OBJECT Get action ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>_o_object get action</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_OBJECT Get action ( {* ;} object ) -&gt; Text</description></snippet>

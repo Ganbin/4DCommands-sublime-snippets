@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SET ROOT FOLDER ( ${1:rootFolder} )]]></content><tabTrigger>web set root folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SET ROOT FOLDER ( rootFolder )</description></snippet>

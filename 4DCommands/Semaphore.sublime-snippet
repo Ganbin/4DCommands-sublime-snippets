@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Semaphore ( ${1:semaphore} {; ${2:tickCount}} )]]></content><tabTrigger>semaphore</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Semaphore ( semaphore {; tickCount} ) -&gt; Boolean</description></snippet>

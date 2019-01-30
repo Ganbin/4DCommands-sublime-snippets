@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[APPEND TO LIST ( ${1:list} ; ${2:itemText} ; ${3:itemRef} {; ${4:sublist} ; ${5:expanded}} )]]></content><tabTrigger>append to list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>APPEND TO LIST ( list ; itemText ; itemRef {; sublist ; expanded} )</description></snippet>

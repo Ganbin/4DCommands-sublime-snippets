@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB Copy ( ${1:object} {; ${2:resolvePtrs}} )]]></content><tabTrigger>ob copy</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB Copy ( object {; resolvePtrs} ) -&gt; Object</description></snippet>

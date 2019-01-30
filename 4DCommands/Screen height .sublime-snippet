@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Screen height  ( ${1:*} )]]></content><tabTrigger>screen height </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Screen height {( * )} -&gt; Longint</description></snippet>

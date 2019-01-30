@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR SET INFO ROW ( ${1:area} ; ${2:row} ; ${3:hide} )]]></content><tabTrigger>qr set info row</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR SET INFO ROW ( area ; row ; hide )</description></snippet>

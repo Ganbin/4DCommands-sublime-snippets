@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Sum squares ( ${1:series} )]]></content><tabTrigger>sum squares</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Sum squares ( series ) -&gt; Real</description></snippet>

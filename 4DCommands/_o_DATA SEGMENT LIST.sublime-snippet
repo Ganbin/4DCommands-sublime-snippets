@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_DATA SEGMENT LIST ( ${1:segments} )]]></content><tabTrigger>_o_data segment list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_DATA SEGMENT LIST ( segments )</description></snippet>

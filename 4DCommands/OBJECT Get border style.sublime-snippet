@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get border style ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object get border style</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get border style ( {* ;} object ) -&gt; Longint</description></snippet>

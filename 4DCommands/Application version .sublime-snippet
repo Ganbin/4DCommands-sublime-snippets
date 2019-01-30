@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Application version  ( ${1:buildNum} {; ${2:*}} )]]></content><tabTrigger>application version </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Application version {( buildNum {; *} )} -&gt; String</description></snippet>

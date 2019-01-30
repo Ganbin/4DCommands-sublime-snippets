@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM CLOSE XML ( ${1:elementRef} )]]></content><tabTrigger>dom close xml</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM CLOSE XML ( elementRef )</description></snippet>

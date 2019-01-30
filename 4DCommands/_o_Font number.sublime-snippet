@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_Font number ( ${1:fontName} )]]></content><tabTrigger>_o_font number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Font number ( fontName ) -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Find in field ( ${1:targetField} ; ${2:value} )]]></content><tabTrigger>find in field</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Find in field ( targetField ; value ) -&gt; Longint</description></snippet>

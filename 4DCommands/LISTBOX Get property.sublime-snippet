@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get property ( {${1:*} ;} ${2:object} ; ${3:property} )]]></content><tabTrigger>listbox get property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get property ( {* ;} object ; property ) -&gt; Longint, String</description></snippet>

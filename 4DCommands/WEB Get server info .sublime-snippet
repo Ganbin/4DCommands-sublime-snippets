@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB Get server info  ( ${1:withCache} )]]></content><tabTrigger>web get server info </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB Get server info {( withCache )} -&gt; Object</description></snippet>

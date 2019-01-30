@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REGENERATE MISSING TABLE ( ${1:tableName} )]]></content><tabTrigger>regenerate missing table</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>REGENERATE MISSING TABLE ( tableName )</description></snippet>

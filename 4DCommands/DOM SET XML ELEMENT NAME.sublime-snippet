@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM SET XML ELEMENT NAME ( ${1:elementRef} ; ${2:elementName} )]]></content><tabTrigger>dom set xml element name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM SET XML ELEMENT NAME ( elementRef ; elementName )</description></snippet>

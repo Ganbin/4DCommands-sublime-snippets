@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE ALIAS ( ${1:targetPath} ; ${2:aliasPath} )]]></content><tabTrigger>create alias</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE ALIAS ( targetPath ; aliasPath )</description></snippet>

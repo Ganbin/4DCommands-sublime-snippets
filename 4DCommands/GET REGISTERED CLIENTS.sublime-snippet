@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET REGISTERED CLIENTS ( ${1:clientList} ; ${2:methods} )]]></content><tabTrigger>get registered clients</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET REGISTERED CLIENTS ( clientList ; methods )</description></snippet>

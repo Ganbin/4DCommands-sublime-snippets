@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET MISSING TABLE NAMES ( ${1:missingTables} )]]></content><tabTrigger>get missing table names</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET MISSING TABLE NAMES ( missingTables )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[READ PICTURE FILE ( ${1:fileName} ; ${2:picture} {; ${3:*}} )]]></content><tabTrigger>read picture file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>READ PICTURE FILE ( fileName ; picture {; *} )</description></snippet>

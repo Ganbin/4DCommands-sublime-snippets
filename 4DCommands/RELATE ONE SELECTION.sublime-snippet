@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RELATE ONE SELECTION ( ${1:manyTable} ; ${2:oneTable} )]]></content><tabTrigger>relate one selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RELATE ONE SELECTION ( manyTable ; oneTable )</description></snippet>

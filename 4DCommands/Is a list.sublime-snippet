@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is a list ( ${1:list} )]]></content><tabTrigger>is a list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is a list ( list ) -&gt; Boolean</description></snippet>

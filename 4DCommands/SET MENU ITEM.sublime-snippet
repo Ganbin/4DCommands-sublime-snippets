@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET MENU ITEM ( ${1:menu} ; ${2:menuItem} ; ${3:itemText} {; ${4:process}}{; ${5:*}} )]]></content><tabTrigger>set menu item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET MENU ITEM ( menu ; menuItem ; itemText {; process}{; *} )</description></snippet>

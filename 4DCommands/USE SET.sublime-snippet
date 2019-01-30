@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[USE SET ( ${1:set} )]]></content><tabTrigger>use set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>USE SET ( set )</description></snippet>

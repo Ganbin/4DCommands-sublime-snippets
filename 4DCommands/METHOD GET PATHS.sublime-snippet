@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD GET PATHS ( {${1:folderName} ;} ${2:methodType} ; ${3:arrPaths} {; ${4:stamp}}{; ${5:*}} )]]></content><tabTrigger>method get paths</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET PATHS ( {folderName ;} methodType ; arrPaths {; stamp}{; *} )</description></snippet>

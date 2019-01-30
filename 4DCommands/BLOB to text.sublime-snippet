@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB to text ( ${1:blob} ; ${2:textFormat} {; ${3:offset} {; ${4:textLength}}} )]]></content><tabTrigger>blob to text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB to text ( blob ; textFormat {; offset {; textLength}} )  -&gt; Text</description></snippet>

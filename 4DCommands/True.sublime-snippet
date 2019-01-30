@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[True]]></content><tabTrigger>true</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>True  -&gt; Boolean</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Get XML document ref ( ${1:elementRef} )]]></content><tabTrigger>dom get xml document ref</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Get XML document ref ( elementRef ) -&gt; Text</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET FIELD RELATION ( ${1:${3:many}Field} ; ${2:one} ; many {; ${4:*}} )]]></content><tabTrigger>get field relation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET FIELD RELATION ( manyField ; one ; many {; *} ) </description></snippet>

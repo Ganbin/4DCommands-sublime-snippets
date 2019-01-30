@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SPELL SET CURRENT DICTIONARY ( ${1:dictionary} )]]></content><tabTrigger>spell set current dictionary</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SPELL SET CURRENT DICTIONARY ( dictionary )</description></snippet>

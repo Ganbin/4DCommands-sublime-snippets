@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOCUMENT LIST ( ${1:pathname} ; ${2:documents} {; ${3:options}} )]]></content><tabTrigger>document list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOCUMENT LIST ( pathname ; documents {; options} )</description></snippet>

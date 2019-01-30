@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Records in table  ( ${1:aTable} )]]></content><tabTrigger>records in table </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Records in table {( aTable )} -&gt; Longint</description></snippet>

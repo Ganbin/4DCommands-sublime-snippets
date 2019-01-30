@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get menu item modifiers ( ${1:menu} ; ${2:menuItem} {; ${3:process}} )]]></content><tabTrigger>get menu item modifiers</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get menu item modifiers ( menu ; menuItem {; process} ) -&gt; Longint</description></snippet>

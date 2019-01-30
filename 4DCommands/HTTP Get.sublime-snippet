@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HTTP Get ( ${1:url} ; ${2:response} {; ${3:headerNames} ; ${4:headerValues}}{; ${5:*}} )]]></content><tabTrigger>http get</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HTTP Get ( url ; response {; headerNames ; headerValues}{; *} ) -&gt; Longint</description></snippet>

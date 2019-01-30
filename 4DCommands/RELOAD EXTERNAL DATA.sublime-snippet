@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RELOAD EXTERNAL DATA ( ${1:aField} )]]></content><tabTrigger>reload external data</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RELOAD EXTERNAL DATA ( aField )</description></snippet>

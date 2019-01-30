@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE INDEX ( ${1:fieldPtr | indexName} {; ${2:*}} )]]></content><tabTrigger>delete index</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE INDEX ( fieldPtr | indexName {; *} )</description></snippet>

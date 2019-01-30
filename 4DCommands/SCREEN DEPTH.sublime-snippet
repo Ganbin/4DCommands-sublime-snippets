@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SCREEN DEPTH ( ${1:depth} ; ${2:color} {; ${3:screen}} )]]></content><tabTrigger>screen depth</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SCREEN DEPTH ( depth ; color {; screen} )</description></snippet>

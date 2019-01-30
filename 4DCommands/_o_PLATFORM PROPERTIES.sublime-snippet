@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_PLATFORM PROPERTIES ( ${1:platform} {; ${2:system} {; ${3:processor} {; ${4:language}}}} )]]></content><tabTrigger>_o_platform properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_PLATFORM PROPERTIES ( platform {; system {; processor {; language}}} ) </description></snippet>

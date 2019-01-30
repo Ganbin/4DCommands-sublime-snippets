@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR GET SORTS ( ${1:area} ; ${2:aColumns} ; ${3:aOrders} )]]></content><tabTrigger>qr get sorts</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR GET SORTS ( area ; aColumns ; aOrders )</description></snippet>

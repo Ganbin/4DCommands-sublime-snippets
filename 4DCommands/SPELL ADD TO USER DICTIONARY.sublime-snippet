@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SPELL ADD TO USER DICTIONARY ( ${1:words} )]]></content><tabTrigger>spell add to user dictionary</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SPELL ADD TO USER DICTIONARY ( words )</description></snippet>

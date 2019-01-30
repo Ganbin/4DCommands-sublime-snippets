@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM GET XML CHILD NODES ( ${1:elementRef} ; ${2:childTypesArr} ; ${3:nodeRefsArr} )]]></content><tabTrigger>dom get xml child nodes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM GET XML CHILD NODES ( elementRef ; childTypesArr ; nodeRefsArr )</description></snippet>

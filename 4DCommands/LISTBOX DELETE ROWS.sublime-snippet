@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX DELETE ROWS ( {${1:*} ;} ${2:object} ; ${3:rowPosition} {; ${4:numRows}} )]]></content><tabTrigger>listbox delete rows</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX DELETE ROWS ( {* ;} object ; rowPosition {; numRows} ) </description></snippet>

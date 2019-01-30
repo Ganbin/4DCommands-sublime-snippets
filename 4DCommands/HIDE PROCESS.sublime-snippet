@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HIDE PROCESS ( ${1:process} )]]></content><tabTrigger>hide process</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HIDE PROCESS ( process )</description></snippet>

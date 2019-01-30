@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD SET ATTRIBUTES ( ${1:path} ; ${2:attributes} {; ${3:*}} )]]></content><tabTrigger>method set attributes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD SET ATTRIBUTES ( path ; attributes {; *} )</description></snippet>

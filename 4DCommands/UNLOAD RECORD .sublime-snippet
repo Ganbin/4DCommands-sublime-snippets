@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[UNLOAD RECORD  ( ${1:aTable} )]]></content><tabTrigger>unload record </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>UNLOAD RECORD {( aTable )}</description></snippet>

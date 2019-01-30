@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DECRYPT BLOB ( ${1:toDecrypt} ; ${2:sendPubKey} {; ${3:recipPrivKey}} )]]></content><tabTrigger>decrypt blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DECRYPT BLOB ( toDecrypt ; sendPubKey {; recipPrivKey} )</description></snippet>

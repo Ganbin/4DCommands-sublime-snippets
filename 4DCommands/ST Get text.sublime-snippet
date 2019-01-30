@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST Get text ( {${1:*} ;} ${2:object} {; ${3:startSel} {; ${4:endSel}}} )]]></content><tabTrigger>st get text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST Get text ( {* ;} object {; startSel {; endSel}} )  -&gt; Text</description></snippet>

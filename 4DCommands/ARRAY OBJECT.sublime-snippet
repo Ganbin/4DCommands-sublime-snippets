@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY OBJECT ( ${1:arrayName} ; ${2:size} {; ${3:size2}} )]]></content><tabTrigger>array object</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY OBJECT ( arrayName ; size {; size2} )</description></snippet>

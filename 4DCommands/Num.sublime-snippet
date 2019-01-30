@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Num ( ${1:expression} {; ${2:separator}} )]]></content><tabTrigger>num</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Num ( expression {; separator} ) -&gt; Real</description></snippet>

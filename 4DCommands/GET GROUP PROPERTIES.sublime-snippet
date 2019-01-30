@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET GROUP PROPERTIES ( ${1:groupID} ; ${2:name} ; ${3:owner} {; ${4:members}} )]]></content><tabTrigger>get group properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET GROUP PROPERTIES ( groupID ; name ; owner {; members} ) </description></snippet>

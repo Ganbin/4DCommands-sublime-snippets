@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LOAD SET ( {${1:aTable} ;} ${2:set} ; ${3:document} )]]></content><tabTrigger>load set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LOAD SET ( {aTable ;} set ; document )</description></snippet>

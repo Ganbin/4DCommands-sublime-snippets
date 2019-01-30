@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get font size ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object get font size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get font size ( {* ;} object ) -&gt; Longint</description></snippet>

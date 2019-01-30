@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY INTEGER ( ${1:arrayName} ; ${2:size} {; ${3:size2}} )]]></content><tabTrigger>array integer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY INTEGER ( arrayName ; size {; size2} )</description></snippet>

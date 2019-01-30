@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Year of ( ${1:date} )]]></content><tabTrigger>year of</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Year of ( date ) -&gt; Longint</description></snippet>

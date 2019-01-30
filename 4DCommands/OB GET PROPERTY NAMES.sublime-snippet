@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB GET PROPERTY NAMES ( ${1:object} ; ${2:arrProperties} {; ${3:arrTypes}} )]]></content><tabTrigger>ob get property names</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB GET PROPERTY NAMES ( object ; arrProperties {; arrTypes} )</description></snippet>

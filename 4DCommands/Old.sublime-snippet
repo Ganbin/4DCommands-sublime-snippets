@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Old ( ${1:aField} )]]></content><tabTrigger>old</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Old ( aField ) -&gt; Expression</description></snippet>

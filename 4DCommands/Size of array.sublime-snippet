@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Size of array ( ${1:array} )]]></content><tabTrigger>size of array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Size of array ( array ) -&gt; Longint</description></snippet>

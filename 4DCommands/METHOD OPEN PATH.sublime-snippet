@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD OPEN PATH ( ${1:path} {; ${2:*}} )]]></content><tabTrigger>method open path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD OPEN PATH ( path {; *} )</description></snippet>

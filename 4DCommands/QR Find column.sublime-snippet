@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Find column ( ${1:area} ; ${2:expression} )]]></content><tabTrigger>qr find column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Find column ( area ; expression ) -&gt; Longint</description></snippet>

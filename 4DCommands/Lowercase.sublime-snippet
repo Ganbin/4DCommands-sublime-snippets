@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Lowercase ( ${1:aString} {; ${2:*}} )]]></content><tabTrigger>lowercase</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Lowercase ( aString {; *} ) -&gt; String</description></snippet>

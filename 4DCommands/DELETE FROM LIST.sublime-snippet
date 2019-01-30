@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE FROM LIST ( {${1:${4:*}} ;} ${2:list} ; ${3:itemRef | *} {; *} )]]></content><tabTrigger>delete from list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE FROM LIST ( {* ;} list ; itemRef | * {; *} ) </description></snippet>

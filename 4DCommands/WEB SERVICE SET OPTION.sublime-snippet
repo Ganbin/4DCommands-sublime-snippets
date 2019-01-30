@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SERVICE SET OPTION ( ${1:option} ; ${2:value} )]]></content><tabTrigger>web service set option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SERVICE SET OPTION ( option ; value )</description></snippet>

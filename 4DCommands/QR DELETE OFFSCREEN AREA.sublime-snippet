@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR DELETE OFFSCREEN AREA ( ${1:area} )]]></content><tabTrigger>qr delete offscreen area</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR DELETE OFFSCREEN AREA ( area )</description></snippet>

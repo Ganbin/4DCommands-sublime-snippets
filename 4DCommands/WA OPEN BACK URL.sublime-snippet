@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA OPEN BACK URL ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>wa open back url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA OPEN BACK URL ( {* ;} object )</description></snippet>

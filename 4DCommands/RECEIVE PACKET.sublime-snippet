@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RECEIVE PACKET ( {${1:docRef} ;} ${2:receiveVar} ; ${3:stopChar | numBytes} )]]></content><tabTrigger>receive packet</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RECEIVE PACKET ( {docRef ;} receiveVar ; stopChar | numBytes )</description></snippet>

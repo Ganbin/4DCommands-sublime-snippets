@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get headers height ( {${1:*} ;} ${2:object} {; ${3:unit}} )]]></content><tabTrigger>listbox get headers height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get headers height ( {* ;} object {; unit} ) -&gt; Longint</description></snippet>

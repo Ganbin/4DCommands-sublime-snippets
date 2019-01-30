@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PICTURE TO LIBRARY ( ${1:picture} ; ${2:picRef} ; ${3:picName} )]]></content><tabTrigger>set picture to library</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET PICTURE TO LIBRARY ( picture ; picRef ; picName )</description></snippet>

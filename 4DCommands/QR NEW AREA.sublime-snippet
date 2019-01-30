@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR NEW AREA ( ${1:ptr} )]]></content><tabTrigger>qr new area</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR NEW AREA ( ptr )</description></snippet>

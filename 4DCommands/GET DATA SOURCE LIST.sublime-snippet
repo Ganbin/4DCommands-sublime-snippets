@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET DATA SOURCE LIST ( ${1:sourceType} ; ${2:sourceNamesArr} ; ${3:driversArr} )]]></content><tabTrigger>get data source list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET DATA SOURCE LIST ( sourceType ; sourceNamesArr ; driversArr )</description></snippet>

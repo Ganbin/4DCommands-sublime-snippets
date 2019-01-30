@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[IMPORT DIF ( {${1:aTable} ;} ${2:document} )]]></content><tabTrigger>import dif</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>IMPORT DIF ( {aTable ;} document )</description></snippet>

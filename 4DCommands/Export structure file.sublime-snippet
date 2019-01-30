@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Export structure file ( ${1:folderPath} {; ${2:options}} )]]></content><tabTrigger>export structure file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Export structure file ( folderPath {; options} ) -&gt; Object</description></snippet>

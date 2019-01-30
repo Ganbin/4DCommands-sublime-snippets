@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REDUCE SELECTION]]></content><tabTrigger>reduce_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>REDUCE SELECTION ( {aTable ;} number )</description></snippet>

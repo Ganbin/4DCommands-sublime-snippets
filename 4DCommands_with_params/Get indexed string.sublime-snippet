@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get indexed string ( ${1:resID} ; ${2:strID} {; ${3:resFile}} )]]></content><tabTrigger>get_indexed_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get indexed string ( resID ; strID {; resFile} ) -&gt; String</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[BASE64 DECODE ( {${1:encodedText} ;} ${2:blob} )]]></content><tabTrigger>base64 decode</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BASE64 DECODE ( {encodedText ;} blob )</description></snippet>

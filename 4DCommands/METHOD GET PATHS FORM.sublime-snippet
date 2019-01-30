@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[METHOD GET PATHS FORM ( {${1:aTable} ;} ${2:arrPaths} {; ${3:filter}}{; ${4:stamp}}{; ${5:*}} )]]></content><tabTrigger>method get paths form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET PATHS FORM ( {aTable ;} arrPaths {; filter}{; stamp}{; *} )</description></snippet>

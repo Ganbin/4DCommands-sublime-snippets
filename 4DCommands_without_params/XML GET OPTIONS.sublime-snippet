@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[XML GET OPTIONS]]></content><tabTrigger>xml_get_options</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>XML GET OPTIONS ( elementRef | document  ; selector ; value {; selector2 ; value2 ; ... ; selectorN ; valueN} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM GET PARAMETER]]></content><tabTrigger>form_get_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM GET PARAMETER ( {aTable ;} form ; selector ; value )</description></snippet>

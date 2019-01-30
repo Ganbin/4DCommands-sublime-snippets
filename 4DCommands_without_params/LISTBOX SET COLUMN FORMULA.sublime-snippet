@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET COLUMN FORMULA]]></content><tabTrigger>listbox_set_column_formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET COLUMN FORMULA ( {* ;} object ; formula ; dataType )</description></snippet>

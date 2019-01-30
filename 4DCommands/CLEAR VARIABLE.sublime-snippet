@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[CLEAR VARIABLE ( ${1:variable} )]]></content><tabTrigger>clear variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CLEAR VARIABLE ( variable )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_DELETE RESOURCE ( ${1:resType} ; ${2:resID} {; ${3:resFile}} )]]></content><tabTrigger>_o_delete resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_DELETE RESOURCE ( resType ; resID {; resFile} )</description></snippet>

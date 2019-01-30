@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD RESOLVE PATH]]></content><tabTrigger>method_resolve_path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD RESOLVE PATH ( path ; methodType ; ptrTable ; objectName ; formObjectName {; *} )</description></snippet>

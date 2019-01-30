@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[VOLUME LIST ( ${1:volumes} )]]></content><tabTrigger>volume_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :VOLUME LIST ( volumes )</description></snippet>

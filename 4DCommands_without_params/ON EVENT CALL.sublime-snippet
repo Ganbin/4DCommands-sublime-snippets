@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ON EVENT CALL]]></content><tabTrigger>on_event_call</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ON EVENT CALL ( eventMethod {; processName} )</description></snippet>

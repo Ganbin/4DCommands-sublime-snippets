@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[HTTP SET OPTION ( ${1:option} ; ${2:value} )]]></content><tabTrigger>http set option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HTTP SET OPTION ( option ; value )</description></snippet>

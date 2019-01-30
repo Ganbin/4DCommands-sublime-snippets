@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PAGE BREAK  ( ${1:* | >} )]]></content><tabTrigger>page_break_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :PAGE BREAK {( * | &gt; )}</description></snippet>

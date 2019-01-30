@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get selected menu item parameter]]></content><tabTrigger>get_selected_menu_item_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get selected menu item parameter  -&gt; String</description></snippet>

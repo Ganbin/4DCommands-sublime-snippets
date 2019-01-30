@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Create XML element]]></content><tabTrigger>dom_create_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Create XML element ( elementRef ; xPath {; attribName ; attrValue} {; attribName2 ; attrValue2 ; ... ; attribNameN ; attrValueN} ) -&gt; String</description></snippet>

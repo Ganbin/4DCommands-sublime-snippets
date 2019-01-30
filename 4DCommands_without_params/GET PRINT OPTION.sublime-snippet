@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PRINT OPTION]]></content><tabTrigger>get_print_option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PRINT OPTION ( option ; value1 {; value2} )</description></snippet>

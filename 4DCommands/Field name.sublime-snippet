@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Field name ( ${1:fieldPtr | tableNum} {; ${2:fieldNum}} )]]></content><tabTrigger>field name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Field name ( fieldPtr | tableNum {; fieldNum} ) -&gt; String</description></snippet>

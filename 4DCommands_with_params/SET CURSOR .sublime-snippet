@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET CURSOR  ( ${1:cursor} )]]></content><tabTrigger>set_cursor_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET CURSOR {( cursor )}</description></snippet>

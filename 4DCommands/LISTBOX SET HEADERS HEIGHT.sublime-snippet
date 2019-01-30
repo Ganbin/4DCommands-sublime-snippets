@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX SET HEADERS HEIGHT ( {${1:*} ;} ${2:object} ; ${3:height} {; ${4:unit}} )]]></content><tabTrigger>listbox set headers height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET HEADERS HEIGHT ( {* ;} object ; height {; unit} ) </description></snippet>

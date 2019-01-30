@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SCAN INDEX]]></content><tabTrigger>scan_index</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SCAN INDEX ( aField ; number {; &gt; or &lt;} )</description></snippet>

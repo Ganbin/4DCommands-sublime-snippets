@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET HIGHLIGHTED RECORDS ( {${1:aTable} ;} ${2:setName} )]]></content><tabTrigger>get highlighted records</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET HIGHLIGHTED RECORDS ( {aTable ;} setName )</description></snippet>

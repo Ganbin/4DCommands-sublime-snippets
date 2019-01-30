@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLEAR SEMAPHORE ( ${1:semaphore} )]]></content><tabTrigger>clear_semaphore</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CLEAR SEMAPHORE ( semaphore )</description></snippet>

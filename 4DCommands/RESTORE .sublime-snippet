@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RESTORE  ( ${1:archivePath} {; ${2:destFolderPath}} )]]></content><tabTrigger>restore </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESTORE {( archivePath {; destFolderPath} )}</description></snippet>

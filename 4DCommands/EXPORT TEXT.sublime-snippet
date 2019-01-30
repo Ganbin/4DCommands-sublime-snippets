@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EXPORT TEXT ( {${1:aTable} ;} ${2:document} )]]></content><tabTrigger>export text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXPORT TEXT ( {aTable ;} document )</description></snippet>

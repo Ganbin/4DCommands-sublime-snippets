@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is nil pointer ( ${1:aPointer} )]]></content><tabTrigger>is_nil_pointer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Is nil pointer ( aPointer ) -&gt; Boolean</description></snippet>

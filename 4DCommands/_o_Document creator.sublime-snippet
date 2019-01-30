@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_Document creator ( ${1:document} )]]></content><tabTrigger>_o_document creator</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Document creator ( document ) -&gt; String</description></snippet>

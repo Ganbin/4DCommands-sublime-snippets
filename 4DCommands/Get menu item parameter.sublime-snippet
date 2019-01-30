@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get menu item parameter ( ${1:menu} ; ${2:menuItem} )]]></content><tabTrigger>get menu item parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get menu item parameter ( menu ; menuItem ) -&gt; String</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET FIELD RELATION ( ${1:${3:many}Table | Field} ; ${2:one} ; many )]]></content><tabTrigger>set field relation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET FIELD RELATION ( manyTable | Field ; one ; many )</description></snippet>

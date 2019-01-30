@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST Get expression]]></content><tabTrigger>st_get_expression</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST Get expression ( {* ;} object {; startSel {; endSel}} )  -&gt; Text</description></snippet>

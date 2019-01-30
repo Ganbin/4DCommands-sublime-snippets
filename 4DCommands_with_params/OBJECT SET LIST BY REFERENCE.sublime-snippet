@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT SET LIST BY REFERENCE ( {${1:*} ;} ${2:object} {; ${3:${4:list}Type}}; list )]]></content><tabTrigger>object_set_list_by_reference</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT SET LIST BY REFERENCE ( {* ;} object {; listType}; list )</description></snippet>

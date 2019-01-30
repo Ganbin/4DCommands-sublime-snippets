@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB SERVICE AUTHENTICATE ( ${1:name} ; ${2:password} {; ${3:authMethod}} {; ${4:*}} )]]></content><tabTrigger>web service authenticate</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SERVICE AUTHENTICATE ( name ; password {; authMethod} {; *} ) </description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get database parameter]]></content><tabTrigger>get_database_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get database parameter ( {aTable ;} selector {; stringValue} ) -&gt; Real</description></snippet>

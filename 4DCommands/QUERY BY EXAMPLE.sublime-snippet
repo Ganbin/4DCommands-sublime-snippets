@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QUERY BY EXAMPLE ( {${1:aTable}}{;}{${2:*}} )]]></content><tabTrigger>query by example</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY BY EXAMPLE ( {aTable}{;}{*} )</description></snippet>

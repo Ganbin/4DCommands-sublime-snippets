@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE DOCUMENT ( ${1:document} )]]></content><tabTrigger>delete_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DELETE DOCUMENT ( document )</description></snippet>

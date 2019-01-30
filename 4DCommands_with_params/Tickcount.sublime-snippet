@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Tickcount]]></content><tabTrigger>tickcount</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Tickcount  -&gt; Longint</description></snippet>

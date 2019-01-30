@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Method called on event]]></content><tabTrigger>method_called_on_event</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Method called on event  -&gt; String</description></snippet>

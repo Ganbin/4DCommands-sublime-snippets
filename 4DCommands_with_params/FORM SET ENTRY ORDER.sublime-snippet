@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SET ENTRY ORDER ( ${1:objectNames} {; ${2:pageNumber}} )]]></content><tabTrigger>form_set_entry_order</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :FORM SET ENTRY ORDER ( objectNames {; pageNumber} )</description></snippet>

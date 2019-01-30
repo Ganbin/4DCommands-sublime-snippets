@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB SEND FILE ( ${1:htmlFile} )]]></content><tabTrigger>web send file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SEND FILE ( htmlFile )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Frontmost window  ( ${1:*} )]]></content><tabTrigger>frontmost_window_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Frontmost window {( * )} -&gt; WinRef</description></snippet>

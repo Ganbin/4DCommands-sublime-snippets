@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUIT 4D ]]></content><tabTrigger>quit_4d_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUIT 4D {( time )}</description></snippet>

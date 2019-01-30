@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Count list items]]></content><tabTrigger>count_list_items</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Count list items ( {* ;} list {; *} ) -&gt; Longint</description></snippet>

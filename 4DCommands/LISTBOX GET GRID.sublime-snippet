@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX GET GRID ( {${1:*} ;} ${2:object} ; ${3:horizontal} ; ${4:vertical} )]]></content><tabTrigger>listbox get grid</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX GET GRID ( {* ;} object ; horizontal ; vertical )</description></snippet>

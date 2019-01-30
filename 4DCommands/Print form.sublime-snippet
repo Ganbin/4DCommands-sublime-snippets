@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Print form ( {${1:aTable} ;} ${2:form} {; ${3:areaStart} {; ${4:areaEnd}}} )]]></content><tabTrigger>print form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Print form ( {aTable ;} form {; areaStart {; areaEnd}} )  -&gt; Longint</description></snippet>

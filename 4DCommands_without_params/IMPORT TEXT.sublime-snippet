@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[IMPORT TEXT]]></content><tabTrigger>import_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>IMPORT TEXT ( {aTable ;} document )</description></snippet>

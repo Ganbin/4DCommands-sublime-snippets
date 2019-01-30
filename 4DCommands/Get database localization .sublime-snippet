@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get database localization  ( ${1:languageType} )]]></content><tabTrigger>get database localization </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get database localization {( languageType )} -&gt; String</description></snippet>

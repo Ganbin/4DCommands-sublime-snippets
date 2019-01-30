@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX SET STATIC COLUMNS ( {${1:*} ;} ${2:object} ; ${3:numColumn} )]]></content><tabTrigger>listbox set static columns</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET STATIC COLUMNS ( {* ;} object ; numColumn )</description></snippet>

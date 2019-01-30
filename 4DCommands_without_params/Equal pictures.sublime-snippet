@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Equal pictures]]></content><tabTrigger>equal_pictures</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Equal pictures ( picture1 ; picture2 ; mask ) -&gt; Boolean</description></snippet>

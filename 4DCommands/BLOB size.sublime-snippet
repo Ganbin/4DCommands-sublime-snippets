@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[BLOB size ( ${1:blob} )]]></content><tabTrigger>blob size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB size ( blob ) -&gt; Longint</description></snippet>

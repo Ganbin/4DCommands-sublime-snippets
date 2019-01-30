@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Compact data file]]></content><tabTrigger>compact_data_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Compact data file ( structurePath ; dataPath {; archiveFolder {; option {; method}}} ) -&gt; Text</description></snippet>

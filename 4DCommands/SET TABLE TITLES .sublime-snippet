@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET TABLE TITLES  ( ${1:tableTitles} ; ${2:tableNumbers} {; ${3:*}})]]></content><tabTrigger>set table titles </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET TABLE TITLES {( tableTitles ; tableNumbers {; *})}</description></snippet>

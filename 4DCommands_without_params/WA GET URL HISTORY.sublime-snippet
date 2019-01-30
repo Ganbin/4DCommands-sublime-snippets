@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA GET URL HISTORY]]></content><tabTrigger>wa_get_url_history</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA GET URL HISTORY ( {* ;} object ; urlsArr {; direction {; titlesArr}} )</description></snippet>

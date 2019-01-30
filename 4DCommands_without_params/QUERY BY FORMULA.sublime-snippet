@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUERY BY FORMULA]]></content><tabTrigger>query_by_formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY BY FORMULA ( aTable {; queryFormula} )</description></snippet>

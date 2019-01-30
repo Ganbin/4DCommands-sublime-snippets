@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get menu item key]]></content><tabTrigger>get_menu_item_key</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get menu item key ( menu ; menuItem {; process} ) -&gt; Longint</description></snippet>

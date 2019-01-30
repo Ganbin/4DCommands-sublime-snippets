@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SAX GET XML ENTITY ( ${1:document} ; ${2:name} ; ${3:value} )]]></content><tabTrigger>sax get xml entity</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX GET XML ENTITY ( document ; name ; value )</description></snippet>

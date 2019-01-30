@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ST COMPUTE EXPRESSIONS ( {${1:*} ;} ${2:object} {; ${3:startSel} {; ${4:endSel}}} )]]></content><tabTrigger>st compute expressions</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST COMPUTE EXPRESSIONS ( {* ;} object {; startSel {; endSel}} ) </description></snippet>

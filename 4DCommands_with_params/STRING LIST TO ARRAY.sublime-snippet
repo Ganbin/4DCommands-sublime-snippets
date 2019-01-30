@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[STRING LIST TO ARRAY ( ${1:resID} ; ${2:strings} {; ${3:resFile}} )]]></content><tabTrigger>string_list_to_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :STRING LIST TO ARRAY ( resID ; strings {; resFile} )</description></snippet>

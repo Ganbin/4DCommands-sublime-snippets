@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PROCESS VARIABLE]]></content><tabTrigger>get_process_variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PROCESS VARIABLE ( process ; srcVar ; dstVar {; srcVar2 ; dstVar2 ; ... ; srcVarN ; dstVarN} )</description></snippet>

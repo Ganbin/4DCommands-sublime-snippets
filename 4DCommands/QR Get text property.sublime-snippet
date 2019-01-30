@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR Get text property ( ${1:area} ; ${2:colNum} ; ${3:rowNum} ; ${4:property} )]]></content><tabTrigger>qr get text property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get text property ( area ; colNum ; rowNum ; property ) -&gt; Longint, String</description></snippet>

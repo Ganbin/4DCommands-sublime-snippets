@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_Get component resource ID]]></content><tabTrigger>_o_get_component_resource_id</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Get component resource ID ( compName ; resType ; originalResNum ) -&gt; Longint</description></snippet>

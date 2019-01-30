@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get menu item]]></content><tabTrigger>get_menu_item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get menu item ( menu ; menuItem {; process} ) -&gt; String</description></snippet>

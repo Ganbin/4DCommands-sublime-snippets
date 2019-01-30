@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get resource name ( ${1:resType} ; ${2:resID} {; ${3:resFile}} )]]></content><tabTrigger>get_resource_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get resource name ( resType ; resID {; resFile} ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get application inf]]></content><tabTrigger>get_application_inf</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get application info -&gt; Object</description></snippet>

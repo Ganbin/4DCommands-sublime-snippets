@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SELECT LOG FILE]]></content><tabTrigger>select_log_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SELECT LOG FILE ( logFile )</description></snippet>

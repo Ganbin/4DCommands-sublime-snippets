@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET ABOUT ( ${1:itemText} ; ${2:method} )]]></content><tabTrigger>set about</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET ABOUT ( itemText ; method )</description></snippet>

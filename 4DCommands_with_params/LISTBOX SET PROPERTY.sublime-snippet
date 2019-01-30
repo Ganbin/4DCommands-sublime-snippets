@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET PROPERTY ( {${1:*} ;} ${2:object} ; ${3:property} ; ${4:value} )]]></content><tabTrigger>listbox_set_property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LISTBOX SET PROPERTY ( {* ;} object ; property ; value )</description></snippet>

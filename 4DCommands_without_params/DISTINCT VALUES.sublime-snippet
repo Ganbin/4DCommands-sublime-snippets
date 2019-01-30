@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DISTINCT VALUES]]></content><tabTrigger>distinct_values</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DISTINCT VALUES ( aField ; array {; countArray} )</description></snippet>

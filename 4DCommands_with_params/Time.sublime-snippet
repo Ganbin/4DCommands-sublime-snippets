@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Time ( ${1:timeValue} )]]></content><tabTrigger>time</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Time ( timeValue ) -&gt; Time</description></snippet>

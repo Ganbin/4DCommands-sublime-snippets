@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PROCESS PROPERTIES]]></content><tabTrigger>process_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PROCESS PROPERTIES ( process ; procName ; procState ; procTime {; procMode {; uniqueID {; origin}}} )</description></snippet>

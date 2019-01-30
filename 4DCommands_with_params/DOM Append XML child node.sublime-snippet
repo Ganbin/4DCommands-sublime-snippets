@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Append XML child node ( ${1:elementRef} ; ${2:childType} ; ${3:childValue} )]]></content><tabTrigger>dom_append_xml_child_node</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DOM Append XML child node ( elementRef ; childType ; childValue ) -&gt; Text</description></snippet>

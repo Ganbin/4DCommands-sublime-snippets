@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Set group properties ( ${1:groupID} ; ${2:name} ; ${3:owner} {; ${4:members}} )]]></content><tabTrigger>set group properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Set group properties ( groupID ; name ; owner {; members} )  -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[JSON Resolve pointers]]></content><tabTrigger>json_resolve_pointers</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>JSON Resolve pointers ( object {; options} ) -&gt; Object</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX SELECT ROW ( {${1:*} ;} ${2:object} ; ${3:rowPosition} {; ${4:action}} )]]></content><tabTrigger>listbox select row</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SELECT ROW ( {* ;} object ; rowPosition {; action} ) </description></snippet>

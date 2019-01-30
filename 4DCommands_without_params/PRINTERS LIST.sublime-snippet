@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PRINTERS LIST]]></content><tabTrigger>printers_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINTERS LIST ( namesArray {; altNamesArray {; modelsArray}} )</description></snippet>

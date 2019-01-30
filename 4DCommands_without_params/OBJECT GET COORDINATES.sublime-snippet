@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET COORDINATES]]></content><tabTrigger>object_get_coordinates</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET COORDINATES ( {* ;} object ; left ; top ; right ; bottom )</description></snippet>

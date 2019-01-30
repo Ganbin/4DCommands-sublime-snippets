@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Field ( ${1:tableNum} ; ${2:fieldNum} )]]></content><tabTrigger>field</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Field ( tableNum ; fieldNum ) -&gt; Pointer</description></snippet>

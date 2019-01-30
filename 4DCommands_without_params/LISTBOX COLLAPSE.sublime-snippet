@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX COLLAPSE]]></content><tabTrigger>listbox_collapse</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX COLLAPSE ( {* ;} object {; recursive {; selector {; line {; column}}}} )</description></snippet>

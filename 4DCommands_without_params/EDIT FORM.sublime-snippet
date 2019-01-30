@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EDIT FORM]]></content><tabTrigger>edit_form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EDIT FORM ( aTable ; form {; userForm {; library}} ) </description></snippet>

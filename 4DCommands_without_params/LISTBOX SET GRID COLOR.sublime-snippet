@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET GRID COLOR]]></content><tabTrigger>listbox_set_grid_color</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET GRID COLOR ( {* ;} object ; color ; horizontal ; vertical )</description></snippet>

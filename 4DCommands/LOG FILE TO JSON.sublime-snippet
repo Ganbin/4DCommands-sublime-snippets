@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LOG FILE TO JSON ( ${1:destFolderPath} {; ${2:maxSize} {; ${3:logPath} {; ${4:fieldAtt}}}} )]]></content><tabTrigger>log file to json</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LOG FILE TO JSON ( destFolderPath {; maxSize {; logPath {; fieldAtt}}} ) </description></snippet>

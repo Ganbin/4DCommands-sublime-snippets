@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Count screens]]></content><tabTrigger>count_screens</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Count screens  -&gt; Longint</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX SET FOOTER CALCULATION ( {${1:*} ;} ${2:object} ; ${3:calculation} )]]></content><tabTrigger>listbox set footer calculation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET FOOTER CALCULATION ( {* ;} object ; calculation )</description></snippet>

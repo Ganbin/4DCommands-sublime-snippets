@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get locked records info]]></content><tabTrigger>get_locked_records_info</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get locked records info ( aTable ) -&gt; Object</description></snippet>

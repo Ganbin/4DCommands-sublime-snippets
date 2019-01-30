@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Get Root XML element ( ${1:elementRef} )]]></content><tabTrigger>dom_get_root_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DOM Get Root XML element ( elementRef ) -&gt; String</description></snippet>

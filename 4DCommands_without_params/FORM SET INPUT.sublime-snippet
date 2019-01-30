@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SET INPUT]]></content><tabTrigger>form_set_input</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET INPUT ( {aTable ;} form {; userForm {; *}} ) </description></snippet>

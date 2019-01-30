@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SAX GET XML CDATA ( ${1:document} ; ${2:value} )]]></content><tabTrigger>sax get xml cdata</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX GET XML CDATA ( document ; value )</description></snippet>

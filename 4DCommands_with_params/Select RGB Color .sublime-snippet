@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Select RGB Color  ( ${1:defaultColor} {; ${2:message}} )]]></content><tabTrigger>select_rgb_color_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Select RGB Color {( defaultColor {; message} )} -&gt; Longint</description></snippet>

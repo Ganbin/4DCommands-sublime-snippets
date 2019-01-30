@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[FORM SET SIZE ( {${1:object} ;} ${2:horizontal} ; ${3:vertical} {; ${4:*}} )]]></content><tabTrigger>form set size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET SIZE ( {object ;} horizontal ; vertical {; *} ) </description></snippet>

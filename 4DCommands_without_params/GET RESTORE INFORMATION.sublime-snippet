@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET RESTORE INFORMATION]]></content><tabTrigger>get_restore_information</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET RESTORE INFORMATION ( selector ; info1 ; info2 )</description></snippet>

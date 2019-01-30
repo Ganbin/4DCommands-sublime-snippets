@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET RESIZING OPTIONS]]></content><tabTrigger>object_get_resizing_options</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET RESIZING OPTIONS ( {* ;} object ; horizontal ; vertical )</description></snippet>

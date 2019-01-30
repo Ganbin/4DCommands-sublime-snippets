@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET TEXT TO PASTEBOARD ( ${1:text} )]]></content><tabTrigger>set_text_to_pasteboard</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET TEXT TO PASTEBOARD ( text )</description></snippet>

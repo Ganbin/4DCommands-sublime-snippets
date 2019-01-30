@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD GET FOLDERS]]></content><tabTrigger>method_get_folders</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET FOLDERS ( arrNames {; filter}{; *} )</description></snippet>

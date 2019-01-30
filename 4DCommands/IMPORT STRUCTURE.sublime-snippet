@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[IMPORT STRUCTURE ( ${1:xmlStructure} )]]></content><tabTrigger>import structure</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>IMPORT STRUCTURE ( xmlStructure )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Get last child XML element]]></content><tabTrigger>dom_get_last_child_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Get last child XML element ( elementRef {; childElemName {; childElemValue}} ) -&gt; String</description></snippet>

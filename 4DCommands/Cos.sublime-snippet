@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Cos ( ${1:number} )]]></content><tabTrigger>cos</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Cos ( number ) -&gt; Real</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RESOURCE TYPE LIST]]></content><tabTrigger>resource_type_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESOURCE TYPE LIST ( resTypes {; resFile} )</description></snippet>

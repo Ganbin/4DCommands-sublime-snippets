@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA GET EXTERNAL LINKS FILTERS]]></content><tabTrigger>wa_get_external_links_filters</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA GET EXTERNAL LINKS FILTERS ( {* ;} object ; filtersArr ; allowDenyArr )</description></snippet>

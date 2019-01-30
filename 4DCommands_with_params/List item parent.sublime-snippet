@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[List item parent ( {${1:*} ;} ${2:list} ; ${3:itemRef | *} )]]></content><tabTrigger>list_item_parent</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :List item parent ( {* ;} list ; itemRef | * ) -&gt; Longint</description></snippet>

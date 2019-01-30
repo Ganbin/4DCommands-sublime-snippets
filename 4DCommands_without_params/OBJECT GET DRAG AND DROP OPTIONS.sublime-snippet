@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET DRAG AND DROP OPTIONS]]></content><tabTrigger>object_get_drag_and_drop_options</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET DRAG AND DROP OPTIONS ( {* ;} object ; draggable ; automaticDrag ; droppable ; automaticDrop )</description></snippet>

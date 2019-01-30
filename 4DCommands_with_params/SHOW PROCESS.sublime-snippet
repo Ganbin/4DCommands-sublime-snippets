@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SHOW PROCESS ( ${1:process} )]]></content><tabTrigger>show_process</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SHOW PROCESS ( process )</description></snippet>

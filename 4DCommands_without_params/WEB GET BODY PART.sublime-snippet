@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB GET BODY PART]]></content><tabTrigger>web_get_body_part</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB GET BODY PART ( part ; contents ; name ; mimeType ; fileName )</description></snippet>

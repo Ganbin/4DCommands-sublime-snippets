@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EXECUTE METHOD IN SUBFORM]]></content><tabTrigger>execute_method_in_subform</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXECUTE METHOD IN SUBFORM ( subformObject ; methodName {; return {; param} {; param2 ; ... ; paramN}} )</description></snippet>

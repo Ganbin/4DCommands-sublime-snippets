@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Min ( ${1:series} {; ${2:attributePath}} )]]></content><tabTrigger>min</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Min ( series {; attributePath} ) -&gt; Number, Date</description></snippet>

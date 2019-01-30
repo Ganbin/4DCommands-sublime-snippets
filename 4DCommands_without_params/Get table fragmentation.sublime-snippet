@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get table fragmentation]]></content><tabTrigger>get_table_fragmentation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get table fragmentation ( aTable ) -&gt; Real</description></snippet>

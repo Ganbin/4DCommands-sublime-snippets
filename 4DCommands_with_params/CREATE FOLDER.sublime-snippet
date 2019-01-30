@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE FOLDER ( ${1:folderPath} {; ${2:*}} )]]></content><tabTrigger>create_folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CREATE FOLDER ( folderPath {; *} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get list name]]></content><tabTrigger>object_get_list_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get list name ( {* ;} object {; listType} ) -&gt; Text</description></snippet>

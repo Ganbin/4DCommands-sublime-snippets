@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get 4D folder ]]></content><tabTrigger>get_4d_folder_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get 4D folder {( folder {; *} )} -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SORT ARRAY ( ${1:array} {; ${2:array2} ; ${3:...} ; ${4:arrayN}}{; ${5:> or <}} )]]></content><tabTrigger>sort_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SORT ARRAY ( array {; array2 ; ... ; arrayN}{; &gt; or &lt;} )</description></snippet>

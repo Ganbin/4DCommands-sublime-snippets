@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB PROPERTIES]]></content><tabTrigger>blob_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB PROPERTIES ( blob ; compressed {; expandedSize {; currentSize}} ) </description></snippet>

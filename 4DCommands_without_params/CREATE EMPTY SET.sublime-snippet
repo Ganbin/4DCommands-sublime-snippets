@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE EMPTY SET]]></content><tabTrigger>create_empty_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE EMPTY SET ( {aTable ;} set )</description></snippet>

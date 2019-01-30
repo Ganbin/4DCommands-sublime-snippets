@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET TABLE TITLES ( ${1:tableTitles} ; ${2:tableNums} )]]></content><tabTrigger>get table titles</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET TABLE TITLES ( tableTitles ; tableNums )</description></snippet>

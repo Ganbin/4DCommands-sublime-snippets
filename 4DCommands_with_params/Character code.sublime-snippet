@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Character code ( ${1:character} )]]></content><tabTrigger>character_code</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Character code ( character ) -&gt; Longint</description></snippet>

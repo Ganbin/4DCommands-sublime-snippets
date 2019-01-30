@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is picture file]]></content><tabTrigger>is_picture_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is picture file ( filePath {; *} ) -&gt; Boolean</description></snippet>

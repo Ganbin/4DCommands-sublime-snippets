@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM REMOVE XML ELEMENT ( ${1:elementRef} )]]></content><tabTrigger>dom_remove_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DOM REMOVE XML ELEMENT ( elementRef )</description></snippet>

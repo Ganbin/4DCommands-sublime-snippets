@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELAY PROCESS]]></content><tabTrigger>delay_process</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELAY PROCESS ( process ; duration )</description></snippet>

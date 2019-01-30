@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Transaction level]]></content><tabTrigger>transaction_level</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>STOP SQL SERVER </description></snippet>

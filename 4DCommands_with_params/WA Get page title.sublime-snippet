@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA Get page title ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>wa_get_page_title</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :WA Get page title ( {* ;} object ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get filter ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object_get_filter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT Get filter ( {* ;} object ) -&gt; Text</description></snippet>

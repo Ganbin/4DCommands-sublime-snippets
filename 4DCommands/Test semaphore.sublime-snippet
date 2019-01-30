@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Test semaphore ( ${1:semaphore} )]]></content><tabTrigger>test semaphore</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Test semaphore ( semaphore ) -&gt; Boolean</description></snippet>

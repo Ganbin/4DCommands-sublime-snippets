@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[User in group]]></content><tabTrigger>user_in_group</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>User in group ( user ; group ) -&gt; Boolean</description></snippet>

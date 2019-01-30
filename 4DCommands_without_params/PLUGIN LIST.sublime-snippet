@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PLUGIN LIST]]></content><tabTrigger>plugin_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PLUGIN LIST ( numbersArray ; namesArray )</description></snippet>

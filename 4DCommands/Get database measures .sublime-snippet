@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get database measures  ( ${1:options} )]]></content><tabTrigger>get database measures </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get database measures {( options )} -&gt; Object</description></snippet>

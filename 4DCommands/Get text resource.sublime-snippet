@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get text resource ( ${1:resID} {; ${2:resFile}} )]]></content><tabTrigger>get text resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get text resource ( resID {; resFile} ) -&gt; Text</description></snippet>

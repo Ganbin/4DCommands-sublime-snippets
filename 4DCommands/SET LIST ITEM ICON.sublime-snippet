@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET LIST ITEM ICON ( {${1:*} ;} ${2:list} ; ${3:itemRef | *} ; ${4:icon} )]]></content><tabTrigger>set list item icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET LIST ITEM ICON ( {* ;} list ; itemRef | * ; icon )</description></snippet>

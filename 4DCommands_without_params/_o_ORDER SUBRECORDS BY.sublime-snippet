@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_ORDER SUBRECORDS BY]]></content><tabTrigger>_o_order_subrecords_by</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_ORDER SUBRECORDS BY ( subtable ; subfield {; &gt; or &lt;}{; subfield2 ; &gt; or &lt;2 ; ... ; subfieldN ; &gt; or &lt;N} )</description></snippet>

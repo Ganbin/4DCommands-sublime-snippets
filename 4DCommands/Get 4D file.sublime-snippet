@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get 4D file ( ${1:file} {; ${2:*}} )]]></content><tabTrigger>get 4d file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get 4D file ( file {; *} ) -&gt; String</description></snippet>

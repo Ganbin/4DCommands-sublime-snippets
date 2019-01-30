@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[METHOD GET NAMES ( ${1:arrNames} {; ${2:filter}}{; ${3:*}} )]]></content><tabTrigger>method get names</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET NAMES ( arrNames {; filter}{; *} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET MEMORY STATISTICS ( ${1:infoType} ; ${2:arrNames} ; ${3:arrValues} ; ${4:arrCount} )]]></content><tabTrigger>get memory statistics</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET MEMORY STATISTICS ( infoType ; arrNames ; arrValues ; arrCount )</description></snippet>

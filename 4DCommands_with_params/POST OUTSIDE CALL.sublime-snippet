@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[POST OUTSIDE CALL ( ${1:process} )]]></content><tabTrigger>post_outside_call</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :POST OUTSIDE CALL ( process )</description></snippet>

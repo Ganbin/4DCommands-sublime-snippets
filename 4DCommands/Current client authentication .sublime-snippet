@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Current client authentication  ( ${1:domain} ; ${2:protocol} )]]></content><tabTrigger>current client authentication </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Current client authentication {( domain ; protocol )} -&gt; Text</description></snippet>

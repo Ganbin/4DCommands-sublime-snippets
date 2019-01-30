@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Is data file locked]]></content><tabTrigger>is data file locked</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is data file locked  -&gt; Boolean</description></snippet>

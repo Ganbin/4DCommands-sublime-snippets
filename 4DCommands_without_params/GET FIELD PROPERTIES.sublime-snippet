@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET FIELD PROPERTIES]]></content><tabTrigger>get_field_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET FIELD PROPERTIES ( fieldPtr | tableNum {; fieldNum}; fieldType {; fieldLength {; indexed {; unique {; invisible}}}} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DIFFERENCE ( ${1:set1} ; ${2:set2} ; ${3:resultSet} )]]></content><tabTrigger>difference</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DIFFERENCE ( set1 ; set2 ; resultSet )</description></snippet>

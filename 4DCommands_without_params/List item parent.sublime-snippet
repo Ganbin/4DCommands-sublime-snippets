@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[List item parent]]></content><tabTrigger>list_item_parent</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>List item parent ( {* ;} list ; itemRef | * ) -&gt; Longint</description></snippet>

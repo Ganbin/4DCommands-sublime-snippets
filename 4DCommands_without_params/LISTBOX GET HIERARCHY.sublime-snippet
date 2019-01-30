@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX GET HIERARCHY]]></content><tabTrigger>listbox_get_hierarchy</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX GET HIERARCHY ( {* ;} object ; hierarchical {; hierarchy} ) </description></snippet>

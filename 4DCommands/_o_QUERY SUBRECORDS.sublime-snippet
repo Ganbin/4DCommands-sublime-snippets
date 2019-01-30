@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_QUERY SUBRECORDS ( ${1:subtable} ; ${2:queryFormula} )]]></content><tabTrigger>_o_query subrecords</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_QUERY SUBRECORDS ( subtable ; queryFormula )</description></snippet>

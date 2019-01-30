@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is new record  ( ${1:aTable} )]]></content><tabTrigger>is_new_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Is new record {( aTable )} -&gt; Boolean</description></snippet>

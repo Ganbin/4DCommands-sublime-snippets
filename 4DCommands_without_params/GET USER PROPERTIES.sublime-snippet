@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET USER PROPERTIES]]></content><tabTrigger>get_user_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET USER PROPERTIES ( userID ; name ; startup ; password ; nbLogin ; lastLogin {; memberships {; groupOwner}} )</description></snippet>

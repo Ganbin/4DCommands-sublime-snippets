@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET MINIMUM VALUE]]></content><tabTrigger>object_get_minimum_value</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET MINIMUM VALUE ( {* ;} object ; minValue )</description></snippet>

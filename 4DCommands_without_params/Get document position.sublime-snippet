@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get document position]]></content><tabTrigger>get_document_position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get document position ( docRef ) -&gt; Real</description></snippet>

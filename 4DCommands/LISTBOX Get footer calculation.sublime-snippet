@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX Get footer calculation ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>listbox get footer calculation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get footer calculation ( {* ;} object ) -&gt; Longint</description></snippet>

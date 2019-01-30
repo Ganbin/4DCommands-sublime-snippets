@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BOOLEAN ARRAY FROM SET ( ${1:booleanArr} {; ${2:set}} )]]></content><tabTrigger>boolean_array_from_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :BOOLEAN ARRAY FROM SET ( booleanArr {; set} )</description></snippet>

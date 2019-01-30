@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[New formula ( ${1:formulaExp} )]]></content><tabTrigger>new formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>New formula ( formulaExp ) -&gt; Object</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL LOGIN ]]></content><tabTrigger>sql_login_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SQL LOGIN {( dataEntry ; userName ; password ; * )}</description></snippet>

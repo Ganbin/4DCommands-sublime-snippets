@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Delete string ( ${1:source} ; ${2:where} ; ${3:numChars} )]]></content><tabTrigger>delete string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Delete string ( source ; where ; numChars ) -&gt; String</description></snippet>

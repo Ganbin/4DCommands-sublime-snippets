@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[VOLUME ATTRIBUTES ( ${1:volume} ; ${2:size} ; ${3:used} ; ${4:free} )]]></content><tabTrigger>volume_attributes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :VOLUME ATTRIBUTES ( volume ; size ; used ; free )</description></snippet>

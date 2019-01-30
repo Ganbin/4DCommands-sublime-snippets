@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET ROW COLOR]]></content><tabTrigger>listbox_set_row_color</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET ROW COLOR ( {* ;} object ; row ; color {; colorType} )</description></snippet>

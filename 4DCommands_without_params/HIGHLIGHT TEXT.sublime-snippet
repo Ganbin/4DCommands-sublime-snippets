@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HIGHLIGHT TEXT]]></content><tabTrigger>highlight_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HIGHLIGHT TEXT ( {* ;} object ; startSel ; endSel )</description></snippet>

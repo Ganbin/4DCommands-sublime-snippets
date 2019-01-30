@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA GET PREFERENCE]]></content><tabTrigger>wa_get_preference</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA GET PREFERENCE ( {* ;} object ; selector ; value )</description></snippet>

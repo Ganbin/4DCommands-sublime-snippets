@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUERY SELECTION WITH ARRAY]]></content><tabTrigger>query_selection_with_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY SELECTION WITH ARRAY ( targetField ; array )</description></snippet>

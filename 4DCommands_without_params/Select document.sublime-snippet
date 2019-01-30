@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Select document]]></content><tabTrigger>select_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Select document ( directory ; fileTypes ; title ; options {; selected} ) -&gt; String</description></snippet>

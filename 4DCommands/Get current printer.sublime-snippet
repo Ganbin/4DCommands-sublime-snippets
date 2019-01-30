@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get current printer]]></content><tabTrigger>get current printer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get current printer  -&gt; String</description></snippet>

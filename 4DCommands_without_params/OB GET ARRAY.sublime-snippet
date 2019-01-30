@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB GET ARRAY]]></content><tabTrigger>ob_get_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB GET ARRAY ( object ; property ; array )</description></snippet>

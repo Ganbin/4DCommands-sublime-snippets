@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SET ENTRY ORDER]]></content><tabTrigger>form_set_entry_order</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET ENTRY ORDER ( objectNames {; pageNumber} )</description></snippet>

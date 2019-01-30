@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is in set]]></content><tabTrigger>is_in_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is in set ( set ) -&gt; Boolean</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SOAP SEND FAULT]]></content><tabTrigger>soap_send_fault</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SOAP SEND FAULT ( faultType ; description )</description></snippet>

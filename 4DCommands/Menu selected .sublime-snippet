@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Menu selected  ( ${1:subMenu} )]]></content><tabTrigger>menu selected </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Menu selected {( subMenu )} -&gt; Longint</description></snippet>

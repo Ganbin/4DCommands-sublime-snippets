@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR SET HEADER AND FOOTER]]></content><tabTrigger>qr_set_header_and_footer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR SET HEADER AND FOOTER ( area ; selector ; leftTitle ; centerTitle ; rightTitle ; height {; picture {; pictAlignment}} )</description></snippet>

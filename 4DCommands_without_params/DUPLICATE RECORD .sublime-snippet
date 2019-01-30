@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DUPLICATE RECORD ]]></content><tabTrigger>duplicate_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DUPLICATE RECORD {( aTable )}</description></snippet>

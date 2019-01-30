@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[TEXT TO ARRAY]]></content><tabTrigger>text_to_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>TEXT TO ARRAY ( varText ; arrText ; width ; fontName ; fontSize {; fontStyle {; *}} )</description></snippet>

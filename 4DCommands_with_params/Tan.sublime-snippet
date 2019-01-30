@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Tan ( ${1:number} )]]></content><tabTrigger>tan</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Tan ( number ) -&gt; Real</description></snippet>

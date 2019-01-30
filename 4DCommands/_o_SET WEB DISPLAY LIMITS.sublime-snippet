@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_SET WEB DISPLAY LIMITS ( ${1:numberRecords} {; ${2:numberPages} {; ${3:picRef}}} )]]></content><tabTrigger>_o_set web display limits</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SET WEB DISPLAY LIMITS ( numberRecords {; numberPages {; picRef}} )</description></snippet>

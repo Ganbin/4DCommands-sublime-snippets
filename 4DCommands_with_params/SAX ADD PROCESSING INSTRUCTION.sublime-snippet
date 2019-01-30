@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX ADD PROCESSING INSTRUCTION ( ${1:document} ; ${2:statement} )]]></content><tabTrigger>sax_add_processing_instruction</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SAX ADD PROCESSING INSTRUCTION ( document ; statement )</description></snippet>

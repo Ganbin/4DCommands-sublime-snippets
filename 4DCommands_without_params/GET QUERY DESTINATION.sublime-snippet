@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET QUERY DESTINATION]]></content><tabTrigger>get_query_destination</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET QUERY DESTINATION ( destinationType ; destinationObject ; destinationPtr )</description></snippet>

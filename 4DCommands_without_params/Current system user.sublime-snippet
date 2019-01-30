@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Current system user]]></content><tabTrigger>current_system_user</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Current system user  -&gt; String</description></snippet>

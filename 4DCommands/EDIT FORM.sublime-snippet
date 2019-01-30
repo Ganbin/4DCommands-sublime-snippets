@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EDIT FORM ( ${1:aTable} ; ${2:form} {; ${3:userForm} {; ${4:library}}} )]]></content><tabTrigger>edit form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EDIT FORM ( aTable ; form {; userForm {; library}} ) </description></snippet>

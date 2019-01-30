@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[VARIABLE TO BLOB ( ${1:variable} ; ${2:blob} {; ${3:offset | *}} )]]></content><tabTrigger>variable to blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>VARIABLE TO BLOB ( variable ; blob {; offset | *} )</description></snippet>

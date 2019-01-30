@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Structure file  ( ${1:*} )]]></content><tabTrigger>structure file </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Structure file {( * )} -&gt; String</description></snippet>

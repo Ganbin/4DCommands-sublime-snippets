@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[String]]></content><tabTrigger>string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>String ( expression {; format {; addTime}} ) -&gt; String</description></snippet>

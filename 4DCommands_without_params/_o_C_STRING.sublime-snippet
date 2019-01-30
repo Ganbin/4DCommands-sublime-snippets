@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_C_STRING]]></content><tabTrigger>_o_c_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_C_STRING ( {method ;} size ; variable {; variable2 ; ... ; variableN} )</description></snippet>

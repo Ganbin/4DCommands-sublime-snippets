@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_Win to Mac ( ${1:text} )]]></content><tabTrigger>_o_win to mac</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Win to Mac ( text ) -&gt; String</description></snippet>

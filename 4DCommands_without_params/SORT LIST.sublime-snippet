@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SORT LIST]]></content><tabTrigger>sort_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SORT LIST ( list {; &gt; or &lt;} )</description></snippet>

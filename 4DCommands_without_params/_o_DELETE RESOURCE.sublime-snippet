@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_DELETE RESOURCE]]></content><tabTrigger>_o_delete_resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_DELETE RESOURCE ( resType ; resID {; resFile} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET SUBFORM CONTAINER SIZE ( ${1:width} ; ${2:height} )]]></content><tabTrigger>object_get_subform_container_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT GET SUBFORM CONTAINER SIZE ( width ; height )</description></snippet>

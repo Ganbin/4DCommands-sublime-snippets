@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[READ ONLY  ( ${1:aTable | *} )]]></content><tabTrigger>read_only_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :READ ONLY {( aTable | * )}</description></snippet>

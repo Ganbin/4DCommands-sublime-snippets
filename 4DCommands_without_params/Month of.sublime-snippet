@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Month of]]></content><tabTrigger>month_of</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Month of ( aDate ) -&gt; Longint</description></snippet>

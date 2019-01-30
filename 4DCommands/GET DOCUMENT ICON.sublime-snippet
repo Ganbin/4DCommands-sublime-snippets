@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET DOCUMENT ICON ( ${1:docPath} ; ${2:icon} {; ${3:size}} )]]></content><tabTrigger>get document icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET DOCUMENT ICON ( docPath ; icon {; size} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DEFAULT TABLE ( ${1:aTable} )]]></content><tabTrigger>default table</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DEFAULT TABLE ( aTable )</description></snippet>

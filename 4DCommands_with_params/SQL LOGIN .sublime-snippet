@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL LOGIN  ( ${1:dataEntry} ; ${2:userName} ; ${3:password} ; ${4:*} )]]></content><tabTrigger>sql_login_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SQL LOGIN {( dataEntry ; userName ; password ; * )}</description></snippet>

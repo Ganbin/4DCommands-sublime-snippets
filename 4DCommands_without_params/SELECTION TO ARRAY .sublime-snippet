@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SELECTION TO ARRAY ]]></content><tabTrigger>selection_to_array_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SELECTION TO ARRAY {( aField | aTable ; array {; aField ; array {; aField2 ; array2 ; ... ; aFieldN ; arrayN}}{; *})}</description></snippet>

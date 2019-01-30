@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DISPLAY NOTIFICATION]]></content><tabTrigger>display_notification</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DISPLAY NOTIFICATION ( title ; text {; duration} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Generate digest ( ${1:param} ; ${2:algorithm} )]]></content><tabTrigger>generate digest</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Generate digest ( param ; algorithm ) -&gt; Text</description></snippet>

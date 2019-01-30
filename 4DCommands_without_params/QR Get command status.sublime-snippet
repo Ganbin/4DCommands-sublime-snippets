@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get command status]]></content><tabTrigger>qr_get_command_status</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get command status ( area ; command {; value} ) -&gt; Longint</description></snippet>

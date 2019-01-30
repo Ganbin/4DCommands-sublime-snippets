@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET QUERY AND LOCK ( ${1:lock} )]]></content><tabTrigger>set_query_and_lock</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET QUERY AND LOCK ( lock )</description></snippet>

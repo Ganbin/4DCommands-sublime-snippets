@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB TO DOCUMENT ( ${1:document} ; ${2:blob} {; ${3:*}} )]]></content><tabTrigger>blob_to_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :BLOB TO DOCUMENT ( document ; blob {; *} )</description></snippet>

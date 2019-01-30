@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[INSERT IN BLOB ( ${1:blob} ; ${2:offset} ; ${3:len} {; ${4:filler}} )]]></content><tabTrigger>insert_in_blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :INSERT IN BLOB ( blob ; offset ; len {; filler} ) </description></snippet>

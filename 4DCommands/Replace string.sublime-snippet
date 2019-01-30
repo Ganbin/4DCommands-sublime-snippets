@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Replace string ( ${1:source} ; ${2:oldString} ; ${3:newString} {; ${4:howMany}}{; ${5:*}} )]]></content><tabTrigger>replace string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Replace string ( source ; oldString ; newString {; howMany}{; *} ) -&gt; String</description></snippet>

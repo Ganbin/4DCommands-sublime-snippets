@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[IMPORT ODBC ( ${1:sourceTable} {; ${2:project} {; ${3:*}}} )]]></content><tabTrigger>import_odbc</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :IMPORT ODBC ( sourceTable {; project {; *}} )</description></snippet>

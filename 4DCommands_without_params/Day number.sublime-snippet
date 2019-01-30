@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Day number]]></content><tabTrigger>day_number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Day number ( aDate ) -&gt; Longint</description></snippet>

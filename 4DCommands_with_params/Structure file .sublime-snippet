@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Structure file  ( ${1:*} )]]></content><tabTrigger>structure_file_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Structure file {( * )} -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Frontmost process ]]></content><tabTrigger>frontmost_process_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Frontmost process {( * )} -&gt; Integer</description></snippet>

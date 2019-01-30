@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET FIELD RELATION]]></content><tabTrigger>set_field_relation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET FIELD RELATION ( manyTable | Field ; one ; many )</description></snippet>

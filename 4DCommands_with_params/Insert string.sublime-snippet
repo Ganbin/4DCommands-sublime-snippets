@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Insert string ( ${1:source} ; ${2:what} ; ${3:where} )]]></content><tabTrigger>insert_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Insert string ( source ; what ; where ) -&gt; String</description></snippet>

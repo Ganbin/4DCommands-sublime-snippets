@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PRINTABLE MARGIN]]></content><tabTrigger>get_printable_margin</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PRINTABLE MARGIN ( left ; top ; right ; bottom )</description></snippet>

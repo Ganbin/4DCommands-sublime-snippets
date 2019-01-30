@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[CALL WORKER ( ${1:process} ; ${2:method} {; ${3:param}}{; ${4:param2} ; ${5:...} ; ${6:paramN}} )]]></content><tabTrigger>call worker</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CALL WORKER ( process ; method {; param}{; param2 ; ... ; paramN} )</description></snippet>

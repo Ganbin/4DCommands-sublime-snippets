@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB to integer ( ${1:blob} ; ${2:byteOrder} {; ${3:offset}} )]]></content><tabTrigger>blob_to_integer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :BLOB to integer ( blob ; byteOrder {; offset} ) -&gt; Integer</description></snippet>

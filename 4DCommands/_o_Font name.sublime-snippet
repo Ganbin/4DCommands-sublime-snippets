@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_Font name ( ${1:fontNumber} )]]></content><tabTrigger>_o_font name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Font name ( fontNumber ) -&gt; String</description></snippet>

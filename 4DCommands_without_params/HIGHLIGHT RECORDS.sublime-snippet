@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HIGHLIGHT RECORDS]]></content><tabTrigger>highlight_records</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HIGHLIGHT RECORDS ( {aTable }{;}{ setName {; *}} )</description></snippet>

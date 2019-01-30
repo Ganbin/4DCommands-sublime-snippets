@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT SET COORDINATES]]></content><tabTrigger>object_set_coordinates</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT SET COORDINATES ( {* ;} object ; left ; top {; right ; bottom} )</description></snippet>

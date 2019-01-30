@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WA SET PAGE CONTENT ( {${1:*} ;} ${2:object} ; ${3:content} ; ${4:baseURL} )]]></content><tabTrigger>wa set page content</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA SET PAGE CONTENT ( {* ;} object ; content ; baseURL )</description></snippet>

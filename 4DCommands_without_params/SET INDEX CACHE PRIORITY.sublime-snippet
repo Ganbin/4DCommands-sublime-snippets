@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET INDEX CACHE PRIORITY]]></content><tabTrigger>set_index_cache_priority</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET INDEX CACHE PRIORITY ( aField ; priority )</description></snippet>

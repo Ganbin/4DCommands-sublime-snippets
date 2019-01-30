@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EXECUTE FORMULA ( ${1:statement} )]]></content><tabTrigger>execute formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXECUTE FORMULA ( statement )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR SET DOCUMENT PROPERTY ( ${1:area} ; ${2:property} ; ${3:value} )]]></content><tabTrigger>qr set document property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR SET DOCUMENT PROPERTY ( area ; property ; value )</description></snippet>

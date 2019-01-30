@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[BLOB TO USERS ( ${1:users} )]]></content><tabTrigger>blob to users</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB TO USERS ( users )</description></snippet>

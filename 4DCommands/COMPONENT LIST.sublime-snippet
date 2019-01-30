@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[COMPONENT LIST ( ${1:componentsArray} )]]></content><tabTrigger>component list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>COMPONENT LIST ( componentsArray )</description></snippet>

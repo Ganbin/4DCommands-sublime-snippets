@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET STYLE SHEET INFO ( ${1:${4:styles}heetName} ; ${2:font} ; ${3:size} ; styles )]]></content><tabTrigger>get_style_sheet_info</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET STYLE SHEET INFO ( styleSheetName ; font ; size ; styles )</description></snippet>

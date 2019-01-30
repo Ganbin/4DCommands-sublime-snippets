@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CONVERT PICTURE]]></content><tabTrigger>convert_picture</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CONVERT PICTURE ( picture ; codec {; compression} )</description></snippet>

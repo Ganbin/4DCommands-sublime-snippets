@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DISTINCT ATTRIBUTE PATHS ( ${1:objectField} ; ${2:pathArray} )]]></content><tabTrigger>distinct_attribute_paths</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DISTINCT ATTRIBUTE PATHS ( objectField ; pathArray )</description></snippet>

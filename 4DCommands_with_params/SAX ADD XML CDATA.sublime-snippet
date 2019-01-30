@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX ADD XML CDATA ( ${1:document} ; ${2:data} )]]></content><tabTrigger>sax_add_xml_cdata</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SAX ADD XML CDATA ( document ; data )</description></snippet>

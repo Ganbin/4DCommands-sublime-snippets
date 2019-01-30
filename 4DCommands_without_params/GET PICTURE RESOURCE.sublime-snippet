@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PICTURE RESOURCE]]></content><tabTrigger>get_picture_resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE RESOURCE ( resID ; resData {; resFile} )</description></snippet>

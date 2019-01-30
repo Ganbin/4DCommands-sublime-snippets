@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX GET TABLE SOURCE]]></content><tabTrigger>listbox_get_table_source</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX GET TABLE SOURCE ( {* ;} object ; tableNum {; name {; highlightName}} )</description></snippet>

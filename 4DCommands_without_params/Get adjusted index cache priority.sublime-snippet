@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get adjusted index cache priority]]></content><tabTrigger>get_adjusted_index_cache_priority</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get adjusted index cache priority ( aField ) -&gt; Longint</description></snippet>

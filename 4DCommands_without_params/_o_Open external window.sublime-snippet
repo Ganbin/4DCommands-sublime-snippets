@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_Open external window]]></content><tabTrigger>_o_open_external_window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Open external window ( left ; top ; right ; bottom ; type ; title ; plugInArea ) -&gt; WinRef</description></snippet>

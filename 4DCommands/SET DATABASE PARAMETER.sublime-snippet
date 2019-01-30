@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET DATABASE PARAMETER ( {${1:aTable} ;} ${2:selector} ; ${3:value} )]]></content><tabTrigger>set database parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET DATABASE PARAMETER ( {aTable ;} selector ; value )</description></snippet>

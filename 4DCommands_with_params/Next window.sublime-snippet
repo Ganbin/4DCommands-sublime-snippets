@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Next window ( ${1:window} )]]></content><tabTrigger>next_window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Next window ( window ) -&gt; WinRef</description></snippet>

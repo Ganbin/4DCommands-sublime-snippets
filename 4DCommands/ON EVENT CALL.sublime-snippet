@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ON EVENT CALL ( ${1:eventMethod} {; ${2:processName}} )]]></content><tabTrigger>on event call</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ON EVENT CALL ( eventMethod {; processName} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST SET ATTRIBUTES]]></content><tabTrigger>st_set_attributes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST SET ATTRIBUTES ( {* ;} object ; startSel ; endSel ; attribName ; attribValue {; attribName2 ; attribValue2 ; ... ; attribNameN ; attribValueN} )</description></snippet>

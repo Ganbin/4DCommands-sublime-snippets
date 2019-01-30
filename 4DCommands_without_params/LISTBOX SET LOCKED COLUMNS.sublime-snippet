@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET LOCKED COLUMNS]]></content><tabTrigger>listbox_set_locked_columns</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET LOCKED COLUMNS ( {* ;} object ; numColumns )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SORT LIST ( ${1:list} {; ${2:> or <}} )]]></content><tabTrigger>sort list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SORT LIST ( list {; &gt; or &lt;} )</description></snippet>

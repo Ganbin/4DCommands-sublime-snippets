@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET PICTURE TO PASTEBOARD ( ${1:picture} )]]></content><tabTrigger>set picture to pasteboard</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET PICTURE TO PASTEBOARD ( picture )</description></snippet>

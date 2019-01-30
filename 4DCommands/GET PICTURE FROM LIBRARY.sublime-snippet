@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET PICTURE FROM LIBRARY ( ${1:picRef | picName} ; ${2:picture} )]]></content><tabTrigger>get picture from library</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE FROM LIBRARY ( picRef | picName ; picture )</description></snippet>

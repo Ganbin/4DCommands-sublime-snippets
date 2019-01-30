@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ST FREEZE EXPRESSIONS ( {${1:${5:*}} ;} ${2:object} {; ${3:startSel} {; ${4:endSel}}}{; *} )]]></content><tabTrigger>st freeze expressions</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST FREEZE EXPRESSIONS ( {* ;} object {; startSel {; endSel}}{; *} )</description></snippet>

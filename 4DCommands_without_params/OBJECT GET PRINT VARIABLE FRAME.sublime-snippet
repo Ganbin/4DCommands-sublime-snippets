@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET PRINT VARIABLE FRAME]]></content><tabTrigger>object_get_print_variable_frame</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET PRINT VARIABLE FRAME ( {* ;} object ; variableFrame {; fixedSubform} ) </description></snippet>

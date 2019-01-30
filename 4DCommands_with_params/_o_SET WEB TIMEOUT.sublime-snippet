@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_SET WEB TIMEOUT ( ${1:timeout} )]]></content><tabTrigger>_o_set_web_timeout</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_SET WEB TIMEOUT ( timeout )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OBJECT Get pointer  ( ${1:selector} {; ${2:objectName} {; ${3:subformName}}})]]></content><tabTrigger>object get pointer </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get pointer {( selector {; objectName {; subformName}})} -&gt; Pointer</description></snippet>

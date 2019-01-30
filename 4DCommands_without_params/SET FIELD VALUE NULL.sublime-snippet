@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET FIELD VALUE NULL]]></content><tabTrigger>set_field_value_null</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET FIELD VALUE NULL ( aField )</description></snippet>

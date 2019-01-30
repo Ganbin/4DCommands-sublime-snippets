@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get external data path]]></content><tabTrigger>get_external_data_path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get external data path ( aField ) -&gt; Text</description></snippet>

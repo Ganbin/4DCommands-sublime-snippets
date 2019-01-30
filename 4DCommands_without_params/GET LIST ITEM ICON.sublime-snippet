@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET LIST ITEM ICON]]></content><tabTrigger>get_list_item_icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LIST ITEM ICON ( {* ;} list ; itemRef | * ; icon )</description></snippet>

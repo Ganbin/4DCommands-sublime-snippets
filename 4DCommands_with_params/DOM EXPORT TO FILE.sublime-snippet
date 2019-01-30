@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM EXPORT TO FILE ( ${1:elementRef} ; ${2:filePath} )]]></content><tabTrigger>dom_export_to_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DOM EXPORT TO FILE ( elementRef ; filePath )</description></snippet>

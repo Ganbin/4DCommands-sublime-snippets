@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLOSE RESOURCE FILE ( ${1:resFile} )]]></content><tabTrigger>close_resource_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CLOSE RESOURCE FILE ( resFile )</description></snippet>

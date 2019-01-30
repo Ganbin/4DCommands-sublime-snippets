@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_PICTURE TO GIF ( ${1:pict} ; ${2:blobGIF} )]]></content><tabTrigger>_o_picture_to_gif</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_PICTURE TO GIF ( pict ; blobGIF )</description></snippet>

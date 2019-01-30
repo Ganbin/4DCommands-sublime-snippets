@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET RECENT FONTS]]></content><tabTrigger>set_recent_fonts</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET RECENT FONTS ( fontsArray )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[PHP SET OPTION ( ${1:option} ; ${2:value} {; ${3:*}} )]]></content><tabTrigger>php set option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PHP SET OPTION ( option ; value {; *} )</description></snippet>

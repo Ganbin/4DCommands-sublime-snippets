@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[INTEGRATE MIRROR LOG FILE]]></content><tabTrigger>integrate_mirror_log_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>INTEGRATE MIRROR LOG FILE ( pathName ; operationNum {; mode {; errObject}} ) </description></snippet>

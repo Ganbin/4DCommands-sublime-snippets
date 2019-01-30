@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PROCESS 4D TAGS]]></content><tabTrigger>process_4d_tags</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PROCESS 4D TAGS ( inputTemplate ; outputResult {; param}{; param2 ; ... ; paramN} )</description></snippet>

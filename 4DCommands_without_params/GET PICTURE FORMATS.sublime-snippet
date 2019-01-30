@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PICTURE FORMATS]]></content><tabTrigger>get_picture_formats</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE FORMATS ( picture ; codecIDs )</description></snippet>

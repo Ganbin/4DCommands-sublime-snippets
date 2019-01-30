@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RESTART 4D  ( ${1:time} {; ${2:message}} )]]></content><tabTrigger>restart_4d_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :RESTART 4D {( time {; message} )}</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET TABLE PROPERTIES]]></content><tabTrigger>get_table_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET TABLE PROPERTIES ( tablePtr|tableNum ; invisible {; trigSaveNew {; trigSaveRec {; trigDelRec {; trigLoadRec}}}} )</description></snippet>

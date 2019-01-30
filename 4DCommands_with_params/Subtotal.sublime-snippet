@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Subtotal ( ${1:data} {; ${2:pageBreak}} )]]></content><tabTrigger>subtotal</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Subtotal ( data {; pageBreak} ) -&gt; Real</description></snippet>

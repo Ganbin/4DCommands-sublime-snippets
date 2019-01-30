@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR BLOB TO REPORT ( ${1:area} ; ${2:blob} )]]></content><tabTrigger>qr_blob_to_report</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR BLOB TO REPORT ( area ; blob )</description></snippet>

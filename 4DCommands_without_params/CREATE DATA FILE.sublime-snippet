@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE DATA FILE]]></content><tabTrigger>create_data_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE DATA FILE ( accessPath )</description></snippet>

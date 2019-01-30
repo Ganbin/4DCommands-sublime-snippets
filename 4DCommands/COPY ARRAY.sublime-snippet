@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[COPY ARRAY ( ${1:source} ; ${2:destination} )]]></content><tabTrigger>copy array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>COPY ARRAY ( source ; destination )</description></snippet>

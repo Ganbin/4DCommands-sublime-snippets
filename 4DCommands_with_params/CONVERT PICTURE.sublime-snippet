@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CONVERT PICTURE ( ${1:picture} ; ${2:codec} {; ${3:compression}} )]]></content><tabTrigger>convert_picture</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CONVERT PICTURE ( picture ; codec {; compression} )</description></snippet>

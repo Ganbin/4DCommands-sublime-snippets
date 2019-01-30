@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[FOLDER LIST ( ${1:pathname} ; ${2:directories} )]]></content><tabTrigger>folder list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FOLDER LIST ( pathname ; directories )</description></snippet>

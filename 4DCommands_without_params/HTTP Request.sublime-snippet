@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HTTP Request]]></content><tabTrigger>http_request</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HTTP Request ( httpMethod ; url ; contents ; response {; headerNames ; headerValues}{; *} ) -&gt; Longint</description></snippet>

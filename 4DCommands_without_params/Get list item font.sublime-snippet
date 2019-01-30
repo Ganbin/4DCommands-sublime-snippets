@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get list item font]]></content><tabTrigger>get_list_item_font</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get list item font ( {* ;} list ; itemRef | * ) -&gt; String</description></snippet>

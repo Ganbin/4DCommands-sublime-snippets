@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SELECTION RANGE TO ARRAY]]></content><tabTrigger>selection_range_to_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SELECTION RANGE TO ARRAY ( start ; end {; aField | aTable ; array} {; aField | aTable2 ; array2 ; ... ; aField | aTableN ; arrayN} )</description></snippet>

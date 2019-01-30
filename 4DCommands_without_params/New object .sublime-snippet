@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[New object ]]></content><tabTrigger>new_object_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>New object {( property ; value {; property2 ; value2 ; ... ; propertyN ; valueN} )} -&gt; Object</description></snippet>

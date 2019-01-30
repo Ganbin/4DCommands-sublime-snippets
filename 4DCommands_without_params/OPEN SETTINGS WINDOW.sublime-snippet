@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OPEN SETTINGS WINDOW]]></content><tabTrigger>open_settings_window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OPEN SETTINGS WINDOW ( selector {; access}{; settingsType} )</description></snippet>

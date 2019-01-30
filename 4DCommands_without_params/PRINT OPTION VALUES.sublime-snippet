@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PRINT OPTION VALUES]]></content><tabTrigger>print_option_values</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINT OPTION VALUES ( option ; namesArray {; info1Array {; info2Array}} ) </description></snippet>

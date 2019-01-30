@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get file from pasteboard]]></content><tabTrigger>get_file_from_pasteboard</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get file from pasteboard ( xIndex ) -&gt; String</description></snippet>

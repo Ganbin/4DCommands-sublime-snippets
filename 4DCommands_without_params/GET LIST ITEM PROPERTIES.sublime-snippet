@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET LIST ITEM PROPERTIES]]></content><tabTrigger>get_list_item_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LIST ITEM PROPERTIES ( {* ;} list ; itemRef | * ; enterable {; styles {; icon {; color}}} )</description></snippet>

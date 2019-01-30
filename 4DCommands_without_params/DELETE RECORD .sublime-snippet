@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE RECORD ]]></content><tabTrigger>delete_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE RECORD {( aTable )}</description></snippet>

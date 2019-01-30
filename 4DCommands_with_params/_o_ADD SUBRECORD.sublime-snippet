@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_ADD SUBRECORD ( ${1:subtable} ; ${2:form} {; ${3:*}} )]]></content><tabTrigger>_o_add_subrecord</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_ADD SUBRECORD ( subtable ; form {; *} )</description></snippet>

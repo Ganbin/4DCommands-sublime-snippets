@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ADJUST TABLE CACHE PRIORITY ( ${1:aTable} ; ${2:priority} )]]></content><tabTrigger>adjust table cache priority</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ADJUST TABLE CACHE PRIORITY ( aTable ; priority )</description></snippet>

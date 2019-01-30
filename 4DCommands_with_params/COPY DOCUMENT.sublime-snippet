@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[COPY DOCUMENT ( ${1:sourceName} ; ${2:destinationName} {; ${3:newName}} {; ${4:*}} )]]></content><tabTrigger>copy_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :COPY DOCUMENT ( sourceName ; destinationName {; newName} {; *} ) </description></snippet>

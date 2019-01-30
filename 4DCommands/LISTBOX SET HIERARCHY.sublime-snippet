@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX SET HIERARCHY ( {${1:*} ;} ${2:object} ; ${3:hierarchical} {; ${4:hierarchy}} )]]></content><tabTrigger>listbox set hierarchy</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET HIERARCHY ( {* ;} object ; hierarchical {; hierarchy} ) </description></snippet>

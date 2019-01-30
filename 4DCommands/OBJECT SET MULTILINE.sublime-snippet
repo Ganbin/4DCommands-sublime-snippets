@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OBJECT SET MULTILINE ( {${1:*} ;} ${2:object} ; ${3:multiline} )]]></content><tabTrigger>object set multiline</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT SET MULTILINE ( {* ;} object ; multiline )</description></snippet>

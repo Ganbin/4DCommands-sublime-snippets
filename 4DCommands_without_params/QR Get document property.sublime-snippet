@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get document property]]></content><tabTrigger>qr_get_document_property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get document property ( area ; property ) -&gt; Longint</description></snippet>

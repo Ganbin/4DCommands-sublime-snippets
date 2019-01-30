@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get print preview]]></content><tabTrigger>get print preview</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get print preview  -&gt; Boolean</description></snippet>

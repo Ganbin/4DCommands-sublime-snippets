@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SVG Find element IDs by rect]]></content><tabTrigger>svg_find_element_ids_by_rect</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SVG Find element IDs by rect ( {* ;} pictureObject ; x ; y ; width ; height ; arrIDs ) -&gt; Boolean</description></snippet>

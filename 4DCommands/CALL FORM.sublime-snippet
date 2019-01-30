@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[CALL FORM ( ${1:window} ; ${2:method} {; ${3:param}}{; ${4:param2} ; ${5:...} ; ${6:paramN}} )]]></content><tabTrigger>call form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CALL FORM ( window ; method {; param}{; param2 ; ... ; paramN} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get menu item mark ( ${1:menu} ; ${2:menuItem} {; ${3:process}} )]]></content><tabTrigger>get_menu_item_mark</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get menu item mark ( menu ; menuItem {; process} ) -&gt; String</description></snippet>

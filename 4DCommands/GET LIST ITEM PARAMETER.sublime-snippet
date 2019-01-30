@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET LIST ITEM PARAMETER ( {${1:*} ;} ${2:list} ; ${3:itemRef | *} ; ${4:selector} ; ${5:value} )]]></content><tabTrigger>get list item parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LIST ITEM PARAMETER ( {* ;} list ; itemRef | * ; selector ; value )</description></snippet>

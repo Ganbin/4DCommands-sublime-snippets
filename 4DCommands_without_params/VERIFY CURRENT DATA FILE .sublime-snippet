@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[VERIFY CURRENT DATA FILE ]]></content><tabTrigger>verify_current_data_file_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>VERIFY CURRENT DATA FILE {( objects ; options ; method {; tablesArray {; fieldsArray}} )}</description></snippet>

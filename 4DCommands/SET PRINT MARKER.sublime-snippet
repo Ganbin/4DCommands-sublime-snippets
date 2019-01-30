@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET PRINT MARKER ( ${1:markNum} ; ${2:position} {; ${3:*}} )]]></content><tabTrigger>set print marker</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET PRINT MARKER ( markNum ; position {; *} )</description></snippet>

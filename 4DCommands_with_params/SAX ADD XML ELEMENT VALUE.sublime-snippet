@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX ADD XML ELEMENT VALUE ( ${1:document} ; ${2:data} {; ${3:*}} )]]></content><tabTrigger>sax_add_xml_element_value</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SAX ADD XML ELEMENT VALUE ( document ; data {; *} )</description></snippet>

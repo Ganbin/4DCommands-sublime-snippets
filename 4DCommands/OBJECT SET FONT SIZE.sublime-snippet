@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OBJECT SET FONT SIZE ( {${1:*} ;} ${2:object} ; ${3:size} )]]></content><tabTrigger>object set font size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT SET FONT SIZE ( {* ;} object ; size )</description></snippet>

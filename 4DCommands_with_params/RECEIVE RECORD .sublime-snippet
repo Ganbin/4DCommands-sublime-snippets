@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RECEIVE RECORD  ( ${1:aTable} )]]></content><tabTrigger>receive_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :RECEIVE RECORD {( aTable )}</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM Get current page ]]></content><tabTrigger>form_get_current_page_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM Get current page {( * )} -&gt; Longint</description></snippet>

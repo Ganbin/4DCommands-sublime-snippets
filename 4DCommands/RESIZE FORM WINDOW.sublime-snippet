@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RESIZE FORM WINDOW ( ${1:width} ; ${2:height} )]]></content><tabTrigger>resize form window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESIZE FORM WINDOW ( width ; height )</description></snippet>

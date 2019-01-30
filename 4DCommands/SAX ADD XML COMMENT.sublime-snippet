@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SAX ADD XML COMMENT ( ${1:document} ; ${2:comment} )]]></content><tabTrigger>sax add xml comment</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX ADD XML COMMENT ( document ; comment )</description></snippet>

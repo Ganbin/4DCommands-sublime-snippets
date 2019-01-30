@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET TEXT KEYWORDS ( ${1:text} ; ${2:arrKeywords} {; ${3:*}} )]]></content><tabTrigger>get_text_keywords</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET TEXT KEYWORDS ( text ; arrKeywords {; *} )</description></snippet>

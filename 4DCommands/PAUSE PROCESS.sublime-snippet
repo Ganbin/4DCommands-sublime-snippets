@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[PAUSE PROCESS ( ${1:process} )]]></content><tabTrigger>pause process</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PAUSE PROCESS ( process )</description></snippet>

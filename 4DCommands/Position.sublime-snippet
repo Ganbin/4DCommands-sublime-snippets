@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Position ( ${1:find} ; ${2:aString} {; ${3:start} {; ${4:lengthFound}}}{; ${5:*}} )]]></content><tabTrigger>position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Position ( find ; aString {; start {; lengthFound}}{; *} ) -&gt; Longint</description></snippet>

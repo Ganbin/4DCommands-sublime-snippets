@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Max ( ${1:series} {; ${2:attributePath}} )]]></content><tabTrigger>max</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Max ( series {; attributePath} ) -&gt; Number, Date</description></snippet>

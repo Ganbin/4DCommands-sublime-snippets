@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX MOVED ROW NUMBER]]></content><tabTrigger>listbox_moved_row_number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX MOVED ROW NUMBER ( {* ;} object ; oldPosition ; newPosition )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET LIST ITEM ICON ( {${1:*} ;} ${2:list} ; ${3:itemRef | *} ; ${4:icon} )]]></content><tabTrigger>get_list_item_icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET LIST ITEM ICON ( {* ;} list ; itemRef | * ; icon )</description></snippet>

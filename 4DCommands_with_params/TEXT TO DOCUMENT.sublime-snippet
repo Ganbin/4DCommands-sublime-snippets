@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[TEXT TO DOCUMENT ( ${1:fileName} ; ${2:text} {; ${3:charSet} {; ${4:breakMode}}} )]]></content><tabTrigger>text_to_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :TEXT TO DOCUMENT ( fileName ; text {; charSet {; breakMode}} ) </description></snippet>

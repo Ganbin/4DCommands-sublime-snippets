@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Screen width ]]></content><tabTrigger>screen_width_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Screen width {( * )} -&gt; Longint</description></snippet>

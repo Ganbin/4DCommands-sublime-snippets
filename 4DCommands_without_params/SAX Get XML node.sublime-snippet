@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX Get XML node]]></content><tabTrigger>sax_get_xml_node</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX Get XML node ( document ) -&gt; Longint</description></snippet>

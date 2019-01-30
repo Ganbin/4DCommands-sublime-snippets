@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get printed height]]></content><tabTrigger>get_printed_height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get printed height  -&gt; Longint</description></snippet>

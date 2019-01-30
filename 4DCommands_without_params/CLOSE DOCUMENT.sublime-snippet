@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLOSE DOCUMENT]]></content><tabTrigger>close_document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CLOSE DOCUMENT ( docRef )</description></snippet>

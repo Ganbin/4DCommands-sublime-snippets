@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EXPORT ODBC ( ${1:sourceTable} {; ${2:project} {; ${3:*}}} )]]></content><tabTrigger>export_odbc</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :EXPORT ODBC ( sourceTable {; project {; *}} )</description></snippet>

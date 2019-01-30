@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get plugin access ( ${1:plugIn} )]]></content><tabTrigger>get_plugin_access</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get plugin access ( plugIn ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CHANGE CURRENT USER  ( ${1:user} ; ${2:password} )]]></content><tabTrigger>change_current_user_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CHANGE CURRENT USER {( user ; password )}</description></snippet>

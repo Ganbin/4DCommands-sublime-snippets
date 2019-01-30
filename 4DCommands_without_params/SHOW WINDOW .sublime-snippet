@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SHOW WINDOW ]]></content><tabTrigger>show_window_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SHOW WINDOW {( window )}</description></snippet>

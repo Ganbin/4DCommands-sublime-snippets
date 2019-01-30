@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MOBILE Return selection ( ${1:aTable} )]]></content><tabTrigger>mobile_return_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :MOBILE Return selection ( aTable ) -&gt; Object</description></snippet>

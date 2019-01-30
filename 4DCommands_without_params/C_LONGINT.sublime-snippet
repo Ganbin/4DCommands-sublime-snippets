@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[C_LONGINT]]></content><tabTrigger>c_longint</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>C_LONGINT ( {method ;} variable {; variable2 ; ... ; variableN} ) </description></snippet>

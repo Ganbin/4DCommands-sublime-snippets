@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PLUGIN ACCESS]]></content><tabTrigger>set_plugin_access</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET PLUGIN ACCESS ( plugIn ; group )</description></snippet>

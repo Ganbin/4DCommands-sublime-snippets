@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_SET CGI EXECUTABLE ( ${1:url1} {; ${2:url2}} )]]></content><tabTrigger>_o_set cgi executable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SET CGI EXECUTABLE ( url1 {; url2} )</description></snippet>

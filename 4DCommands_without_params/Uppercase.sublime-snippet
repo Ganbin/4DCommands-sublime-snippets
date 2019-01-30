@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Uppercase]]></content><tabTrigger>uppercase</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Uppercase ( aString {; *} ) -&gt; String</description></snippet>

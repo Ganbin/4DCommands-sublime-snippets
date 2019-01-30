@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RELATE MANY ( ${1:oneTable | Field} )]]></content><tabTrigger>relate_many</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :RELATE MANY ( oneTable | Field )</description></snippet>

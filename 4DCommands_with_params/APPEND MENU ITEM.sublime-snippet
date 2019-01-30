@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[APPEND MENU ITEM ( ${1:menu} ; ${2:itemText} {; ${3:subMenu} {; ${4:process} {; ${5:*}}}} )]]></content><tabTrigger>append_menu_item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :APPEND MENU ITEM ( menu ; itemText {; subMenu {; process {; *}}} )</description></snippet>

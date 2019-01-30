@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_MAP FILE TYPES ( ${1:macOS} ; ${2:windows} ; ${3:context} )]]></content><tabTrigger>_o_map_file_types</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_MAP FILE TYPES ( macOS ; windows ; context )</description></snippet>

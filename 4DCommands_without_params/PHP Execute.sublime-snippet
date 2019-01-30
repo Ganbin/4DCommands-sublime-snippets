@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PHP Execute]]></content><tabTrigger>php_execute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PHP Execute ( scriptPath {; functionName {; phpResult {; param} {; param2 ; ... ; paramN}}} ) -&gt; Boolean</description></snippet>

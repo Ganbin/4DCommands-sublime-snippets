@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Current time  ( ${1:*} )]]></content><tabTrigger>current_time_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Current time {( * )} -&gt; Time</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_Create resource file]]></content><tabTrigger>_o_create_resource_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Create resource file ( resFilename {; fileType {; *}} ) -&gt; DocRef</description></snippet>

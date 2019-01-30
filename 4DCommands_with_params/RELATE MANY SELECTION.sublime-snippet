@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RELATE MANY SELECTION ( ${1:aField} )]]></content><tabTrigger>relate_many_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :RELATE MANY SELECTION ( aField )</description></snippet>

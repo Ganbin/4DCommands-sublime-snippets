@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET WINDOW RECT ( ${1:left} ; ${2:top} ; ${3:right} ; ${4:bottom} {; ${5:window}}{; ${6:*}} )]]></content><tabTrigger>set_window_rect</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET WINDOW RECT ( left ; top ; right ; bottom {; window}{; *} )</description></snippet>

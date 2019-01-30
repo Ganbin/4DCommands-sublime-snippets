@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR Get info row ( ${1:area} ; ${2:row} )]]></content><tabTrigger>qr get info row</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get info row ( area ; row ) -&gt; Longint</description></snippet>

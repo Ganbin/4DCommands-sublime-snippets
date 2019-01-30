@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_SET PLATFORM INTERFACE ( ${1:interface} )]]></content><tabTrigger>_o_set platform interface</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SET PLATFORM INTERFACE ( interface )</description></snippet>

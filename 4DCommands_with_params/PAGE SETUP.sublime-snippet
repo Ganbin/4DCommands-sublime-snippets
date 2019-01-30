@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PAGE SETUP ( {${1:aTable} ;} ${2:form} )]]></content><tabTrigger>page_setup</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :PAGE SETUP ( {aTable ;} form )</description></snippet>

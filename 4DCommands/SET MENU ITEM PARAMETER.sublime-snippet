@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET MENU ITEM PARAMETER ( ${1:menu} ; ${2:menuItem} ; ${3:param} )]]></content><tabTrigger>set menu item parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET MENU ITEM PARAMETER ( menu ; menuItem ; param )</description></snippet>

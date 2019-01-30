@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get keyboard layout ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object_get_keyboard_layout</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT Get keyboard layout ( {* ;} object ) -&gt; String</description></snippet>

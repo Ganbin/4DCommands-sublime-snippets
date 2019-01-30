@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GRAPH SETTINGS]]></content><tabTrigger>graph_settings</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GRAPH SETTINGS ( graphPicture ; xmin ; xmax ; ymin ; ymax ; xprop ; xgrid ; ygrid ; title {; title2 ; ... ; titleN} )</description></snippet>

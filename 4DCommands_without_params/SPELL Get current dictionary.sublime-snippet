@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SPELL Get current dictionary]]></content><tabTrigger>spell_get_current_dictionary</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SPELL Get current dictionary  -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM SET XML ATTRIBUTE]]></content><tabTrigger>dom_set_xml_attribute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM SET XML ATTRIBUTE ( elementRef ; attribName ; attrValue {; attribName2 ; attrValue2 ; ... ; attribNameN ; attrValueN} )</description></snippet>

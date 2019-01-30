@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET BLOB SIZE]]></content><tabTrigger>set_blob_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET BLOB SIZE ( blob ; size {; filler} )</description></snippet>

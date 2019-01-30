@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Append document ( ${1:document} {; ${2:fileType}} )]]></content><tabTrigger>append document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Append document ( document {; fileType} ) -&gt; DocRef</description></snippet>

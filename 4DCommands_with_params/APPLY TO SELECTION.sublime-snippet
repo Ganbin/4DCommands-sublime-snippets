@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[APPLY TO SELECTION ( ${1:aTable} ; ${2:statement} )]]></content><tabTrigger>apply_to_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :APPLY TO SELECTION ( aTable ; statement )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET CURRENT PRINTER ( ${1:printerName} )]]></content><tabTrigger>set_current_printer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET CURRENT PRINTER ( printerName )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Drop position ]]></content><tabTrigger>drop_position_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Drop position {( columnNumber | pictPosY )} -&gt; Longint</description></snippet>

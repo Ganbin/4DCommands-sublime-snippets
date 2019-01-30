@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_PICTURE TYPE LIST ( ${1:formatArray} {; ${2:nameArray}} )]]></content><tabTrigger>_o_picture_type_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_PICTURE TYPE LIST ( formatArray {; nameArray} )</description></snippet>

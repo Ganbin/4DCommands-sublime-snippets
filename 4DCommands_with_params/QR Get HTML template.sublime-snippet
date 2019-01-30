@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get HTML template ( ${1:area} )]]></content><tabTrigger>qr_get_html_template</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR Get HTML template ( area ) -&gt; Text</description></snippet>

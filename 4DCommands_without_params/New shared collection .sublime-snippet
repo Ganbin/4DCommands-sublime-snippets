@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[New shared collection ]]></content><tabTrigger>new_shared_collection_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>New shared collection {( value {; value2 ; ... ; valueN} )} -&gt; Collection</description></snippet>

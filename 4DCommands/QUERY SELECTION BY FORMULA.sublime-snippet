@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QUERY SELECTION BY FORMULA ( ${1:aTable} {; ${2:queryFormula}} )]]></content><tabTrigger>query selection by formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY SELECTION BY FORMULA ( aTable {; queryFormula} )</description></snippet>

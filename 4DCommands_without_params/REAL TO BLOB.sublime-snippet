@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REAL TO BLOB]]></content><tabTrigger>real_to_blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>REAL TO BLOB ( real ; blob ; realFormat {; offset | *} ) </description></snippet>

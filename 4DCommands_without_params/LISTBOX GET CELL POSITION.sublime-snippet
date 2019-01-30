@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX GET CELL POSITION]]></content><tabTrigger>listbox_get_cell_position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX GET CELL POSITION ( {* ;} object {; X ; Y }; column ; row {; colVar} )</description></snippet>

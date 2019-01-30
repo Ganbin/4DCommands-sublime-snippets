@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Sequence number  ( ${1:aTable} )]]></content><tabTrigger>sequence_number_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Sequence number {( aTable )} -&gt; Longint</description></snippet>

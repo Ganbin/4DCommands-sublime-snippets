@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PICTURE PROPERTIES]]></content><tabTrigger>picture_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PICTURE PROPERTIES ( picture ; width ; height {; hOffset {; vOffset {; mode}}} )</description></snippet>

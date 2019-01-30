@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET GROUP LIST]]></content><tabTrigger>get_group_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET GROUP LIST ( groupNames ; groupNumbers )</description></snippet>

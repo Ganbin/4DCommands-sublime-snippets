@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_Before subselection ( ${1:subtable} )]]></content><tabTrigger>_o_before subselection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Before subselection ( subtable ) -&gt; Boolean</description></snippet>

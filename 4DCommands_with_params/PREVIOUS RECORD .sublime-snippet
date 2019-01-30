@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PREVIOUS RECORD  ( ${1:aTable} )]]></content><tabTrigger>previous_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :PREVIOUS RECORD {( aTable )}</description></snippet>

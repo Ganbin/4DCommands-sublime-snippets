@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Average ( ${1:series} {; ${2:attributePath}} )]]></content><tabTrigger>average</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Average ( series {; attributePath} ) -&gt; Real</description></snippet>

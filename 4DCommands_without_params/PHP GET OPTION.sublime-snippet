@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PHP GET OPTION]]></content><tabTrigger>php_get_option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PHP GET OPTION ( option ; value )</description></snippet>

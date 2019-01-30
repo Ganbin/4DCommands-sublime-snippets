@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR GET TOTALS DATA]]></content><tabTrigger>qr_get_totals_data</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR GET TOTALS DATA ( area ; colNum ; breakNum ; operator ; text )</description></snippet>

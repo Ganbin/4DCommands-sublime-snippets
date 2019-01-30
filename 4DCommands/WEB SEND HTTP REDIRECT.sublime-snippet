@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB SEND HTTP REDIRECT ( ${1:url} {; ${2:*}} )]]></content><tabTrigger>web send http redirect</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SEND HTTP REDIRECT ( url {; *} )</description></snippet>

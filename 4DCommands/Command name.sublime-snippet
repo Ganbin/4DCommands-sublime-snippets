@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Command name ( ${1:command} {; ${2:info} {; ${3:theme}}} )]]></content><tabTrigger>command name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Command name ( command {; info {; theme}} ) -&gt; String</description></snippet>

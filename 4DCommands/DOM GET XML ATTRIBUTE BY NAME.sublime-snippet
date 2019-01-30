@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DOM GET XML ATTRIBUTE BY NAME ( ${1:elementRef} ; ${2:attribName} ; ${3:attribValue} )]]></content><tabTrigger>dom get xml attribute by name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM GET XML ATTRIBUTE BY NAME ( elementRef ; attribName ; attribValue )</description></snippet>

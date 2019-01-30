@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_ARRAY STRING ( ${1:strLen} ; ${2:arrayName} ; ${3:size} {; ${4:size2}} )]]></content><tabTrigger>_o_array_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_ARRAY STRING ( strLen ; arrayName ; size {; size2} ) </description></snippet>

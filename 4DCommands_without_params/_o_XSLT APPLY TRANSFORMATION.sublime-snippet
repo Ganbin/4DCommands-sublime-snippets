@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_XSLT APPLY TRANSFORMATION]]></content><tabTrigger>_o_xslt_apply_transformation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_XSLT APPLY TRANSFORMATION ( xmlSource ; xslSheet ; result {; compileSheet} ) </description></snippet>

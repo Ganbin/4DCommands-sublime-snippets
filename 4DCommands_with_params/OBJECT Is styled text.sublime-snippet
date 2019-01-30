@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Is styled text ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object_is_styled_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT Is styled text ( {* ;} object ) -&gt; Boolean</description></snippet>

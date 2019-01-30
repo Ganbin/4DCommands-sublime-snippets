@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LDAP LOGIN]]></content><tabTrigger>ldap_login</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LDAP LOGOUT</description></snippet>

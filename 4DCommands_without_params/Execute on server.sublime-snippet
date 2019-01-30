@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Execute on server]]></content><tabTrigger>execute_on_server</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Execute on server ( procedure ; stack {; name {; param {; param2 ; ... ; paramN}}}{; *} ) -&gt; Longint</description></snippet>

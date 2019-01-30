@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET PICTURE FORMATS ( ${1:picture} ; ${2:codecIDs} )]]></content><tabTrigger>get picture formats</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE FORMATS ( picture ; codecIDs )</description></snippet>

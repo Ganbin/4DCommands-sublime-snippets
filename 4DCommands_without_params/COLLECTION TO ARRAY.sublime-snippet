@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[COLLECTION TO ARRAY]]></content><tabTrigger>collection_to_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>COLLECTION TO ARRAY ( collection ; array {; propertyName}{; array2 ; propertyName2 ; ... ; arrayN ; propertyNameN} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EXPORT SYLK ( {${1:aTable} ;} ${2:document} )]]></content><tabTrigger>export sylk</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXPORT SYLK ( {aTable ;} document )</description></snippet>

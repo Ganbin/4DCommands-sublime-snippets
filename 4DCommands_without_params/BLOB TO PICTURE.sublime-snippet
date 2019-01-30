@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB TO PICTURE]]></content><tabTrigger>blob_to_picture</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BLOB TO PICTURE ( pictureBlob ; picture {; codec} )</description></snippet>

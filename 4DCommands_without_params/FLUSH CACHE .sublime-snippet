@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FLUSH CACHE ]]></content><tabTrigger>flush_cache_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FLUSH CACHE {( size | * )}</description></snippet>

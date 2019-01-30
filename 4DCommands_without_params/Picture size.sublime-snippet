@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Picture size]]></content><tabTrigger>picture_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Picture size ( picture ) -&gt; Longint</description></snippet>

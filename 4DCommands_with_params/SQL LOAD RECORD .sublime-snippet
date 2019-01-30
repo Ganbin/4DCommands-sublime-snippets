@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL LOAD RECORD  ( ${1:numRecords} )]]></content><tabTrigger>sql_load_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SQL LOAD RECORD {( numRecords )}</description></snippet>

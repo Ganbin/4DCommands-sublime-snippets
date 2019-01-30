@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET DEFAULT CENTURY ( ${1:century} {; ${2:pivotYear}} )]]></content><tabTrigger>set_default_century</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET DEFAULT CENTURY ( century {; pivotYear} )</description></snippet>

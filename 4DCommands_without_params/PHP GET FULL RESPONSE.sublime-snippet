@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PHP GET FULL RESPONSE]]></content><tabTrigger>php_get_full_response</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PHP GET FULL RESPONSE ( stdOut {; errLabels ; errValues} {; httpHeaderFields {; httpHeaderValues}} )</description></snippet>

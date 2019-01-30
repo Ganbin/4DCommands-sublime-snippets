@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX MOVE COLUMN]]></content><tabTrigger>listbox_move_column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX MOVE COLUMN ( {* ;} object ; colPosition )</description></snippet>

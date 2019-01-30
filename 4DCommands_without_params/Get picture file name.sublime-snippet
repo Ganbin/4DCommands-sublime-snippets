@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get picture file name]]></content><tabTrigger>get_picture_file_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get picture file name ( picture ) -&gt; Text</description></snippet>

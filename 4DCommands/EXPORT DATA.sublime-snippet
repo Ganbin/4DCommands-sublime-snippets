@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EXPORT DATA ( ${1:fileName} {; ${2:project} {; ${3:*}}} )]]></content><tabTrigger>export data</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXPORT DATA ( fileName {; project {; *}} )</description></snippet>

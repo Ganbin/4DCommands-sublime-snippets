@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[FORM SET HORIZONTAL RESIZING ( ${1:resize} {; ${2:minWidth} {; ${3:maxWidth}}} )]]></content><tabTrigger>form set horizontal resizing</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET HORIZONTAL RESIZING ( resize {; minWidth {; maxWidth}} )</description></snippet>

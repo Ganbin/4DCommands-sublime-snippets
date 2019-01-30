@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DISTINCT ATTRIBUTE VALUES ( ${1:objectField} ; ${2:path} ; ${3:valuesArray} )]]></content><tabTrigger>distinct attribute values</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DISTINCT ATTRIBUTE VALUES ( objectField ; path ; valuesArray )</description></snippet>

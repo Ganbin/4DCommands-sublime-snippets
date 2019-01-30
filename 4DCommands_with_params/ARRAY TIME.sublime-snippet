@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY TIME ( ${1:arrayName} ; ${2:size} {; ${3:size2}} )]]></content><tabTrigger>array_time</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :ARRAY TIME ( arrayName ; size {; size2} )</description></snippet>

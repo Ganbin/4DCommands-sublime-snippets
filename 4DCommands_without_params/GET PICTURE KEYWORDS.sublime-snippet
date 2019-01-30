@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PICTURE KEYWORDS]]></content><tabTrigger>get_picture_keywords</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE KEYWORDS ( picture ; arrKeywords {; *} )</description></snippet>

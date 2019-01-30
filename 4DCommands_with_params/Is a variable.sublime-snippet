@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is a variable ( ${1:aPointer} )]]></content><tabTrigger>is_a_variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Is a variable ( aPointer ) -&gt; Boolean</description></snippet>

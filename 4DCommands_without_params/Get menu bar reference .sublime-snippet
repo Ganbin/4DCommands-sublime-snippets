@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get menu bar reference ]]></content><tabTrigger>get_menu_bar_reference_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get menu bar reference {( process )} -&gt; MenuRef</description></snippet>

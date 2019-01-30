@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Right click]]></content><tabTrigger>right_click</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Right click  -&gt; Boolean</description></snippet>

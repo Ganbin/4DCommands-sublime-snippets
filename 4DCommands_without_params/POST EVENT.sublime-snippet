@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[POST EVENT]]></content><tabTrigger>post_event</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>POST EVENT ( what ; message ; when ; mouseX ; mouseY ; modifiers {; process} )</description></snippet>

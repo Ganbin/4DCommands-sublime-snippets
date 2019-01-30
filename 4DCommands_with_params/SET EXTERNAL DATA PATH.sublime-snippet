@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET EXTERNAL DATA PATH ( ${1:aField} ; ${2:path} )]]></content><tabTrigger>set_external_data_path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET EXTERNAL DATA PATH ( aField ; path )</description></snippet>

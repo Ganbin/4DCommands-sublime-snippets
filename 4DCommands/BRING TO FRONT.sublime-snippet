@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[BRING TO FRONT ( ${1:process} )]]></content><tabTrigger>bring to front</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BRING TO FRONT ( process )</description></snippet>

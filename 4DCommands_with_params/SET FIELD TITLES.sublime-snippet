@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET FIELD TITLES ( ${1:aTable} ; ${2:fieldTitles} ; ${3:fieldNumbers} {; ${4:*}} )]]></content><tabTrigger>set_field_titles</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET FIELD TITLES ( aTable ; fieldTitles ; fieldNumbers {; *} ) </description></snippet>

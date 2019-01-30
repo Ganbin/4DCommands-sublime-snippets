@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAVE RECORD ]]></content><tabTrigger>save_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAVE RECORD {( aTable )}</description></snippet>

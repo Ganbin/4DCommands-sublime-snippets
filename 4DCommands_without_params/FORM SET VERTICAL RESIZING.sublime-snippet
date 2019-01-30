@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SET VERTICAL RESIZING]]></content><tabTrigger>form_set_vertical_resizing</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET VERTICAL RESIZING ( resize {; minHeight {; maxHeight}} )</description></snippet>

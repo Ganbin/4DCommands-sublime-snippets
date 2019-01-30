@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get adjusted blobs cache priority ( ${1:aTable} )]]></content><tabTrigger>get_adjusted_blobs_cache_priority</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get adjusted blobs cache priority ( aTable ) -&gt; Longint</description></snippet>

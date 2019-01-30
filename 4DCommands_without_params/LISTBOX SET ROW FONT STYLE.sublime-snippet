@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET ROW FONT STYLE]]></content><tabTrigger>listbox_set_row_font_style</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET ROW FONT STYLE ( {* ;} object ; row ; style )</description></snippet>

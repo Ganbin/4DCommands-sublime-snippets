@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SERVICE Get info ( ${1:infoType} )]]></content><tabTrigger>web_service_get_info</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :WEB SERVICE Get info ( infoType ) -&gt; String</description></snippet>

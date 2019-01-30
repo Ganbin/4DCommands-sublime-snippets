@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD GET MODIFICATION DATE ( ${1:path} ; ${2:modDate} ; ${3:modTime} {; ${4:*}} )]]></content><tabTrigger>method_get_modification_date</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :METHOD GET MODIFICATION DATE ( path ; modDate ; modTime {; *} ) </description></snippet>

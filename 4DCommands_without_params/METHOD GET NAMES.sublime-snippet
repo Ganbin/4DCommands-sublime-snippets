@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD GET NAMES]]></content><tabTrigger>method_get_names</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET NAMES ( arrNames {; filter}{; *} )</description></snippet>

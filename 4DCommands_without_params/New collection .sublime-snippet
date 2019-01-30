@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[New collection ]]></content><tabTrigger>new_collection_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>New collection {( value {; value2 ; ... ; valueN} )} -&gt; Collection</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SERVICE SET PARAMETER]]></content><tabTrigger>web_service_set_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SERVICE SET PARAMETER ( name ; value {; soapType} )</description></snippet>

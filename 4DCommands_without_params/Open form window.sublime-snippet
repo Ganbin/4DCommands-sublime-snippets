@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Open form window]]></content><tabTrigger>open_form_window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Open form window ( {aTable ;} formName {; type {; hPos {; vPos {; *}}}} ) -&gt; WinRef</description></snippet>

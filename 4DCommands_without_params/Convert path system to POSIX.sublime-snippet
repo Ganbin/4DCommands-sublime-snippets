@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Convert path system to POSIX]]></content><tabTrigger>convert_path_system_to_posix</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Convert path system to POSIX ( systemPath {; *} ) -&gt; Text</description></snippet>

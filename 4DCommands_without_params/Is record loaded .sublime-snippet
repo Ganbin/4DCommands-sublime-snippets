@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is record loaded ]]></content><tabTrigger>is_record_loaded_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is record loaded {( aTable )} -&gt; Boolean</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE SET FROM ARRAY ( ${1:aTable} ; ${2:recordsArray} {; ${3:setName}} )]]></content><tabTrigger>create_set_from_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CREATE SET FROM ARRAY ( aTable ; recordsArray {; setName} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB to longint ( ${1:blob} ; ${2:byteOrder} {; ${3:offset}} )]]></content><tabTrigger>blob_to_longint</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :BLOB to longint ( blob ; byteOrder {; offset} ) -&gt; Longint</description></snippet>

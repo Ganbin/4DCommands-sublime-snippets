@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DRAG AND DROP PROPERTIES ( ${1:srcObject} ; ${2:srcElement} ; ${3:srcProcess} )]]></content><tabTrigger>drag_and_drop_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DRAG AND DROP PROPERTIES ( srcObject ; srcElement ; srcProcess )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ASSERT ( ${1:boolExpression} {; ${2:messageText}} )]]></content><tabTrigger>assert</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :ASSERT ( boolExpression {; messageText} )</description></snippet>

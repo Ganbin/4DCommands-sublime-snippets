@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET AUTO ROW HEIGHT]]></content><tabTrigger>listbox_set_auto_row_height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET AUTO ROW HEIGHT ( {* ;} object ; selector ; value ; unit )</description></snippet>

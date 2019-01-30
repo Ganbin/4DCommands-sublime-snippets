@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_MODIFY SUBRECORD]]></content><tabTrigger>_o_modify_subrecord</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_MODIFY SUBRECORD ( subtable ; form {; *} )</description></snippet>

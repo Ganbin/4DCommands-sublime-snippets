@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get format]]></content><tabTrigger>object_get_format</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get format ( {* ;} object ) -&gt; String</description></snippet>

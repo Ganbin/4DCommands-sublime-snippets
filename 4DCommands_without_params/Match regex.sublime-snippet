@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Match regex]]></content><tabTrigger>match_regex</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Match regex ( pattern ; aString ; start {; pos_found ; length_found}{; *} ) -&gt; Boolean</description></snippet>

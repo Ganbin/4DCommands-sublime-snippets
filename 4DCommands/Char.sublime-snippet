@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Char ( ${1:charCode} )]]></content><tabTrigger>char</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Char ( charCode ) -&gt; String</description></snippet>

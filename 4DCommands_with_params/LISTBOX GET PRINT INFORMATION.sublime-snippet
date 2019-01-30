@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX GET PRINT INFORMATION ( {${1:*} ;} ${2:object} ; ${3:selector} ; ${4:info} )]]></content><tabTrigger>listbox_get_print_information</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LISTBOX GET PRINT INFORMATION ( {* ;} object ; selector ; info )</description></snippet>

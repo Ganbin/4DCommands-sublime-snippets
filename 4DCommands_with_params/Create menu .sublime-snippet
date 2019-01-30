@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Create menu  ( ${1:menu} )]]></content><tabTrigger>create_menu_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Create menu {( menu )} -&gt; MenuRef</description></snippet>

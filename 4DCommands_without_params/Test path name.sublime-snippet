@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Test path name]]></content><tabTrigger>test_path_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Test path name ( pathname ) -&gt; Longint</description></snippet>

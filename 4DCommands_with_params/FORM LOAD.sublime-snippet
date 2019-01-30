@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM LOAD ( {${1:aTable} ;} ${2:form} {; ${3:*}} )]]></content><tabTrigger>form_load</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :FORM LOAD ( {aTable ;} form {; *} )</description></snippet>

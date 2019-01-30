@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUERY BY SQL]]></content><tabTrigger>query_by_sql</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY BY SQL ( {aTable ;} sqlFormula )</description></snippet>

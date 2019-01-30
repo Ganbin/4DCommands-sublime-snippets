@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX SET XML DECLARATION]]></content><tabTrigger>sax_set_xml_declaration</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX SET XML DECLARATION ( document ; encoding {; standalone {; indentation}} ) </description></snippet>

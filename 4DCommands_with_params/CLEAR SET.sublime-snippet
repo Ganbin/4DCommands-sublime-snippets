@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLEAR SET ( ${1:set} )]]></content><tabTrigger>clear_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CLEAR SET ( set )</description></snippet>

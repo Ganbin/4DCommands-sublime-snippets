@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR SET TOTALS DATA ( ${1:area} ; ${2:colNum} ; ${3:breakNum} ; ${4:operator | value} )]]></content><tabTrigger>qr_set_totals_data</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR SET TOTALS DATA ( area ; colNum ; breakNum ; operator | value )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LOAD RECORD  ( ${1:aTable} )]]></content><tabTrigger>load_record_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LOAD RECORD {( aTable )}</description></snippet>

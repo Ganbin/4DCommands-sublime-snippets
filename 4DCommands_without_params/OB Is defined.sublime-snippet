@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB Is defined]]></content><tabTrigger>ob_is_defined</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB Is defined ( object {; property} ) -&gt; Boolean</description></snippet>

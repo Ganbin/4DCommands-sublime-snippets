@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SOAP DECLARATION]]></content><tabTrigger>soap_declaration</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SOAP DECLARATION ( variable ; type ; input_output {; alias} ) </description></snippet>

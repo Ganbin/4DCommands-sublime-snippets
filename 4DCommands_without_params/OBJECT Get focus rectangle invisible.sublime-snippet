@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get focus rectangle invisible]]></content><tabTrigger>object_get_focus_rectangle_invisible</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get focus rectangle invisible ( {* ;} object ) -&gt; Boolean</description></snippet>

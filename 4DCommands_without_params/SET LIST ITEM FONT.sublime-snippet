@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET LIST ITEM FONT]]></content><tabTrigger>set_list_item_font</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET LIST ITEM FONT ( {* ;} list ; itemRef | * ; font )</description></snippet>

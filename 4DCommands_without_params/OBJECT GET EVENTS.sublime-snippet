@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET EVENTS]]></content><tabTrigger>object_get_events</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET EVENTS ( {* ;} object ; arrEvents )</description></snippet>

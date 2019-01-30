@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get report table ( ${1:area} )]]></content><tabTrigger>qr_get_report_table</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR Get report table ( area ) -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[XML GET ERROR ( ${1:elementRef} ; ${2:errorText} {; ${3:row} {; ${4:column}}} )]]></content><tabTrigger>xml_get_error</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :XML GET ERROR ( elementRef ; errorText {; row {; column}} ) </description></snippet>

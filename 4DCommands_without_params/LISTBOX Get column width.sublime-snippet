@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get column width]]></content><tabTrigger>listbox_get_column_width</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get column width ( {* ;} object {; minWidth {; maxWidth}} )  -&gt; Longint</description></snippet>

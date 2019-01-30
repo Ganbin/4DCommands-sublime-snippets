@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Shift down]]></content><tabTrigger>shift_down</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Shift down  -&gt; Boolean</description></snippet>

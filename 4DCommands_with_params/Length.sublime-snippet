@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Length ( ${1:string} )]]></content><tabTrigger>length</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Length ( string ) -&gt; Longint</description></snippet>

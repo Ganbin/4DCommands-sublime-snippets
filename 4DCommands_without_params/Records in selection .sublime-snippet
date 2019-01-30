@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Records in selection ]]></content><tabTrigger>records_in_selection_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Records in selection {( aTable )} -&gt; Longint</description></snippet>

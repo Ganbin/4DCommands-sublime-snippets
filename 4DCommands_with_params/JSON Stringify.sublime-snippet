@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[JSON Stringify ( ${1:value} {; ${2:*}} )]]></content><tabTrigger>json_stringify</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :JSON Stringify ( value {; *} ) -&gt; Text</description></snippet>

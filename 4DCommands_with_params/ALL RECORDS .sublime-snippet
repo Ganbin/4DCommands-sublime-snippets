@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ALL RECORDS  ( ${1:aTable} )]]></content><tabTrigger>all_records_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :ALL RECORDS {( aTable )}</description></snippet>

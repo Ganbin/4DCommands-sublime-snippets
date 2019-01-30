@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET MOUSE ( ${1:mouseX} ; ${2:mouseY} ; ${3:mouseButton} {; ${4:*}} )]]></content><tabTrigger>get_mouse</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET MOUSE ( mouseX ; mouseY ; mouseButton {; *} ) </description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DOCUMENT TO BLOB ( ${1:document} ; ${2:blob} {; ${3:*}} )]]></content><tabTrigger>document to blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOCUMENT TO BLOB ( document ; blob {; *} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SAX GET XML DOCUMENT VALUES ( ${1:document} ; ${2:encoding} ; ${3:version} ; ${4:standalone} )]]></content><tabTrigger>sax get xml document values</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX GET XML DOCUMENT VALUES ( document ; encoding ; version ; standalone )</description></snippet>

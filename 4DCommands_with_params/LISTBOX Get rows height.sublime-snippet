@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get rows height ( {${1:*} ;} ${2:object} {; ${3:unit}} )]]></content><tabTrigger>listbox_get_rows_height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LISTBOX Get rows height ( {* ;} object {; unit} ) -&gt; Integer</description></snippet>

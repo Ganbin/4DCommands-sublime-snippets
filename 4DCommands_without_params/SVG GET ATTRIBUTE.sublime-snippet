@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SVG GET ATTRIBUTE]]></content><tabTrigger>svg_get_attribute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SVG GET ATTRIBUTE ( {* ;} pictureObject ; element_ID ; attribName ; attribValue )</description></snippet>

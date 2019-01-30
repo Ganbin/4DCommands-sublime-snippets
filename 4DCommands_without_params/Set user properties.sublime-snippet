@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Set user properties]]></content><tabTrigger>set_user_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Set user properties ( userID ; name ; startup ; password ; nbLogin ; lastLogin {; memberships {; groupOwner}} ) -&gt; Longint</description></snippet>

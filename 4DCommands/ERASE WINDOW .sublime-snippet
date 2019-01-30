@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ERASE WINDOW  ( ${1:window} )]]></content><tabTrigger>erase window </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ERASE WINDOW {( window )}</description></snippet>

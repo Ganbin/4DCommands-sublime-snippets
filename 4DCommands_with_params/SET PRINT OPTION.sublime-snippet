@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PRINT OPTION ( ${1:option} ; ${2:value1} {; ${3:value2}} )]]></content><tabTrigger>set_print_option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET PRINT OPTION ( option ; value1 {; value2} )</description></snippet>

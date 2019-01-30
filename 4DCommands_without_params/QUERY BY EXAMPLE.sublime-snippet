@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUERY BY EXAMPLE]]></content><tabTrigger>query_by_example</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY BY EXAMPLE ( {aTable}{;}{*} )</description></snippet>

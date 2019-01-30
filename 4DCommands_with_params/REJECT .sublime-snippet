@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REJECT  ( ${1:aField} )]]></content><tabTrigger>reject_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :REJECT {( aField )}</description></snippet>

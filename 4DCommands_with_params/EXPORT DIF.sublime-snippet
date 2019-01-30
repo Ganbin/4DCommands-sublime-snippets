@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EXPORT DIF ( {${1:aTable} ;} ${2:document} )]]></content><tabTrigger>export_dif</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :EXPORT DIF ( {aTable ;} document )</description></snippet>

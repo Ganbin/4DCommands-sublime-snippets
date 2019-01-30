@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[MAXIMIZE WINDOW  ( ${1:window} )]]></content><tabTrigger>maximize window </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>MAXIMIZE WINDOW {( window )}</description></snippet>

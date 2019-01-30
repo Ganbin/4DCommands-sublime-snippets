@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DOM Parse XML source ( ${1:document} {; ${2:validation} {; ${3:dtd | schema}}} )]]></content><tabTrigger>dom parse xml source</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Parse XML source ( document {; validation {; dtd | schema}} ) -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX SET GRID]]></content><tabTrigger>listbox_set_grid</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX SET GRID ( {* ;} object ; horizontal ; vertical )</description></snippet>

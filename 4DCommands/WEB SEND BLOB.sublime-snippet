@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB SEND BLOB ( ${1:blob} ; ${2:type} )]]></content><tabTrigger>web send blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SEND BLOB ( blob ; type )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL EXECUTE SCRIPT]]></content><tabTrigger>sql_execute_script</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SQL EXECUTE SCRIPT ( scriptPath ; errorAction {; attribName ; attribValue} {; attribName2 ; attribValue2 ; ... ; attribNameN ; attribValueN} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PICTURE FILE NAME ( ${1:picture} ; ${2:fileName} )]]></content><tabTrigger>set_picture_file_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET PICTURE FILE NAME ( picture ; fileName )</description></snippet>

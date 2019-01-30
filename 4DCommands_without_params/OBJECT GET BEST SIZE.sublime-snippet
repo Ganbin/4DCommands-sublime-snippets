@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET BEST SIZE]]></content><tabTrigger>object_get_best_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET BEST SIZE ( {* ;} object ; bestWidth ; bestHeight {; maxWidth} )</description></snippet>

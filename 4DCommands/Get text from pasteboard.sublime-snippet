@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get text from pasteboard]]></content><tabTrigger>get text from pasteboard</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get text from pasteboard  -&gt; String</description></snippet>

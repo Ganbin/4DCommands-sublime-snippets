@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get subrecord key ( ${1:idField} )]]></content><tabTrigger>get subrecord key</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get subrecord key ( idField ) -&gt; Longint</description></snippet>

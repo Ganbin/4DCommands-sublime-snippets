@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET MENU ITEM PROPERTY]]></content><tabTrigger>get_menu_item_property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET MENU ITEM PROPERTY ( menu ; menuItem ; property ; value {; process} )</description></snippet>

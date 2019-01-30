@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST Get content type]]></content><tabTrigger>st_get_content_type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST Get content type ( {* ;} object {; startSel {; endSel {; startBlock {; endBlock}}}} ) -&gt; Longint</description></snippet>

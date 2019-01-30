@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Convert to text ( ${1:blob} ; ${2:charSet} )]]></content><tabTrigger>convert_to_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Convert to text ( blob ; charSet ) -&gt; Text</description></snippet>

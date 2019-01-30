@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET LIST ITEM PARAMETER ARRAYS]]></content><tabTrigger>get_list_item_parameter_arrays</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LIST ITEM PARAMETER ARRAYS ( {* ;} list ; itemRef | * ; arrSelection {; arrValues} )</description></snippet>

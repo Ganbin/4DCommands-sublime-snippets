@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Count in array]]></content><tabTrigger>count_in_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Count in array ( array ; value ) -&gt; Longint</description></snippet>

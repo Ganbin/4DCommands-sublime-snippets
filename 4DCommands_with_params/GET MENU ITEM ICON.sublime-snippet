@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET MENU ITEM ICON ( ${1:menu} ; ${2:menuItem} ; ${3:iconRef} {; ${4:process}} )]]></content><tabTrigger>get_menu_item_icon</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET MENU ITEM ICON ( menu ; menuItem ; iconRef {; process} ) </description></snippet>

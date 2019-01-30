@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GOTO SELECTED RECORD ( {${1:aTable} ;} ${2:record} )]]></content><tabTrigger>goto_selected_record</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GOTO SELECTED RECORD ( {aTable ;} record )</description></snippet>

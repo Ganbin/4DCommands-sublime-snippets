@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Get XML information ( ${1:elementRef} ; ${2:xmlInfo} )]]></content><tabTrigger>dom_get_xml_information</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :DOM Get XML information ( elementRef ; xmlInfo ) -&gt; String</description></snippet>

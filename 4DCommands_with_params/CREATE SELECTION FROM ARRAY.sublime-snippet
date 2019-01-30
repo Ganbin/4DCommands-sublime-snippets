@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE SELECTION FROM ARRAY ( ${1:aTable} ; ${2:recordArray} {; ${3:selectionName}} )]]></content><tabTrigger>create_selection_from_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CREATE SELECTION FROM ARRAY ( aTable ; recordArray {; selectionName} )</description></snippet>

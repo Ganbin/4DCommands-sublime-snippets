@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SEND TEXT ( ${1:htmlText} {; ${2:type}} )]]></content><tabTrigger>web_send_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :WEB SEND TEXT ( htmlText {; type} )</description></snippet>

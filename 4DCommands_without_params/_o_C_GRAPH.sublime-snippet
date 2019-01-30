@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_C_GRAPH]]></content><tabTrigger>_o_c_graph</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_C_GRAPH ( {method ;} variable {; variable2 ; ... ; variableN} ) </description></snippet>

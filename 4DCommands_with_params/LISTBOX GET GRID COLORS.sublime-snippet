@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX GET GRID COLORS ( {${1:*} ;} ${2:object} ; ${3:hColor} ; ${4:vColor} )]]></content><tabTrigger>listbox_get_grid_colors</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LISTBOX GET GRID COLORS ( {* ;} object ; hColor ; vColor )</description></snippet>

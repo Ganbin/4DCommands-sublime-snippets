@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PRINT PREVIEW ( ${1:preview} )]]></content><tabTrigger>set_print_preview</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET PRINT PREVIEW ( preview )</description></snippet>

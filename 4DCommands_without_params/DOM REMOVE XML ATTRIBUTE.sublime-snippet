@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM REMOVE XML ATTRIBUTE]]></content><tabTrigger>dom_remove_xml_attribute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM REMOVE XML ATTRIBUTE ( elementRef ; attribName )</description></snippet>

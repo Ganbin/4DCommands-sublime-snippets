@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB SET NULL ( ${1:object} ; ${2:property} )]]></content><tabTrigger>ob_set_null</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OB SET NULL ( object ; property )</description></snippet>

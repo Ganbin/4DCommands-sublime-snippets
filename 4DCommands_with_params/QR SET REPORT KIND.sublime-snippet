@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR SET REPORT KIND ( ${1:area} ; ${2:type} )]]></content><tabTrigger>qr_set_report_kind</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR SET REPORT KIND ( area ; type )</description></snippet>

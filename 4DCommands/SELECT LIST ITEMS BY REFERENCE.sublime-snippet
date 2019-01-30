@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SELECT LIST ITEMS BY REFERENCE ( ${1:list} ; ${2:itemRef} {; ${3:refArray}} )]]></content><tabTrigger>select list items by reference</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SELECT LIST ITEMS BY REFERENCE ( list ; itemRef {; refArray} )</description></snippet>

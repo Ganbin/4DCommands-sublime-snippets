@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[GET LAST ERROR STACK ( ${1:codesArray} ; ${2:intCompArray} ; ${3:textArray} )]]></content><tabTrigger>get last error stack</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LAST ERROR STACK ( codesArray ; intCompArray ; textArray )</description></snippet>

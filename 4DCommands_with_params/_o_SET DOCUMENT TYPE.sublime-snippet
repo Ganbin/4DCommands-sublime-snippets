@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_SET DOCUMENT TYPE ( ${1:document} ; ${2:fileType} )]]></content><tabTrigger>_o_set_document_type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_SET DOCUMENT TYPE ( document ; fileType )</description></snippet>

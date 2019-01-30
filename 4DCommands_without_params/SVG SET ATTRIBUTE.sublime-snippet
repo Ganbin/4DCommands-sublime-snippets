@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SVG SET ATTRIBUTE]]></content><tabTrigger>svg_set_attribute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SVG SET ATTRIBUTE ( {* ;} pictureObject ; element_ID ; attribName ; attribValue {; attribName2 ; attribValue2 ; ... ; attribNameN ; attribValueN} {; *})</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Log ( ${1:number} )]]></content><tabTrigger>log</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Log ( number ) -&gt; Real</description></snippet>

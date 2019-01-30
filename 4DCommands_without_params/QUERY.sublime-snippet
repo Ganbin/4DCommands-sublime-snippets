@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QUERY]]></content><tabTrigger>query</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QUERY ( {aTable }{;}{ queryArgument {; *}} )</description></snippet>

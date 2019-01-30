@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_QT COMPRESS PICTURE ( ${1:picture} ; ${2:method} ; ${3:quality} )]]></content><tabTrigger>_o_qt compress picture</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_QT COMPRESS PICTURE ( picture ; method ; quality )</description></snippet>

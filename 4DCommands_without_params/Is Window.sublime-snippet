@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is Window]]></content><tabTrigger>is_window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is Windows -&gt; Boolean</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Pop up menu]]></content><tabTrigger>pop_up_menu</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Pop up menu ( contents {; default {; xCoord ; yCoord}} )  -&gt; Longint</description></snippet>

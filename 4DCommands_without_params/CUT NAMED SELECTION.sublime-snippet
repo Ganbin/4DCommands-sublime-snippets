@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CUT NAMED SELECTION]]></content><tabTrigger>cut_named_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CUT NAMED SELECTION ( {aTable ;} name )</description></snippet>

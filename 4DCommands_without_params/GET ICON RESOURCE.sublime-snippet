@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET ICON RESOURCE]]></content><tabTrigger>get_icon_resource</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET ICON RESOURCE ( resID ; resData {; fileRef} )</description></snippet>

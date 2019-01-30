@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET DOCUMENT POSITION ( ${1:docRef} ; ${2:offset} {; ${3:anchor}} )]]></content><tabTrigger>set document position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET DOCUMENT POSITION ( docRef ; offset {; anchor} )</description></snippet>

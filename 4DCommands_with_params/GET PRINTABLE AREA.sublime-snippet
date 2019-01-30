@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PRINTABLE AREA ( ${1:height} {; ${2:width}} )]]></content><tabTrigger>get_printable_area</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET PRINTABLE AREA ( height {; width} )</description></snippet>

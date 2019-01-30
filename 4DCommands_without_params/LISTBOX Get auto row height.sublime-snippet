@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get auto row height]]></content><tabTrigger>listbox_get_auto_row_height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get auto row height ( {* ;} object ; selector {; unit} )  -&gt; Longint</description></snippet>

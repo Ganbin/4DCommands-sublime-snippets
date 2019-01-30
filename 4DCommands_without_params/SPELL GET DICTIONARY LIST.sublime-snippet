@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SPELL GET DICTIONARY LIST]]></content><tabTrigger>spell_get_dictionary_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SPELL GET DICTIONARY LIST ( langID ; langFiles ; langNames )</description></snippet>

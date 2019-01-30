@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET MENU ITEMS ( ${1:menu} ; ${2:menuTitlesArray} ; ${3:menuRefsArray} )]]></content><tabTrigger>get_menu_items</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :GET MENU ITEMS ( menu ; menuTitlesArray ; menuRefsArray )</description></snippet>

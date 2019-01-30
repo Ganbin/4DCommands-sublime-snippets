@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR GET SELECTION ( ${1:area} ; ${2:left} ; ${3:top} {; ${4:right} {; ${5:bottom}}} )]]></content><tabTrigger>qr get selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR GET SELECTION ( area ; left ; top {; right {; bottom}} )</description></snippet>

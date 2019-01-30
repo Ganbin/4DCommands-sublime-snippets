@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET TIMER ( ${1:tickCount} )]]></content><tabTrigger>set_timer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET TIMER ( tickCount )</description></snippet>

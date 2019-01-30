@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Sin ( ${1:number} )]]></content><tabTrigger>sin</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Sin ( number ) -&gt; Real</description></snippet>

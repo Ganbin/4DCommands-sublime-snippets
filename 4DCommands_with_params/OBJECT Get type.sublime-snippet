@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get type ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object_get_type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT Get type ( {* ;} object ) -&gt; Longint</description></snippet>

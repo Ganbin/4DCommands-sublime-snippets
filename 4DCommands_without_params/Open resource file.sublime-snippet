@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Open resource file]]></content><tabTrigger>open_resource_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Open resource file ( resFilename {; fileType} ) -&gt; DocRef</description></snippet>

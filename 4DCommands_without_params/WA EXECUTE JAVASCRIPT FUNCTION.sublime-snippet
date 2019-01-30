@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA EXECUTE JAVASCRIPT FUNCTION]]></content><tabTrigger>wa_execute_javascript_function</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA EXECUTE JAVASCRIPT FUNCTION ( {* ;} object ; jsFunction ; result|* {; param}{; param2 ; ... ; paramN} )</description></snippet>

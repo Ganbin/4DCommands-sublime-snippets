@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Table name]]></content><tabTrigger>table_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Table name ( tableNum | tablePtr ) -&gt; String</description></snippet>

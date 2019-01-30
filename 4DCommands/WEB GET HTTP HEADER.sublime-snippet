@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB GET HTTP HEADER ( header|fieldArray {; ${2:valueArray}} )]]></content><tabTrigger>web get http header</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB GET HTTP HEADER ( header|fieldArray {; valueArray} )</description></snippet>

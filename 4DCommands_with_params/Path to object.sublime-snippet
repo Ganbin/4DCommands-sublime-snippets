@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Path to object ( ${1:path} {; ${2:pathType}} )]]></content><tabTrigger>path_to_object</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Path to object ( path {; pathType} ) -&gt; Object</description></snippet>

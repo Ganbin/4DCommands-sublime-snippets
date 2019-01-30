@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST GET URL]]></content><tabTrigger>st_get_url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST GET URL ( {* ;} object ; urlText ; urlAddress {; startSel {; endSel}} )</description></snippet>

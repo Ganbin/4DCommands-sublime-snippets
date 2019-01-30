@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OB Get type ( ${1:object} ; ${2:property} )]]></content><tabTrigger>ob get type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB Get type ( object ; property ) -&gt; Longint</description></snippet>

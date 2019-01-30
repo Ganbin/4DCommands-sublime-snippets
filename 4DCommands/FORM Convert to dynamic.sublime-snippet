@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[FORM Convert to dynamic ( {${1:aTable} ;} ${2:formName} )]]></content><tabTrigger>form convert to dynamic</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM Convert to dynamic ( {aTable ;} formName ) -&gt; Object</description></snippet>

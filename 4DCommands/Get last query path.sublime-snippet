@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get last query path ( ${1:descFormat} )]]></content><tabTrigger>get last query path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get last query path ( descFormat ) -&gt; String</description></snippet>

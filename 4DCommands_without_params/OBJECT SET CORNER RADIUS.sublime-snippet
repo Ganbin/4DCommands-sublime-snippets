@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT SET CORNER RADIUS]]></content><tabTrigger>object_set_corner_radius</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT SET CORNER RADIUS ( {* ;} object ; radius )</description></snippet>

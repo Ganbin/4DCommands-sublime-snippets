@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE USER FORM]]></content><tabTrigger>delete_user_form</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE USER FORM ( aTable ; form ; userForm )</description></snippet>

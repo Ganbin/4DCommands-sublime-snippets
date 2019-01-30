@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA REFRESH CURRENT URL]]></content><tabTrigger>wa_refresh_current_url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA REFRESH CURRENT URL ( {* ;} object )</description></snippet>

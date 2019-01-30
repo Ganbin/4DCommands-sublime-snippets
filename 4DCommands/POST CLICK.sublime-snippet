@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[POST CLICK ( ${1:mouseX} ; ${2:mouseY} {; ${3:process}} {; ${4:*}} )]]></content><tabTrigger>post click</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>POST CLICK ( mouseX ; mouseY {; process} {; *} ) </description></snippet>

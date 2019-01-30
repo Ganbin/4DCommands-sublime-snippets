@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Find window ( ${1:left} ; ${2:top} {; ${3:windowPart}} )]]></content><tabTrigger>find window</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Find window ( left ; top {; windowPart} ) -&gt; WinRef</description></snippet>

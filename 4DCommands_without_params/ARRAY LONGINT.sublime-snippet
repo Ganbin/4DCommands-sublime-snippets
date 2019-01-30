@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY LONGINT]]></content><tabTrigger>array_longint</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY LONGINT ( arrayName ; size {; size2} )</description></snippet>

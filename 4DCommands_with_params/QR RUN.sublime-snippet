@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR RUN ( ${1:area} )]]></content><tabTrigger>qr_run</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR RUN ( area )</description></snippet>

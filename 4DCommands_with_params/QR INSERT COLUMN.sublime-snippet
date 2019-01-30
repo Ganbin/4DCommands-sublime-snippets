@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR INSERT COLUMN ( ${1:area} ; ${2:colNumber} ; ${3:object} )]]></content><tabTrigger>qr_insert_column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR INSERT COLUMN ( area ; colNumber ; object )</description></snippet>

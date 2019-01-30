@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[C_POINTER]]></content><tabTrigger>c_pointer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>C_POINTER ( {method ;} variable {; variable2 ; ... ; variableN} ) </description></snippet>

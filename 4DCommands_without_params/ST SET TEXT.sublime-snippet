@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST SET TEXT]]></content><tabTrigger>st_set_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST SET TEXT ( {* ;} object ; newText {; startSel {; endSel}} )</description></snippet>

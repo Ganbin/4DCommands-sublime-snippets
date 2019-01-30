@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RESTART 4D ]]></content><tabTrigger>restart_4d_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESTART 4D {( time {; message} )}</description></snippet>

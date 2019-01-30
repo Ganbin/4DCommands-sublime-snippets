@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_APPLY TO SUBSELECTION ( ${1:subtable} ; ${2:statement} )]]></content><tabTrigger>_o_apply_to_subselection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_APPLY TO SUBSELECTION ( subtable ; statement )</description></snippet>

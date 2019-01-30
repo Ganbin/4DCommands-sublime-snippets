@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Load 4D View document ( ${1:4DViewDocument} )]]></content><tabTrigger>load 4d view document</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Load 4D View document ( 4DViewDocument ) -&gt; Object</description></snippet>

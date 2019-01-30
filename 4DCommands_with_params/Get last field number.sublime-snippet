@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get last field number ( ${1:tableNum | tablePtr} )]]></content><tabTrigger>get_last_field_number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get last field number ( tableNum | tablePtr ) -&gt; Longint</description></snippet>

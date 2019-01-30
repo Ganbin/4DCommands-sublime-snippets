@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET BLOBS CACHE PRIORITY]]></content><tabTrigger>set_blobs_cache_priority</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET BLOBS CACHE PRIORITY ( aTable ; priority )</description></snippet>

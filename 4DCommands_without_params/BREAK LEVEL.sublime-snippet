@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BREAK LEVEL]]></content><tabTrigger>break_level</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>BREAK LEVEL ( level {; pageBreak} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[New list]]></content><tabTrigger>new_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :New list  -&gt; ListRef</description></snippet>

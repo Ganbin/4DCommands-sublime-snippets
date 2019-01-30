@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SAX OPEN XML ELEMENT]]></content><tabTrigger>sax_open_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAX OPEN XML ELEMENT ( document ; tag {; attribName ; attribValue} {; attribName2 ; attribValue2 ; ... ; attribNameN ; attribValueN} )</description></snippet>

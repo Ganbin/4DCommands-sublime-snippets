@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET SCROLL POSITION]]></content><tabTrigger>object_get_scroll_position</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET SCROLL POSITION ( {* ;} object ; vPosition {; hPosition} ) </description></snippet>

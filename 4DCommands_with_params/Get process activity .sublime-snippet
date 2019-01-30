@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get process activity  ( ${1:options} )]]></content><tabTrigger>get_process_activity_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get process activity {( options )} -&gt; Object</description></snippet>

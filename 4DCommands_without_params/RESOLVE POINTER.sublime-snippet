@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RESOLVE POINTER]]></content><tabTrigger>resolve_pointer</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESOLVE POINTER ( aPointer ; varName ; tableNum ; fieldNum )</description></snippet>

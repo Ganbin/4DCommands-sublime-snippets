@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is field number valid ( ${1:tableNum | tablePtr} ; ${2:fieldNum} )]]></content><tabTrigger>is_field_number_valid</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Is field number valid ( tableNum | tablePtr ; fieldNum ) -&gt; Boolean</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR SET DESTINATION]]></content><tabTrigger>qr_set_destination</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR SET DESTINATION ( area ; type {; specifics} )</description></snippet>

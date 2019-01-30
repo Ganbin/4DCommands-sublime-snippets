@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET FIELD ENTRY PROPERTIES]]></content><tabTrigger>get_field_entry_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET FIELD ENTRY PROPERTIES ( fieldPtr|tableNum {; fieldNum}; list ; mandatory ; nonEnterable ; nonModifiable )</description></snippet>

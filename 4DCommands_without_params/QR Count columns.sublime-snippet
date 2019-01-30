@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Count columns]]></content><tabTrigger>qr_count_columns</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Count columns ( area ) -&gt; Longint</description></snippet>

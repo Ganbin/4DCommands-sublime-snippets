@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WA SET PAGE TEXT SMALLER ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>wa set page text smaller</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA SET PAGE TEXT SMALLER ( {* ;} object )</description></snippet>

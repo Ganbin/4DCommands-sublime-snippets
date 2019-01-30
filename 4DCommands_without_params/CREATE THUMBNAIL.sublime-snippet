@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE THUMBNAIL]]></content><tabTrigger>create_thumbnail</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE THUMBNAIL ( source ; dest {; width {; height {; mode {; depth}}}} )</description></snippet>

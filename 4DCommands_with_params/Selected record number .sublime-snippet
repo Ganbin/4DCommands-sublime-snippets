@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Selected record number  ( ${1:aTable} )]]></content><tabTrigger>selected_record_number_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Selected record number {( aTable )} -&gt; Longint</description></snippet>

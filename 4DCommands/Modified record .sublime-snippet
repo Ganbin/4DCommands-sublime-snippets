@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Modified record  ( ${1:aTable} )]]></content><tabTrigger>modified record </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Modified record {( aTable )} -&gt; Boolean</description></snippet>

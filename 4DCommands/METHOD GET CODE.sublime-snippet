@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[METHOD GET CODE ( ${1:path} ; ${2:code} {; ${3:option}} {; ${4:*}} )]]></content><tabTrigger>method get code</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD GET CODE ( path ; code {; option} {; *} ) </description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[XML DECODE]]></content><tabTrigger>xml_decode</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>XML DECODE ( xmlValue ; 4Dvar )</description></snippet>

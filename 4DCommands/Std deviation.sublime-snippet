@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Std deviation ( ${1:series} )]]></content><tabTrigger>std deviation</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Std deviation ( series ) -&gt; Real</description></snippet>

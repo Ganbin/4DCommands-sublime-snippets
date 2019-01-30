@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET LIST ITEM PROPERTIES]]></content><tabTrigger>set_list_item_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET LIST ITEM PROPERTIES ( {* ;} list ; itemRef | * ; enterable ; styles ; icon {; color} )</description></snippet>

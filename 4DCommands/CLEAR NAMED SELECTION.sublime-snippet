@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[CLEAR NAMED SELECTION ( ${1:name} )]]></content><tabTrigger>clear named selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CLEAR NAMED SELECTION ( name )</description></snippet>

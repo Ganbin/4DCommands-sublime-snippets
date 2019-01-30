@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PICTURE TO BLOB ( ${1:picture} ; ${2:pictureBlob} ; ${3:codec} )]]></content><tabTrigger>picture_to_blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :PICTURE TO BLOB ( picture ; pictureBlob ; codec )</description></snippet>

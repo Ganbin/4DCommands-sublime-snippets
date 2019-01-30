@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[C_PICTURE ( {${1:method} ;} ${2:variable} {; ${3:variable2} ; ${4:...} ; ${5:variableN}} )]]></content><tabTrigger>c_picture</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>C_PICTURE ( {method ;} variable {; variable2 ; ... ; variableN} ) </description></snippet>

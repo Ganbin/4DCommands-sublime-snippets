@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OPEN DATA FILE ( ${1:accessPath} )]]></content><tabTrigger>open_data_file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OPEN DATA FILE ( accessPath )</description></snippet>

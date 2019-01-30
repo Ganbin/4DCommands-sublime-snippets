@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SQL SET OPTION ( ${1:option} ; ${2:value} )]]></content><tabTrigger>sql set option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SQL SET OPTION ( option ; value )</description></snippet>

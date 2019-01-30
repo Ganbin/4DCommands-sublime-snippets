@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get area property ( ${1:area} ; ${2:property} )]]></content><tabTrigger>qr_get_area_property</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR Get area property ( area ; property ) -&gt; Longint</description></snippet>

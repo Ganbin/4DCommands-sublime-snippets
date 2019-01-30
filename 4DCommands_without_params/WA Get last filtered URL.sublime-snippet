@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA Get last filtered URL]]></content><tabTrigger>wa_get_last_filtered_url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA Get last filtered URL ( {* ;} object ) -&gt; String</description></snippet>

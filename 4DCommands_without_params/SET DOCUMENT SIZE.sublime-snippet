@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET DOCUMENT SIZE]]></content><tabTrigger>set_document_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET DOCUMENT SIZE ( docRef ; size )</description></snippet>

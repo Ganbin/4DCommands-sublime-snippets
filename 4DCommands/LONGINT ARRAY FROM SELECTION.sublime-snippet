@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LONGINT ARRAY FROM SELECTION ( ${1:aTable} ; ${2:recordArray} {; ${3:selection}} )]]></content><tabTrigger>longint array from selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LONGINT ARRAY FROM SELECTION ( aTable ; recordArray {; selection} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET ALLOWED METHODS]]></content><tabTrigger>set_allowed_methods</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET ALLOWED METHODS ( methodsArray )</description></snippet>

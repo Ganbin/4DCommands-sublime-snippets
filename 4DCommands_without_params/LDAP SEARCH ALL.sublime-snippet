@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LDAP SEARCH ALL]]></content><tabTrigger>ldap_search_all</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LDAP SEARCH ALL ( dnRootEntry ; arrResult ; filter {; scope {; attributes {; attributesAsArray}}} )</description></snippet>

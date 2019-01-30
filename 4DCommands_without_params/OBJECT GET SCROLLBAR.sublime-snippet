@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET SCROLLBAR]]></content><tabTrigger>object_get_scrollbar</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT GET SCROLLBAR ( {* ;} object ; horizontal ; vertical )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[USE ENTITY SELECTION ( ${1:entitySelection} )]]></content><tabTrigger>use entity selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>USE ENTITY SELECTION ( entitySelection )</description></snippet>

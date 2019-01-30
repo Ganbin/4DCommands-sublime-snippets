@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SHOW ON DISK]]></content><tabTrigger>show_on_disk</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SHOW ON DISK ( pathname {; *} )</description></snippet>

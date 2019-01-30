@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get footers height]]></content><tabTrigger>listbox_get_footers_height</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get footers height ( {* ;} object {; unit} ) -&gt; Longint</description></snippet>

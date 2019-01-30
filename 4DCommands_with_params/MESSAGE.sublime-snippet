@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MESSAGE ( ${1:message} )]]></content><tabTrigger>message</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :MESSAGE ( message )</description></snippet>

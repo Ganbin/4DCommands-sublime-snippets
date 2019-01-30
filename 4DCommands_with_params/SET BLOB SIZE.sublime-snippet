@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET BLOB SIZE ( ${1:blob} ; ${2:size} {; ${3:filler}} )]]></content><tabTrigger>set_blob_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET BLOB SIZE ( blob ; size {; filler} )</description></snippet>

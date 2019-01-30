@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CONFIRM ( ${1:message} {; ${2:okButtonTitle} {; ${3:cancelButtonTitle}}} )]]></content><tabTrigger>confirm</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CONFIRM ( message {; okButtonTitle {; cancelButtonTitle}} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM GET VERTICAL RESIZING ( ${1:resize} {; ${2:minHeight} {; ${3:maxHeight}}} )]]></content><tabTrigger>form_get_vertical_resizing</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :FORM GET VERTICAL RESIZING ( resize {; minHeight {; maxHeight}} )</description></snippet>

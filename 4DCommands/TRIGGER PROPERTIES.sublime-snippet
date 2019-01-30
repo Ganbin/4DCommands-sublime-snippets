@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[TRIGGER PROPERTIES ( ${1:triggerLevel} ; ${2:dbEvent} ; ${3:tableNum} ; ${4:recordNum} )]]></content><tabTrigger>trigger properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>TRIGGER PROPERTIES ( triggerLevel ; dbEvent ; tableNum ; recordNum )</description></snippet>

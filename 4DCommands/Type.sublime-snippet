@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Type ( ${1:fieldVar} )]]></content><tabTrigger>type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Type ( fieldVar ) -&gt; Longint</description></snippet>

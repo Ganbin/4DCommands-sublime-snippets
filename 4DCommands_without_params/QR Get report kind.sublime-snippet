@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR Get report kind]]></content><tabTrigger>qr_get_report_kind</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get report kind ( area ) -&gt; Longint</description></snippet>

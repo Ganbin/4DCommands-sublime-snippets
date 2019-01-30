@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[BLOB to print settings ( ${1:printSettings} {; ${2:params}} )]]></content><tabTrigger>blob_to_print_settings</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :BLOB to print settings ( printSettings {; params} ) -&gt; Longint</description></snippet>

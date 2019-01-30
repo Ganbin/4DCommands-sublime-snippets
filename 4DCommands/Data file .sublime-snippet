@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Data file  ( ${1:segment} )]]></content><tabTrigger>data file </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Data file {( segment )} -&gt; String</description></snippet>

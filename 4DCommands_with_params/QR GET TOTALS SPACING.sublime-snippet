@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR GET TOTALS SPACING ( ${1:area} ; ${2:subtotal} ; ${3:value} )]]></content><tabTrigger>qr_get_totals_spacing</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR GET TOTALS SPACING ( area ; subtotal ; value )</description></snippet>

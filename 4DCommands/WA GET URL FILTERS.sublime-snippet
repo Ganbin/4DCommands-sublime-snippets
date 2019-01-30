@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WA GET URL FILTERS ( {${1:*} ;} ${2:object} ; ${3:filtersArr} ; ${4:allowDenyArr} )]]></content><tabTrigger>wa get url filters</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA GET URL FILTERS ( {* ;} object ; filtersArr ; allowDenyArr )</description></snippet>

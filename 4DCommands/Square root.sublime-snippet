@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Square root ( ${1:number} )]]></content><tabTrigger>square root</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Square root ( number ) -&gt; Real</description></snippet>

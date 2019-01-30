@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET DATABASE LOCALIZATION ( ${1:languageCode} {; ${2:*}} )]]></content><tabTrigger>set_database_localization</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET DATABASE LOCALIZATION ( languageCode {; *} )</description></snippet>

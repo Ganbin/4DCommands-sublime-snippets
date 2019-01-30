@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB SET ARRAY ( ${1:object} ; ${2:property} ; ${3:array} )]]></content><tabTrigger>ob_set_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OB SET ARRAY ( object ; property ; array )</description></snippet>

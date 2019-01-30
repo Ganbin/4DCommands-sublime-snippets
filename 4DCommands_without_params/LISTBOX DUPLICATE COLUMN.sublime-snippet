@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX DUPLICATE COLUMN]]></content><tabTrigger>listbox_duplicate_column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX DUPLICATE COLUMN ( {* ;} object ; colPosition ; colName ; colVariable ; headerName ; headerVar {; footerName ; footerVar} ) </description></snippet>

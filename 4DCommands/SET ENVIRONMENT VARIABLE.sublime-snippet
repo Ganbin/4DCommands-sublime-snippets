@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET ENVIRONMENT VARIABLE ( ${1:varName} ; ${2:varValue} )]]></content><tabTrigger>set environment variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET ENVIRONMENT VARIABLE ( varName ; varValue )</description></snippet>

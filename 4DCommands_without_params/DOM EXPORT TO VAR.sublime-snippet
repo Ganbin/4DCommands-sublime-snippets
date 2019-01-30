@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM EXPORT TO VAR]]></content><tabTrigger>dom_export_to_var</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM EXPORT TO VAR ( elementRef ; vXmlVar )</description></snippet>

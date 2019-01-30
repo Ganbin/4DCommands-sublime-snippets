@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET PRINTABLE MARGIN]]></content><tabTrigger>set_printable_margin</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET PRINTABLE MARGIN ( left ; top ; right ; bottom )</description></snippet>

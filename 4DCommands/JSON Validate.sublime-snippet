@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[JSON Validate ( ${1:vJson} ; ${2:vSchema} )]]></content><tabTrigger>json validate</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>JSON Validate ( vJson ; vSchema ) -&gt; Object</description></snippet>

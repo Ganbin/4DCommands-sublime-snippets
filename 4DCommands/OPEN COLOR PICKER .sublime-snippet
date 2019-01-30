@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OPEN COLOR PICKER  ( ${1:textOrBackground} )]]></content><tabTrigger>open color picker </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OPEN COLOR PICKER {( textOrBackground )}</description></snippet>

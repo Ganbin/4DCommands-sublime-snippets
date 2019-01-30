@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CONFIRM]]></content><tabTrigger>confirm</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CONFIRM ( message {; okButtonTitle {; cancelButtonTitle}} )</description></snippet>

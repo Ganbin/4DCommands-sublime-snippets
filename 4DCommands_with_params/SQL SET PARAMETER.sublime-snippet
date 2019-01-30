@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL CANCEL LOAD ]]></content><tabTrigger>sql_set_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SQL CANCEL LOAD </description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[INSERT MENU ITEM]]></content><tabTrigger>insert_menu_item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>INSERT MENU ITEM ( menu ; afterItem ; itemText {; subMenu {; process}}{; *} )</description></snippet>

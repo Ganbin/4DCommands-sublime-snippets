@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA Get current URL ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>wa_get_current_url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :WA Get current URL ( {* ;} object ) -&gt; String</description></snippet>

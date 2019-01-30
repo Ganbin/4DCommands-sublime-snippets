@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR REPORT]]></content><tabTrigger>qr_report</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR REPORT ( {aTable ;} document {; hierarchical {; wizard {; search {; methodName {; *}}}} )</description></snippet>

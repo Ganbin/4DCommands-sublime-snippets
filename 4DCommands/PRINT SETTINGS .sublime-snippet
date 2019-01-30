@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[PRINT SETTINGS  ( ${1:dialType} )]]></content><tabTrigger>print settings </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINT SETTINGS {( dialType )}</description></snippet>

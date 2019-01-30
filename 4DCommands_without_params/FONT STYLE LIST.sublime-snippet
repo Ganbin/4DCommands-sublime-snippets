@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FONT STYLE LIST]]></content><tabTrigger>font_style_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FONT STYLE LIST ( fontFamily ; fontStyleList ; fontNameList )</description></snippet>

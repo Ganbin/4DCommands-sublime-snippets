@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Create entity selection]]></content><tabTrigger>create_entity_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Create entity selection ( dsTable ) -&gt; EntitySelection</description></snippet>

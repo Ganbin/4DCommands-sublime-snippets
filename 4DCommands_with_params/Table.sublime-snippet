@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Table ( ${1:tableNum | aPtr} )]]></content><tabTrigger>table</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Table ( tableNum | aPtr ) -&gt; Longint, Pointer</description></snippet>

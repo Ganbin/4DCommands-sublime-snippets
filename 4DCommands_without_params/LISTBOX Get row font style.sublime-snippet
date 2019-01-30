@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX Get row font style]]></content><tabTrigger>listbox_get_row_font_style</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX Get row font style ( {* ;} object ; row ) -&gt; Longint</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[JSON TO SELECTION ( ${1:aTable} ; ${2:jsonArray} )]]></content><tabTrigger>json_to_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :JSON TO SELECTION ( aTable ; jsonArray )</description></snippet>

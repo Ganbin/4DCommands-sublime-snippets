@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WEB SERVICE CALL]]></content><tabTrigger>web_service_call</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SERVICE CALL ( accessURL ; soapAction ; methodName ; nameSpace {; complexType {; *}} )</description></snippet>

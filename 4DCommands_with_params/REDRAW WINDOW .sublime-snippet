@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REDRAW WINDOW  ( ${1:window} )]]></content><tabTrigger>redraw_window_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :REDRAW WINDOW {( window )}</description></snippet>

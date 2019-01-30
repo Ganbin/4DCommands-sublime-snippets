@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[HTTP AUTHENTICATE ( ${1:name} ; ${2:password} {; ${3:authMethod}} {; ${4:*}} )]]></content><tabTrigger>http_authenticate</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :HTTP AUTHENTICATE ( name ; password {; authMethod} {; *} ) </description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get localized string ( ${1:resName} )]]></content><tabTrigger>get_localized_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get localized string ( resName ) -&gt; String</description></snippet>

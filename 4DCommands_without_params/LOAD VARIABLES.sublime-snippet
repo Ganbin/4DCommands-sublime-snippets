@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LOAD VARIABLES]]></content><tabTrigger>load_variables</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LOAD VARIABLES ( document ; variable {; variable2 ; ... ; variableN} ) </description></snippet>

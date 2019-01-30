@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA OPEN FORWARD URL ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>wa_open_forward_url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :WA OPEN FORWARD URL ( {* ;} object )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST GET OPTIONS]]></content><tabTrigger>st_get_options</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ST GET OPTIONS ( {* ;} object ; option ; value {; option2 ; value2 ; ... ; optionN ; valueN} )</description></snippet>

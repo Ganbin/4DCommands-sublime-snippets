@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[COPY BLOB ( ${1:srcBLOB} ; ${2:dstBLOB} ; ${3:srcOffset} ; ${4:dstOffset} ; ${5:len} )]]></content><tabTrigger>copy_blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :COPY BLOB ( srcBLOB ; dstBLOB ; srcOffset ; dstOffset ; len )</description></snippet>

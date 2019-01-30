@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR Get drop column ( ${1:area} )]]></content><tabTrigger>qr get drop column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR Get drop column ( area ) -&gt; Longint</description></snippet>

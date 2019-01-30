@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get assert enable]]></content><tabTrigger>get_assert_enable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get assert enabled -&gt; Boolean</description></snippet>

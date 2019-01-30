@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB GET STATISTICS ( ${1:pages} ; ${2:hits} ; ${3:usage} )]]></content><tabTrigger>web get statistics</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB GET STATISTICS ( pages ; hits ; usage )</description></snippet>

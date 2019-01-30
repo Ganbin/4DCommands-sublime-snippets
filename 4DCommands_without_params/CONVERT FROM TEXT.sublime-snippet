@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CONVERT FROM TEXT]]></content><tabTrigger>convert_from_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CONVERT FROM TEXT ( 4Dtext ; charSet ; convertedBLOB )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_XSLT SET PARAMETER ( ${1:paramName} ; ${2:paramValue} )]]></content><tabTrigger>_o_xslt_set_parameter</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_XSLT SET PARAMETER ( paramName ; paramValue )</description></snippet>

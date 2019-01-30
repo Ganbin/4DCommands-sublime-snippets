@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[METHOD SET ACCESS MODE ( ${1:mode} )]]></content><tabTrigger>method set access mode</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD SET ACCESS MODE ( mode )</description></snippet>

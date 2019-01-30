@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LOCKED BY ( {${1:aTable} ;} ${2:process} ; ${3:4Duser} ; ${4:sessionUser} ; ${5:processName} )]]></content><tabTrigger>locked_by</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :LOCKED BY ( {aTable ;} process ; 4Duser ; sessionUser ; processName )</description></snippet>

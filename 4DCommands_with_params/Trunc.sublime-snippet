@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Trunc ( ${1:number} ; ${2:places} )]]></content><tabTrigger>trunc</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Trunc ( number ; places ) -&gt; Real</description></snippet>

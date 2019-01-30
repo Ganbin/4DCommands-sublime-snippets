@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Add to date ( ${1:date} ; ${2:years} ; ${3:months} ; ${4:days} )]]></content><tabTrigger>add to date</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Add to date ( date ; years ; months ; days ) -&gt; Date</description></snippet>

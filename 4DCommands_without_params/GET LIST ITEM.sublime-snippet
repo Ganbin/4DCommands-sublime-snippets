@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET LIST ITEM]]></content><tabTrigger>get_list_item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET LIST ITEM ( {* ;} list ; itemPos | * ; itemRef ; itemText {; sublist ; expanded} )</description></snippet>

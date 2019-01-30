@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SET SIZE]]></content><tabTrigger>form_set_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM SET SIZE ( {object ;} horizontal ; vertical {; *} ) </description></snippet>

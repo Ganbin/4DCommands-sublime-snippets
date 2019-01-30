@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[QR MOVE COLUMN ( ${1:area} ; ${2:column} ; ${3:newPos} )]]></content><tabTrigger>qr_move_column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :QR MOVE COLUMN ( area ; column ; newPos )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX EXPAND]]></content><tabTrigger>listbox_expand</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX EXPAND ( {* ;} object {; recursive {; selector {; line {; column}}}} )</description></snippet>

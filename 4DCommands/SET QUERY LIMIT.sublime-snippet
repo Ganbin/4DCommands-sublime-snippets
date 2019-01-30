@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SET QUERY LIMIT ( ${1:limit} )]]></content><tabTrigger>set query limit</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET QUERY LIMIT ( limit )</description></snippet>

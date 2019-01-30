@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[System folder  ( ${1:type} )]]></content><tabTrigger>system_folder_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :System folder {( type )} -&gt; String</description></snippet>

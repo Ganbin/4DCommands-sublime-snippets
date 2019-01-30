@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[KILL WORKER ]]></content><tabTrigger>kill_worker_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>KILL WORKER {( process )}</description></snippet>

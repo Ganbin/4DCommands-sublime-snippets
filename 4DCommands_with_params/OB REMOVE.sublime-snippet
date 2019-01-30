@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB REMOVE ( ${1:object} ; ${2:property} )]]></content><tabTrigger>ob_remove</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OB REMOVE ( object ; property )</description></snippet>

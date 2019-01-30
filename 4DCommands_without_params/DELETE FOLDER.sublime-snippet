@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DELETE FOLDER]]></content><tabTrigger>delete_folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DELETE FOLDER ( folder {; deleteOption} )</description></snippet>

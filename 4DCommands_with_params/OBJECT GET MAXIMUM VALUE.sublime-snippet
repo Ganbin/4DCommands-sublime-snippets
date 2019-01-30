@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT GET MAXIMUM VALUE ( {${1:*} ;} ${2:object} ; ${3:maxValue} )]]></content><tabTrigger>object_get_maximum_value</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT GET MAXIMUM VALUE ( {* ;} object ; maxValue )</description></snippet>

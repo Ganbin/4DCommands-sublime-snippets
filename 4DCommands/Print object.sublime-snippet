@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Print object ( {${1:*} ;} ${2:object} {; ${3:posX} {; ${4:posY} {; ${5:width} {; ${6:height}}}}} )]]></content><tabTrigger>print object</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Print object ( {* ;} object {; posX {; posY {; width {; height}}}} ) -&gt; Boolean</description></snippet>

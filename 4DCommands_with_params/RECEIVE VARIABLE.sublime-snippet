@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[RECEIVE VARIABLE ( ${1:variable} )]]></content><tabTrigger>receive_variable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :RECEIVE VARIABLE ( variable )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WINDOW LIST ( ${1:windows} {; ${2:*}} )]]></content><tabTrigger>window list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WINDOW LIST ( windows {; *} )</description></snippet>

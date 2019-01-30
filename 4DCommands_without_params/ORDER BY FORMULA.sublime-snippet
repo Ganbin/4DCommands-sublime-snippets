@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ORDER BY FORMULA]]></content><tabTrigger>order_by_formula</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ORDER BY FORMULA ( aTable ; formula {; &gt; or &lt;}{; formula2 ; &gt; or &lt;2 ; ... ; formulaN ; &gt; or &lt;N} )</description></snippet>

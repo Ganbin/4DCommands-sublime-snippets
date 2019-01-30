@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[QR SET HTML TEMPLATE ( ${1:area} ; ${2:template} )]]></content><tabTrigger>qr set html template</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>QR SET HTML TEMPLATE ( area ; template )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PRINT SELECTION]]></content><tabTrigger>print_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINT SELECTION ( {aTable}{;}{* | &gt;} )</description></snippet>

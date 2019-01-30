@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET RELATION PROPERTIES]]></content><tabTrigger>get_relation_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET RELATION PROPERTIES ( fieldPtr|tableNum {; fieldNum}; oneTable ; oneField {; choiceField {; autoOne {; autoMany}}} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLOSE WINDOW ]]></content><tabTrigger>close_window_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CLOSE WINDOW {( window )}</description></snippet>

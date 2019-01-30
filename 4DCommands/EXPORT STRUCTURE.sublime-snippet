@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[EXPORT STRUCTURE ( ${1:xmlStructure} )]]></content><tabTrigger>export structure</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXPORT STRUCTURE ( xmlStructure )</description></snippet>

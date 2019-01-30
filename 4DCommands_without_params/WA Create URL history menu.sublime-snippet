@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA Create URL history menu]]></content><tabTrigger>wa_create_url_history_menu</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA Create URL history menu ( {* ;} object {; direction} ) -&gt; MenuRef</description></snippet>

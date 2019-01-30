@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Asserted]]></content><tabTrigger>asserted</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Asserted ( boolExpression {; messageText} ) -&gt; Boolean</description></snippet>

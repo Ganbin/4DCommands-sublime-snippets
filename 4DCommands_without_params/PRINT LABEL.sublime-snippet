@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PRINT LABEL]]></content><tabTrigger>print_label</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINT LABEL ( {aTable }{;}{ document {; * | &gt;}} )</description></snippet>

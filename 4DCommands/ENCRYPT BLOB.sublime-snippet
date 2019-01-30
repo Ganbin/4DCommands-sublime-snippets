@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ENCRYPT BLOB ( ${1:toEncrypt} ; ${2:sendPrivKey} {; ${3:recipPubKey}} )]]></content><tabTrigger>encrypt blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ENCRYPT BLOB ( toEncrypt ; sendPrivKey {; recipPubKey} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DOM Count XML elements ( ${1:elementRef} ; ${2:elementName} )]]></content><tabTrigger>dom count xml elements</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Count XML elements ( elementRef ; elementName ) -&gt; Longint</description></snippet>

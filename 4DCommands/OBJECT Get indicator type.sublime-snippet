@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OBJECT Get indicator type ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object get indicator type</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get indicator type ( {* ;} object ) -&gt; Longint</description></snippet>

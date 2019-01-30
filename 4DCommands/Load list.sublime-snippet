@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Load list ( ${1:listName} )]]></content><tabTrigger>load list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Load list ( listName ) -&gt; ListRef</description></snippet>

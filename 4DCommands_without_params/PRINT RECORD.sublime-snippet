@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[PRINT RECORD]]></content><tabTrigger>print_record</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>PRINT RECORD ( {aTable}{;}{* | &gt;} )</description></snippet>

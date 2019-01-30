@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_Mac to ISO ( ${1:text} )]]></content><tabTrigger>_o_mac to iso</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_Mac to ISO ( text ) -&gt; String</description></snippet>

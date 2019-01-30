@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET PICTURE METADATA]]></content><tabTrigger>get_picture_metadata</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET PICTURE METADATA ( picture ; metaName ; metaContents {; metaName2 ; metaContents2 ; ... ; metaNameN ; metaContentsN} )</description></snippet>

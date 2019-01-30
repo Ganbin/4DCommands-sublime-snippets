@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[IMPORT SYLK ( {${1:aTable} ;} ${2:document} )]]></content><tabTrigger>import_sylk</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :IMPORT SYLK ( {aTable ;} document )</description></snippet>

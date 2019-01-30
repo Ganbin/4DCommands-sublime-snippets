@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SOAP Get info ( ${1:infoNum} )]]></content><tabTrigger>soap get info</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SOAP Get info ( infoNum ) -&gt; String</description></snippet>

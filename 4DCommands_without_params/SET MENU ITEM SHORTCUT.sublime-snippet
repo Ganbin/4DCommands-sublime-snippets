@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET MENU ITEM SHORTCUT]]></content><tabTrigger>set_menu_item_shortcut</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET MENU ITEM SHORTCUT ( menu ; menuItem ; itemKey ; modifiers {; process} )</description></snippet>

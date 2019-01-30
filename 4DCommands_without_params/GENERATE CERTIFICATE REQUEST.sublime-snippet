@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GENERATE CERTIFICATE REQUEST]]></content><tabTrigger>generate_certificate_request</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GENERATE CERTIFICATE REQUEST ( privKey ; certifRequest ; codeArray ; nameArray )</description></snippet>

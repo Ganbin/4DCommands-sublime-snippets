@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[METHOD Get attribute ( ${1:path} ; ${2:attribType} {; ${3:*}} )]]></content><tabTrigger>method get attribute</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD Get attribute ( path ; attribType {; *} ) -&gt; Boolean</description></snippet>

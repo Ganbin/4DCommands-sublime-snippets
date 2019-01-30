@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[METHOD SET CODE]]></content><tabTrigger>method_set_code</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>METHOD SET CODE ( path ; code {; *} )</description></snippet>

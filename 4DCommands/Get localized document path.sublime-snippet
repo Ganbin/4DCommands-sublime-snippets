@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get localized document path ( ${1:relativePath} )]]></content><tabTrigger>get localized document path</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get localized document path ( relativePath ) -&gt; Text</description></snippet>

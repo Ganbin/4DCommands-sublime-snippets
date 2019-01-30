@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ST Get plain text ( {${1:*} ;} ${2:object} {; ${3:refMode}} )]]></content><tabTrigger>st_get_plain_text</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :ST Get plain text ( {* ;} object {; refMode} ) -&gt; Text</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[DOM Get next sibling XML element]]></content><tabTrigger>dom_get_next_sibling_xml_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DOM Get next sibling XML element ( elementRef {; siblingElemName {; siblingElemValue}} ) -&gt; String</description></snippet>

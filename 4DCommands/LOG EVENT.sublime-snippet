@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LOG EVENT ( {${1:outputType} ;} ${2:message} {; ${3:importance}} )]]></content><tabTrigger>log event</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LOG EVENT ( {outputType ;} message {; importance} )</description></snippet>

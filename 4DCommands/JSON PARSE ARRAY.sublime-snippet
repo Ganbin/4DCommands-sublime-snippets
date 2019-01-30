@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[JSON PARSE ARRAY ( ${1:jsonString} ; ${2:array} )]]></content><tabTrigger>json parse array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>JSON PARSE ARRAY ( jsonString ; array )</description></snippet>

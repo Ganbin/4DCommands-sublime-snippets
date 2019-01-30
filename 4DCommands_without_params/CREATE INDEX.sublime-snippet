@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CREATE INDEX]]></content><tabTrigger>create_index</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>CREATE INDEX ( aTable ; fieldsArray ; indexType ; indexName {; *} )</description></snippet>

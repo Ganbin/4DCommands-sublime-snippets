@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OLD RELATED MANY ( ${1:aField} )]]></content><tabTrigger>old related many</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OLD RELATED MANY ( aField )</description></snippet>

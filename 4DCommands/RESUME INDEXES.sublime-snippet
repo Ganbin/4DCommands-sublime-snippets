@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RESUME INDEXES ( ${1:aTable} {; ${2:*}} )]]></content><tabTrigger>resume indexes</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESUME INDEXES ( aTable {; *} )</description></snippet>

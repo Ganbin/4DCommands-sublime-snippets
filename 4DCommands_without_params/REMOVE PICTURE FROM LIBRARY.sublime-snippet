@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REMOVE PICTURE FROM LIBRARY]]></content><tabTrigger>remove_picture_from_library</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>REMOVE PICTURE FROM LIBRARY ( picRef | picName )</description></snippet>

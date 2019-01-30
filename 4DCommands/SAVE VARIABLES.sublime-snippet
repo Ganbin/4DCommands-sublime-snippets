@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[SAVE VARIABLES ( ${1:document} ; ${2:variable} {; ${3:variable2} ; ${4:...} ; ${5:variableN}} )]]></content><tabTrigger>save variables</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SAVE VARIABLES ( document ; variable {; variable2 ; ... ; variableN} ) </description></snippet>

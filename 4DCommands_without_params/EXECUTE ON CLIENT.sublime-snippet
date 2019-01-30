@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[EXECUTE ON CLIENT]]></content><tabTrigger>execute_on_client</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>EXECUTE ON CLIENT ( clientName ; methodName {; param}{; param2 ; ... ; paramN} )</description></snippet>

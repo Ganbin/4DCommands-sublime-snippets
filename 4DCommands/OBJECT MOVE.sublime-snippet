@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OBJECT MOVE ( {${1:${7:*}} ;} ${2:object} ; ${3:moveH} ; ${4:moveV} {; ${5:resizeH} {; ${6:resizeV} {; *}}} )]]></content><tabTrigger>object move</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT MOVE ( {* ;} object ; moveH ; moveV {; resizeH {; resizeV {; *}}} )</description></snippet>

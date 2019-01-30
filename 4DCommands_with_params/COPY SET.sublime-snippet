@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[COPY SET ( ${1:srcSet} ; ${2:dstSet} )]]></content><tabTrigger>copy_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :COPY SET ( srcSet ; dstSet )</description></snippet>

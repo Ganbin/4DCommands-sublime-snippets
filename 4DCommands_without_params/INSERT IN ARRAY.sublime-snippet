@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[INSERT IN ARRAY]]></content><tabTrigger>insert_in_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>INSERT IN ARRAY ( array ; where {; howMany} )</description></snippet>

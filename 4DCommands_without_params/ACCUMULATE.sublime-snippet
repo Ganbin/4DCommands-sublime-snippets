@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ACCUMULATE]]></content><tabTrigger>accumulate</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ACCUMULATE ( data {; data2 ; ... ; dataN} )</description></snippet>

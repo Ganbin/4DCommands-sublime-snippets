@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RELATE ONE ( ${1:manyTable | Field} {; ${2:choiceField}} )]]></content><tabTrigger>relate one</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RELATE ONE ( manyTable | Field {; choiceField} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LIST USER FORMS ( ${1:aTable} ; ${2:form} ; ${3:userFormArray} )]]></content><tabTrigger>list user forms</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LIST USER FORMS ( aTable ; form ; userFormArray )</description></snippet>

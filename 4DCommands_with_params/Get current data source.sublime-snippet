@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get current data source]]></content><tabTrigger>get_current_data_source</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Get current data source  -&gt; String</description></snippet>

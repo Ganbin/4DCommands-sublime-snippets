@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OPEN DATABASE ( ${1:filePath} )]]></content><tabTrigger>open_database</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OPEN DATABASE ( filePath )</description></snippet>

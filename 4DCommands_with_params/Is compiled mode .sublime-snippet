@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Is compiled mode  ( ${1:*} )]]></content><tabTrigger>is_compiled_mode_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Is compiled mode {( * )} -&gt; Boolean</description></snippet>

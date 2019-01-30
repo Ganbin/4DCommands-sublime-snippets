@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Records in set ( ${1:set} )]]></content><tabTrigger>records in set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Records in set ( set ) -&gt; Longint</description></snippet>

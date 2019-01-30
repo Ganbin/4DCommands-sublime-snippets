@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Choose]]></content><tabTrigger>choose</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Choose ( criterion ; value {; value2 ; ... ; valueN} )  -&gt; Expression</description></snippet>

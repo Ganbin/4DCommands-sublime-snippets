@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CALL SUBFORM CONTAINER ( ${1:event} )]]></content><tabTrigger>call_subform_container</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CALL SUBFORM CONTAINER ( event )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OPEN URL ( ${1:path} {; ${2:appName}}{; ${3:*}} )]]></content><tabTrigger>open url</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OPEN URL ( path {; appName}{; *} )</description></snippet>

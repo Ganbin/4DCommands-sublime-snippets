@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[_o_ENABLE BUTTON ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>_o_enable_button</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :_o_ENABLE BUTTON ( {* ;} object )</description></snippet>

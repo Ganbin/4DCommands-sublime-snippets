@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get help tip ( {${1:*} ;} ${2:object} )]]></content><tabTrigger>object_get_help_tip</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT Get help tip ( {* ;} object ) -&gt; Text</description></snippet>

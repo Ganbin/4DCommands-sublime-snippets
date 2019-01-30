@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SVG SHOW ELEMENT ( {${1:*} ;} ${2:pictureObject} ; ${3:id} {; ${4:margin}} )]]></content><tabTrigger>svg_show_element</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SVG SHOW ELEMENT ( {* ;} pictureObject ; id {; margin} ) </description></snippet>

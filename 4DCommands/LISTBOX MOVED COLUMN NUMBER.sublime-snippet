@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[LISTBOX MOVED COLUMN NUMBER ( {${1:*} ;} ${2:object} ; ${3:oldPosition} ; ${4:newPosition} )]]></content><tabTrigger>listbox moved column number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX MOVED COLUMN NUMBER ( {* ;} object ; oldPosition ; newPosition )</description></snippet>

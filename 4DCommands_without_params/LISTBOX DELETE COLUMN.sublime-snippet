@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LISTBOX DELETE COLUMN]]></content><tabTrigger>listbox_delete_column</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LISTBOX DELETE COLUMN ( {* ;} object ; colPosition {; number} ) </description></snippet>

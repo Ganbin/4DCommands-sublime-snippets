@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ORDER BY]]></content><tabTrigger>order_by</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ORDER BY ( {aTable ;}{ aField }{; &gt; or &lt; }{; aField2 ; &gt; or &lt;2 ; ... ; aFieldN ; &gt; or &lt;N}{; *} )</description></snippet>

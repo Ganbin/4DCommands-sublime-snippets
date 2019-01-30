@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Is license available  ( ${1:license} )]]></content><tabTrigger>is license available </tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Is license available {( license )} -&gt; Boolean</description></snippet>

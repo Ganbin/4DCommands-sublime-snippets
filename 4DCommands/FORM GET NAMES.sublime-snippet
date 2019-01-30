@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[FORM GET NAMES ( {${1:aTable} ;} ${2:arrNames} {; ${3:filter} {; ${4:marker}}}{; ${5:*}} )]]></content><tabTrigger>form get names</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>FORM GET NAMES ( {aTable ;} arrNames {; filter {; marker}}{; *} )</description></snippet>

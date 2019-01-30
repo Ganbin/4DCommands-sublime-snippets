@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET ACTIVITY SNAPSHOT]]></content><tabTrigger>get_activity_snapshot</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET ACTIVITY SNAPSHOT ( arrActivities | arrUUID ; arrStart ; arrDuration ; arrInfo {; arrDetails}{; *} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[WA GET LAST URL ERROR]]></content><tabTrigger>wa_get_last_url_error</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WA GET LAST URL ERROR ( {* ;} object ; url ; description ; errorCode )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MODIFY SELECTION]]></content><tabTrigger>modify_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>MODIFY SELECTION ( {aTable}{; selectMode}{; enterList}{; *}{; *} )</description></snippet>

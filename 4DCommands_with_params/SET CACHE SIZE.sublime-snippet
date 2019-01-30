@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET CACHE SIZE ( ${1:size} {; ${2:minFreeSize}} )]]></content><tabTrigger>set_cache_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET CACHE SIZE ( size {; minFreeSize} )</description></snippet>

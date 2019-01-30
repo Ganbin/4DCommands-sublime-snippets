@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY TO LIST]]></content><tabTrigger>array_to_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY TO LIST ( array ; list {; itemRefs} )</description></snippet>

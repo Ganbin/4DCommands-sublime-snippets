@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Get print marker]]></content><tabTrigger>get_print_marker</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get print marker ( markNum ) -&gt; Longint</description></snippet>

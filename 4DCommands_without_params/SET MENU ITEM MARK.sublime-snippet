@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET MENU ITEM MARK]]></content><tabTrigger>set_menu_item_mark</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>SET MENU ITEM MARK ( menu ; menuItem ; mark {; process} ) </description></snippet>

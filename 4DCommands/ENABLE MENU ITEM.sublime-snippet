@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[ENABLE MENU ITEM ( ${1:menu} ; ${2:menuItem} {; ${3:process}} )]]></content><tabTrigger>enable menu item</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ENABLE MENU ITEM ( menu ; menuItem {; process} )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MULTI SORT ARRAY]]></content><tabTrigger>multi_sort_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>MULTI SORT ARRAY ( array {; sort}{; array2 ; sort2 ; ... ; arrayN ; sortN} )</description></snippet>

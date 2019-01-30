@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Request]]></content><tabTrigger>request</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Request ( message {; defaultResponse {; OKButtonTitle {; CancelButtonTitle}}} )  -&gt; String</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Pasteboard data size ( ${1:dataType} )]]></content><tabTrigger>pasteboard_data_size</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Pasteboard data size ( dataType ) -&gt; Longint</description></snippet>

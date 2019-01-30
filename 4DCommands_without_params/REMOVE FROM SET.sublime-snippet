@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[REMOVE FROM SET]]></content><tabTrigger>remove_from_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>REMOVE FROM SET ( {aTable ;} set )</description></snippet>

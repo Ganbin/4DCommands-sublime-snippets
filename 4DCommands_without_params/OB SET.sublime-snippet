@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OB SET]]></content><tabTrigger>ob_set</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB SET ( object ; property ; value {; property2 ; value2 ; ... ; propertyN ; valueN} )</description></snippet>

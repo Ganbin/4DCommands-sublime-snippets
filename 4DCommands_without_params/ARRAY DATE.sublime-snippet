@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY DATE]]></content><tabTrigger>array_date</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY DATE ( arrayName ; size {; size2} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[OB Get ( ${1:object} ; ${2:property} {; ${3:type}} )]]></content><tabTrigger>ob get</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OB Get ( object ; property {; type} ) -&gt; Expression</description></snippet>

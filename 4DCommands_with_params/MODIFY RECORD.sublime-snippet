@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[MODIFY RECORD ( {${1:aTable}}{;}{${2:*}} )]]></content><tabTrigger>modify_record</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :MODIFY RECORD ( {aTable}{;}{*} )</description></snippet>

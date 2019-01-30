@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[ARRAY BOOLEAN]]></content><tabTrigger>array_boolean</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>ARRAY BOOLEAN ( arrayName ; size {; size2} )</description></snippet>

@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[HTTP SET CERTIFICATES FOLDER ( ${1:certificatesFolder} )]]></content><tabTrigger>http set certificates folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>HTTP SET CERTIFICATES FOLDER ( certificatesFolder )</description></snippet>

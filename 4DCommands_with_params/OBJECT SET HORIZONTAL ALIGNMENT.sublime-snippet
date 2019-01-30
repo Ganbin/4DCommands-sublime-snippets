@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT SET HORIZONTAL ALIGNMENT ( {${1:*} ;} ${2:object} ; ${3:alignment} )]]></content><tabTrigger>object_set_horizontal_alignment</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :OBJECT SET HORIZONTAL ALIGNMENT ( {* ;} object ; alignment )</description></snippet>

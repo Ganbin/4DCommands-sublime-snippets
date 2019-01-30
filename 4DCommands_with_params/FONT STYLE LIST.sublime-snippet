@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FONT STYLE LIST ( ${1:fontFamily} ; ${2:fontStyleList} ; ${3:fontNameList} )]]></content><tabTrigger>font_style_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :FONT STYLE LIST ( fontFamily ; fontStyleList ; fontNameList )</description></snippet>

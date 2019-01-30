@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SQL End selection]]></content><tabTrigger>sql_end_selection</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SQL End selection  -&gt; Boolean</description></snippet>

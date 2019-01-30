@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Find in array]]></content><tabTrigger>find_in_array</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Find in array ( array ; value {; start} ) -&gt; Longint</description></snippet>

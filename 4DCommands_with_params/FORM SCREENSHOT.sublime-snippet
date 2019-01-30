@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[FORM SCREENSHOT ( {{${1:aTable} ;} ${2:formName} ;} ${3:formPict} {; ${4:pageNum}} )]]></content><tabTrigger>form_screenshot</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :FORM SCREENSHOT ( {{aTable ;} formName ;} formPict {; pageNum} ) </description></snippet>

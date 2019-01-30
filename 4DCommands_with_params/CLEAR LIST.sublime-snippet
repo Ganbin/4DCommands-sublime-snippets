@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[CLEAR LIST ( ${1:list} {; ${2:*}} )]]></content><tabTrigger>clear_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :CLEAR LIST ( list {; *} )</description></snippet>

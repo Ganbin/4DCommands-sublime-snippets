@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Split string ( ${1:stringToSplit} ; ${2:separator} {; ${3:options}} )]]></content><tabTrigger>split string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Split string ( stringToSplit ; separator {; options} ) -&gt; Collection</description></snippet>

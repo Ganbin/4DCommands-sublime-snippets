@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GENERATE ENCRYPTION KEYPAIR]]></content><tabTrigger>generate_encryption_keypair</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GENERATE ENCRYPTION KEYPAIR ( privKey ; pubKey {; length} )</description></snippet>

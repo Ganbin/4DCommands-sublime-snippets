@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[INTEGER TO BLOB ( ${1:entier} ; ${2:blob} ; ${3:ordreOctet} {; ${4:offset | *}} )]]></content><tabTrigger>integer to blob</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>INTEGER TO BLOB ( entier ; blob ; ordreOctet {; offset | *} ) </description></snippet>

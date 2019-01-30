@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[DESCRIBE QUERY EXECUTION ( ${1:status} )]]></content><tabTrigger>describe query execution</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>DESCRIBE QUERY EXECUTION ( status )</description></snippet>

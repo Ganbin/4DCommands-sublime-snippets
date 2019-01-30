@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RESOURCE LIST ( ${1:resType} ; ${2:resIDs} ; ${3:resNames} {; ${4:resFile}} )]]></content><tabTrigger>resource list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESOURCE LIST ( resType ; resIDs ; resNames {; resFile} ) </description></snippet>

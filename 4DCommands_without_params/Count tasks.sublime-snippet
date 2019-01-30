@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Count tasks]]></content><tabTrigger>count_tasks</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Count tasks  -&gt; Longint</description></snippet>

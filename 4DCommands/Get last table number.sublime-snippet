@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get last table number]]></content><tabTrigger>get last table number</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get last table number  -&gt; Longint</description></snippet>

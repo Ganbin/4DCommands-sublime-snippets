@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[GET DOCUMENT PROPERTIES]]></content><tabTrigger>get_document_properties</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>GET DOCUMENT PROPERTIES ( document ; locked ; invisible ; created on ; created at ; modified on ; modified at )</description></snippet>

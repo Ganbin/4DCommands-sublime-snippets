@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Round ( ${1:round} ; ${2:places} )]]></content><tabTrigger>round</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Round ( round ; places ) -&gt; Real</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[LOG EVENT]]></content><tabTrigger>log_event</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>LOG EVENT ( {outputType ;} message {; importance} )</description></snippet>

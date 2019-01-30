@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[WEB SET OPTION ( ${1:selector} ; ${2:value} )]]></content><tabTrigger>web set option</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>WEB SET OPTION ( selector ; value )</description></snippet>

@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT Get enterable]]></content><tabTrigger>object_get_enterable</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT Get enterable ( {* ;} object ) -&gt; Boolean</description></snippet>

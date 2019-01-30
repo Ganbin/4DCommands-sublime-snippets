@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[OBJECT SET PLACEHOLDER]]></content><tabTrigger>object_set_placeholder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>OBJECT SET PLACEHOLDER ( {* ;} object ; placeholderText )</description></snippet>

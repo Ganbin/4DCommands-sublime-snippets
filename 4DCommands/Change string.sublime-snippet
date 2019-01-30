@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Change string ( ${1:source} ; ${2:newChars} ; ${3:where} )]]></content><tabTrigger>change string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Change string ( source ; newChars ; where ) -&gt; String</description></snippet>

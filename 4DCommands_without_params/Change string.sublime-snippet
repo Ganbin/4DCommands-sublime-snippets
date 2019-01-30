@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Change string]]></content><tabTrigger>change_string</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Change string ( source ; newChars ; where ) -&gt; String</description></snippet>

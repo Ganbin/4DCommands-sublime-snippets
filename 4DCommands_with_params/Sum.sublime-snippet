@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Sum ( ${1:series} {; ${2:attributePath}} )]]></content><tabTrigger>sum</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Sum ( series {; attributePath} ) -&gt; Real</description></snippet>

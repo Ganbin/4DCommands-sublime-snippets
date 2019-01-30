@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[_o_SAVE PICTURE TO FILE ( ${1:document} ; ${2:picture} )]]></content><tabTrigger>_o_save picture to file</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>_o_SAVE PICTURE TO FILE ( document ; picture )</description></snippet>

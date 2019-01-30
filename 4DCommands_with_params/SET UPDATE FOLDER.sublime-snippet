@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[SET UPDATE FOLDER ( ${1:folderPath} {; ${2:silentErrors}} )]]></content><tabTrigger>set_update_folder</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :SET UPDATE FOLDER ( folderPath {; silentErrors} )</description></snippet>

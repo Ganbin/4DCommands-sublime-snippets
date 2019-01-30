@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[End selection  ( ${1:aTable} )]]></content><tabTrigger>end_selection_</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :End selection {( aTable )} -&gt; Boolean</description></snippet>

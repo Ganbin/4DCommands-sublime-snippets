@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Get default user]]></content><tabTrigger>get default user</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Get default user  -&gt; Longint</description></snippet>

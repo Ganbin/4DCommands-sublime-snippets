@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Copy list ( ${1:list} )]]></content><tabTrigger>copy_list</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Copy list ( list ) -&gt; ListRef</description></snippet>

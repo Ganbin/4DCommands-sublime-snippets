@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[Date ( ${1:dateString} )]]></content><tabTrigger>date</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>Date ( dateString ) -&gt; Date</description></snippet>

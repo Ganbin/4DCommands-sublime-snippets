@@ -1,1 +1,0 @@
-﻿<snippet><content><![CDATA[RESOLVE ALIAS ( ${1:aliasPath} ; ${2:targetPath} )]]></content><tabTrigger>resolve alias</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>RESOLVE ALIAS ( aliasPath ; targetPath )</description></snippet>

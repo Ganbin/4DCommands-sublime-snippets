@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[Current method name]]></content><tabTrigger>current_method_name</tabTrigger><scope>text.html.basic comment.block.html, text.xml comment.block.xml</scope><description>With Params :Current method name  -&gt; String</description></snippet>

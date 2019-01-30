@@ -13,7 +13,7 @@
 
 ### Usage
 
-You have a snippet for each 4D commands available, the attribute are there and using the "Tab" key you can navigate through the attributes.
+You have a snippet for each 4D commands available.
 
 If you want the snippets list to show while you are typing make sure to add those settings :
 
@@ -23,6 +23,14 @@ If you want the snippets list to show while you are typing make sure to add thos
 ```
 In your user settings file.
 
+You can find 2 version of the snippets which you can use at your convenience.
+
+1. With Params : The attributes are there and using the "Tab" key you can navigate through them.
+2. Without Params : Only the name of the 4D command will be there after validation a snippet.
+
+You can use one or both if you sometime like to have the attribute and sometime not.
+
+The space of the command are replaced by "_" because Sublime don't recognize a space as a part of the snippet. For example if you want to get the `LISTBOX INSERT COLUMN` you can type `listbox_insert` and you will get the command in the list
 
 ### Contributing
 

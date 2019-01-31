@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[<!--#4DCODE	${1:$SELECTION}-->]]></content><tabTrigger>4dcode</tabTrigger><scope>text.html, text.xml</scope><description>4D TAG &lt;!--#4DCODE --&gt;</description></snippet>

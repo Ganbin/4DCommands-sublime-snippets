@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[<!--#4DIF $1-->$SELECTION<!--#4DENDIF-->]]></content><tabTrigger>4dif</tabTrigger><scope>text.html, text.xml</scope><description>4D TAG &lt;!--#4DIF --&gt;&lt;!--#4DENDIF --&gt;</description></snippet>

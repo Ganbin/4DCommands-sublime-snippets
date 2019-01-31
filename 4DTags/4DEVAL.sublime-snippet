@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[\$4DEVAL($1)]]></content><tabTrigger>4deval</tabTrigger><scope>text.html, text.xml</scope><description>4D TAG $4DEVAL()</description></snippet>

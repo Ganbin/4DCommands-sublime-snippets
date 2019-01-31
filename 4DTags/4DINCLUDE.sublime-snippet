@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[<!--#4DINCLUDE $1-->]]></content><tabTrigger>4dinclude</tabTrigger><scope>text.html, text.xml</scope><description>4D TAG &lt;!--#4DINCLUDE --&gt;</description></snippet>

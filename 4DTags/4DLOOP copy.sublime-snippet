@@ -1,0 +1,1 @@
+﻿<snippet><content><![CDATA[<!--#4DLOOP $1-->$SELECTION<!--#4DENDLOOP-->]]></content><tabTrigger>4dloop</tabTrigger><scope>text.html, text.xml</scope><description>4D TAG &lt;!--#4DLOOP --&gt;&lt;!--#4DENDLOOP --&gt;</description></snippet>

@@ -15,11 +15,13 @@
 
 You have a snippet for each 4D commands available.
 
+In addition you also have each 4D Tags available as a snippet.
+
 If you want the snippets list to show while you are typing make sure to add those settings :
 
 ```
 	"auto_complete":true,
-	"auto_complete_selector": "text.html.basic comment.block.html, text.xml comment.block.xml"
+	"auto_complete_selector": "text.html,text.html.basic comment.block.html, text.xml,text.xml comment.block.xml"
 ```
 In your user settings file.
 
@@ -31,6 +33,8 @@ You can find 2 version of the snippets which you can use at your convenience.
 You can use one or both if you sometime like to have the attribute and sometime not.
 
 The space of the command are replaced by "_" because Sublime don't recognize a space as a part of the snippet. For example if you want to get the `LISTBOX INSERT COLUMN` you can type `listbox_insert` and you will get the command in the list
+
+For more information please refere to [4D Doc - 4D Transformation Tags](https://doc.4d.com/4Dv17R3/4D/17-R3/4D-Transformation-Tags.300-3907284.en.html#2880084)
 
 ### Contributing
 

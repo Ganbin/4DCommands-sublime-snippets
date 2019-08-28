@@ -7,6 +7,7 @@
 1. Open the Sublime Text packages folder
 
     `~/Library/Application\ Support/Sublime\ Text\ 3/Packages` or "Sublime Text > Preferences > Browse Packages..." on Mac
+    
     `%AppData%\Sublime Text 3\Packages\User` or "Sublime Text > Preferences > Browse Packages..." on Windows
 
 2. Download the repository and put it in the "User" folder
